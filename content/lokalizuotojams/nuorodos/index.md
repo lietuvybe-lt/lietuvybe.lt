@@ -10,8 +10,8 @@ menu:
         parent: Lokalizuotojams
 ---
 
-* [Rekomendacijos ir priemonės, naudingos verčiant laisvąją programinę įrangą](https://translate.sourceforge.net/)
-    * [Lokalizavimo vadovas](https://docs.translatehouse.org/projects/localization-guide/en/latest/)
+* [„Translate House“ atviroji programinė įranga lokalizuotojams](http://translatehouse.org/)
+* Tos pačios komandos parašytas [lokalizavimo vadovas](https://docs.translatehouse.org/projects/localization-guide/en/latest/)
 
 Literatūra
 ----------
@@ -32,8 +32,9 @@ Literatūra
 Galimai pasenusios (bet veikiančios) nuorodos
 ---------------------------------------------
 
-* [Vertimo pradžiamokslis](http://web.archive.org/web/20070217113704/http://www.akl.lt/skaitykla/dokumentacija/?doc=vertimas.html)
-  AKL svetainėje (archyvinė kopija)
+* [Laisvųjų programų vertimo pradžiamokslis](http://web.archive.org/web/20070217113704/http://www.akl.lt/skaitykla/dokumentacija/?doc=vertimas.html)
+  organizacijos „Atviras kodas Lietuvai“ svetainėje _(archyvinė kopija)_. Jame apžvelgiama „Gettext“ vertimo failų (`.po`
+  ir `.pot`) struktūra, aprašoma keletas komandų darbui su šiais failais
 * Didelis [po failas](liet.po.gz), turintis virš 12208 vertimų eilučių. Galima tiesiog pasiieškoti tikrų žodžių ar
   sakinių. Kažkada turėtų atsirasti [terminų žodyne]({{< ref "/lokalizuotojams/žodynas" >}})
 * [Keletas skriptukų](potools.tar.gz), kuriuos Gediminas Paulauskas naudodavo vertimui palengvinti
