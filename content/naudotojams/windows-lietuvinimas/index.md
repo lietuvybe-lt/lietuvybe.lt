@@ -50,7 +50,7 @@ sistemos versiją lietuvių kalbą.
 Tam [iš „Microsoft“ svetainės](https://www.microsoft.com/lt-lt/software-download "Programinės įrangos atsisiuntimas – microsoft.com")
 reikėtų parsisiųsti ISO atvaizdį ar savarankiško įdiegimo laikmenos pasigaminimo priemonę.
 
-![Sulietuvintos „Windows 11“ ekrano nuotrauka](Win11lt.png)
+![Sulietuvintos „Windows 11“ ekrano nuotrauka](Win11lt.png "Sulietuvintos „Windows 11“ ekrano nuotrauka")
 
 Ankstesnės „Windows“ versijos
 -----------------------------
@@ -82,7 +82,7 @@ suveikė). „Vistalizator“ svetainėje buvo pateikta ir
 instrukcija, [kaip pasigaminti „Windows“ įdiegimo diską su keliomis kalbomis](https://web.archive.org/web/20210125224004/https://www.froggie.sk/dvd.html "Make your own Multilanguage installation DVD for Windows Vista or Windows 7 – froggie.sk")
 (anglų kalba).
 
-![Sulietuvintos „Windows 7“ valdymo skydas](Win7lt.png)
+![Sulietuvintos „Windows 7“ valdymo skydas](Win7lt.png "Sulietuvintos „Windows 7“ valdymo skydas")
 
 ### Windows XP
 
@@ -94,4 +94,4 @@ iš naujo paleidus kompiuterį, šis prabildavo lietuviškai.
 MUI), suteikiančius galimybę kiekvienam kompiuterio naudotojui naudotis skirtinga „Windows“ sąsajos kalba. Deja, namų
 naudotojams tokia galimybė nebuvo suteikiama.
 
-![Sulietuvintos „Windows XP“ valdymo skydas](WinXPlt.gif)
+![Sulietuvintos „Windows XP“ valdymo skydas](WinXPlt.gif "Sulietuvintos „Windows XP“ valdymo skydas")

@@ -14,7 +14,7 @@ Apie 2010–2012-uosius metus net keletas entuziastų nepriklausomai vieni nuo k
 tuometinėms „iOS“ versijoms. Deja, panašu, jog šie darbai nebetęsiami. Žemiau pateikiama vieno iš tokių neoficialių
 „iOS“ vertimų nuotrauka.
 
-![Sulietuvinta „iPhone“ sąsaja](iOS_lt.jpg)
+![Sulietuvinta „iPhone“ sąsaja](iOS_lt.jpg "Sulietuvinta „iPhone“ sąsaja")
 
 Rašymas lietuviškai „iOS“ įrenginiais
 =====================================

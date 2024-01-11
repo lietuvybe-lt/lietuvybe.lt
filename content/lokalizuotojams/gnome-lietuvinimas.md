@@ -20,7 +20,7 @@ taip:
    vienu metu);
 3. parsisiunčiate .po failą, jį išverčiate ir nusiunčiate vertimą atgal į programos (modulio) skyrelį.
 
-_**Didelis prašymas: praneškite apie vertimų klaidas, rašykit pasiūlymus ir t.t.! Ačiū už pagalbą.**_
+_**Didelis prašymas: praneškite apie vertimų klaidas, rašykit pasiūlymus ir t. t.! Ačiū už pagalbą.**_
 
 Jei dar tik pradedate savo kaip „Gnome“ vertėjo kelionę, būtinai paskaitykite [apie daugiskaitos formas vertimuose]({{<
 ref "/lokalizuotojams/daugiskaitos-formos" >}}).

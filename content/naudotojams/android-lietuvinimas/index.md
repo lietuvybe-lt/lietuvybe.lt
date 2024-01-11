@@ -21,7 +21,8 @@ rasti [„Androidmanijos“ forume](http://www.androidmanija.lt/forum/). Deja, b
 patobulinto „Androido“ gali ir nebūti. Be to, derėtų nepamiršti, jog, perrašant operacinę sistemą neoficialiu būdu,
 galima prarasti įrenginio garantiją ar net jį sugadinti.
 
-![Sulietuvinta „Android“ sąsaja](android-lt1.png) ![Sulietuvintos „Android“ nuostatų ekranas](android-lt2.png)
+![Sulietuvinta „Android“ sąsaja](android-lt1.png "Sulietuvinta „Android“ sąsaja")
+![Sulietuvintos „Android“ nuostatų ekranas](android-lt2.png "Sulietuvintos „Android“ nuostatų ekranas")
 
 Rašymas lietuviškai „Android“ įrenginiais
 =========================================
@@ -37,7 +38,7 @@ kodo [„AnySoftKeyboard“](https://play.google.com/store/apps/details?id=com.m
 skirtą [lietuviškų išdėstymų paketą](https://play.google.com/store/apps/details?id=org.herrlado.ask.languagepack.lithuanian) –
 jame rasite net keletą lietuviškų išdėstymų, iš kurių galėsite pasirinkti labiausiai patinkantį.
 
-![„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu](android_anysoftkeyboard.png)
+![„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu](android_anysoftkeyboard.png "„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu")
 
 Rašymas fizine klaviatūra
 -------------------------
