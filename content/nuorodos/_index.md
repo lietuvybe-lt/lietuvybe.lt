@@ -25,8 +25,6 @@ Lietuviškos virtualios klaviatūros internete
 * [Gate2Home](http://gate2home.com/Lithuanian-Keyboard)
 * [KeymanWeb](https://keymanweb.com/#lt)
 
-[//]: # (* [Litetype]&#40;http://litetype.com/?keyboard=lithuanian&amp;style=blue&#41;)
-
 Nuorodų archyvas
 ----------------
 
