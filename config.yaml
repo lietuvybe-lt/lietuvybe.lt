@@ -7,6 +7,11 @@ permalinks:
     page:
         /: /:slug/
 #uglyURLs: true # use .html suffix instead of a trailing slash
+markup:
+    goldmark:
+        parser:
+            attribute:
+                block: true
 params:
     description: Lietuvių kalba informacinėse technologijose
     subtitle: Lietuvių kalba informacinėse technologijose

@@ -26,7 +26,7 @@ Nemažą žodynų sąrašą yra sudaręs svetainės [www.zodynai.org](http://www
 * [„ANGLONAS“](http://anglonas.fotonija.lt/) – UAB „Fotonijos“ kuriamas lietuvių–anglų–lietuvių kompiuterinis žodynas.
   „ANGLONĄ“ galima įsigyti „Windows“, „Mac“ ir „Android“ ir „iPhone“ programų pavidalu. Seniau „Fotonija“ platino ir
   daugiau žodynų „Windows“ sistemoms, tarp jų ir lietuvių–prancūzų–lietuvių žodyną „FRANKONAS“, tačiau panašu, jog šių
-  produktų vystymas ir platinimas nutrauktas.
+  produktų vystymas ir platinimas nutrauktas.  
   ![„ANGLONO“ ekrano nuotrauka](Anglonas.png "„ANGLONO“ ekrano nuotrauka")
 * [„OpenDict“](http://opendict.sourceforge.net/) yra laisva (atviro kodo) žodynų programa. Ja galima dirbti su žodynais
   atvirais formatais: „DICT“, „TMX“, „Mova“, „Slowo“. Taip pat - „LED“ anglų-lietuvių, lietuvių–anglų,

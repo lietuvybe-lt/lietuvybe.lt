@@ -30,22 +30,28 @@ Rašymas lietuviškai „Android“ įrenginiais
 Rašymas ekranine klaviatūra
 ---------------------------
 
-Dauguma „Android“ įrenginių galima rašyti lietuviškai. Deja, neretai tai nepatogu: dažnu atveju specifinės lietuviškos
-raidės ekraninėse klaviatūrose pasiekiamos tik ilgai palaikius pamatinę raidę (pvz., norint parašyti „Ą“, reikia ilgai
-palaikyti ekraninės klaviatūros klavišą „A“). Laimei, „Android“ įrenginiuose galima diegti papildomas ekranines
-klaviatūras. Jei norite savo telefone naudotis patogesne klaviatūra, siūlome išbandyti atvirojo
-kodo [„AnySoftKeyboard“](https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard) bei jai
-skirtą [lietuviškų išdėstymų paketą](https://play.google.com/store/apps/details?id=org.herrlado.ask.languagepack.lithuanian) –
-jame rasite net keletą lietuviškų išdėstymų, iš kurių galėsite pasirinkti labiausiai patinkantį.
-
 ![„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu](android_anysoftkeyboard.png "„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu")
+{.alignright}
+
+Dauguma „Android“ įrenginių galima rašyti lietuviškai. Deja, neretai tai nepatogu, nes specifinės lietuviškos raidės
+ekraninėse klaviatūrose būna pasiekiamos tik ilgai palaikius pamatinę raidę (pvz., norint parašyti „Ą“, reikia ilgai
+palaikyti ekraninės klaviatūros klavišą „A“). Laimei, „Android“ įrenginiuose galima diegti papildomas ekranines
+klaviatūras. Jei jūsų telefono gamyklinė ekraninė klaviatūra jūsų netenkina ir norite naudotis patogesne, siūlome
+išbandyti atvirojo kodo [„AnySoftKeyboard“](https://anysoftkeyboard.github.io/) bei jai skirtą
+[lietuviškų išdėstymų paketą](https://anysoftkeyboard.github.io/languages/) – jame rasite net keletą lietuviškų
+išdėstymų, iš kurių galėsite pasirinkti labiausiai patinkantį.
 
 Rašymas fizine klaviatūra
 -------------------------
 
-Norint prie „Android“ įrenginio prijungti fizinę klaviatūrą, aukščiau minėto paketo nepakaks. Jei naudojatės 5.0 ar
-aukštesnės versijos „Android“ sistema, savo įrenginį susieję su išorine klaviatūra, norimą jos išdėstymą galėsite
-pasirinkti įrenginio kalbinių nustatymų skyriaus poskyryje „Fizinė klaviatūra“.
+Norint prie „Android“ įrenginio prijungti fizinę klaviatūrą, „AnySoftKeyboard“ klaviatūros nepakaks. Jei naudojatės 5.0
+ar aukštesnės versijos „Android“ sistema, savo įrenginį susieję su išorine klaviatūra, norimą jos išdėstymą galėsite
+pasirinkti įrenginio kalbinių nustatymų skyriaus poskyryje „Fizinė klaviatūra“. Visgi, gamykliškai šiame sąraše
+yra tik vienas lietuviškas išdėstymas – skaitmenų eilės. Jei esate įpratę prie vieno iš ĄŽERTY išdėstymų, panašu kad jį
+galite turėti jau dabar, įdiegę
+[papildomų fizinių klaviatūrų išdėstymų paketą](https://github.com/calin-darie/extra-keyboard-layouts)
+o jei naudojatės LEKP ar kita egzotika – pirma matyt turėsite kreiptis į autorių su prašymu, kad jis jūsų išdėstymą į šį
+paketą pridėtų.
 
 Jei naudojatės žemesne nei 5.0 „Android“ versija, tuomet atskiro nustatymų skyrelio fizinei klaviatūrai nerasite – jos
 kalba bus sinchronizuojama su pasirinktos ekraninės klaviatūros kalba. Deja, dauguma ekraninių klaviatūrų neturi jokio

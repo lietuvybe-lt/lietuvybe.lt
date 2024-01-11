@@ -109,7 +109,7 @@ Virtualios klaviatūros
 ----------------------
 
 Jeigu kompiuteryje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
-lietuviškai vis tiek norisi, skyrelyje[„Nuorodos“](http://xn--lietuvyb-ceb.lt/nuorodos/) rasite nuorodų į keletą
+lietuviškai vis tiek norisi, skyrelyje[„Nuorodos“]({{< relref "/nuorodos" >}}) rasite nuorodų į keletą
 virtualių klaviatūros išdėstymų, veikiančių tiesiog interneto naršyklėje.
 
 Lipdukai klaviatūroms

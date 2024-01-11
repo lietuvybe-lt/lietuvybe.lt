@@ -33,4 +33,4 @@ Stambesnių atvirojo kodo programinių paketų vertėjai neretai turi atskiras t
 diskutuoja tarpusavyje (pvz., [„Gnome“](http://l10n.gnome.org/languages/lt), [„KDE“](http://kde.akl.lt/?page_id=34)).
 Nusprendę prisidėti prie tokių produktų vertimo, būtinai pasidomėkite, kokias priemones jų vertėjai naudoja tarpusavio
 bendravimui. Nuorodas į kai kurių produktų vertėjų svetaines rasite
-skyrelyje [„Nuorodos lokalizuotojams“](http://xn--lietuvyb-ceb.lt/lokalizuotojams/nuorodos-lokalizuotojams/).
+skyrelyje [„Nuorodos lokalizuotojams“]({{< relref "/lokalizuotojams/nuorodos" >}}).

@@ -11,6 +11,9 @@ menu:
         parent: Naudotojams
 ---
 
+![SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais](sms_lt.png "SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais")
+{.alignright}
+
 Praėjusio tūkstantmečio pabaigoje greitai pradėję plisti mobilieji telefonai iš pradžių neturėjo galimybės rašyti ir
 atvaizduoti specifinių lietuviškų raidžių SMS pranešimuose. SMS raidyną tuo metu sudarė tik baziniai lotyniški rašmenys
 ir keletas kitų simbolių, neaktualių mūsų raštui. Dėl šios priežasties Lietuvoje susiklostė tradicija SMS siųsti
@@ -22,8 +25,6 @@ organizacijos – vis dar yra linkę siųsti „sveplus“ SMS pranešimus savo 
 patikimumu ir kaina. Pabandysime paanalizuoti šiuos argumentus ir įrodyti, jog **lietuviškai rašyti SMS pranešimus
 tikrai galima**. Beje, taisyklingai rašyti klientams siunčiamus SMS pranešimus jau nuo 2012
 metų [reikalauja ir Valstybinė kalbos inspekcija bei Valstybinė lietuvių kalbos komisija](https://www.vlkk.lt/naujienos/kitos-naujienos/del-lietuvisko-raidyno-informacinese-trumposiose-zinutese-sms "Valstybinė lietuvių kalbos komisija – Dėl lietuviško raidyno informacinėse trumposiose žinutėse (SMS)").
-
-![SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais](sms_lt.png "SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais")
 
 Patogumas
 ---------
