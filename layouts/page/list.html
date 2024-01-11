@@ -1,0 +1,39 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+		<header class="main__header">
+			<h1 class="main__title">{{ . }}</h1>
+		</header>
+	{{- end }}
+	{{- with .Content }}
+		<div class="content main__content clearfix">
+			{{ . }}
+		</div>
+	{{- end }}
+	{{- if .Site.Menus.main }}
+		{{- $currentNode := . }}
+		{{- range .Site.Menus.main }}
+			{{ if and (.Name) ($currentNode.IsMenuCurrent "main" . ) (.HasChildren) }}
+				<div class="post__toc toc">
+					{{ if compare.Ne .URL "/" }}
+						<div class="toc__title">{{ T "toc_title" }}</div>
+					{{ end }}
+					<div class="toc__menu">
+						<nav>
+							<ul>
+								{{ range .Children }}
+								<li>
+									<a href="{{ .URL }}" rel="bookmark">
+										{{ .Title }}
+									</a>
+								</li>
+								{{- end }}
+							</ul>
+						</nav>
+					</div>
+				</div>
+			{{ end}}
+		{{ end}}
+	{{ end}}
+</main>
+{{ end }}
