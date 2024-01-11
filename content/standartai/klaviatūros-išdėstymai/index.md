@@ -100,9 +100,10 @@ buvo užmirštas ir niekam nebeįdomus. Galbūt šią nesėkmę iš dalies nulė
 žymėjimą, bet ne jų veikimo būdą. Kaip matyti iš iliustracijos, apatinėje klavišų eilėje buvo numatyti net keturi
 klaviatūros lygiai (arba dvi grupės po du lygius), tačiau labai tikėtina, jog išdėstymą realizuojant DOS terpei skirtose
 tvarkyklėse, trečiasis ir ketvirtasis lygis buvo praleisti, o šitaip „apkarpytu“ išdėstymu, neužsiimant nuolatiniu jo
-perjungimu, būtų buvę kone neįmanoma naudotis. Be
-to, [bent jau LEKP išdėstymo autorių teigimu](https://lekp.info/RST1092), net ir teisingai realizavus, šis išdėstymas
-nėra labai ergonomiškas.
+perjungimu, būtų buvę kone neįmanoma naudotis. Be to, [tiek LEKP išdėstymo autorių teigimu](https://lekp.info/RST1092),
+tiek remiantis
+[„Ratisės“ autoriaus atliktais skaičiavimais](https://albuck.github.io/lithuanian-keyboard-layouts/lt-isdestymu-patikros.html), 
+net ir teisingai realizuotas, šis išdėstymas nebūtų labai ergonomiškas.
 
 Įdomu, jog greta ergonominio išdėstymo šiame standarte rekomenduojamo priedo pavidalu buvo pateiktas „QWERTY
 klaviatūros, papildytos lietuviškomis raidėmis“ brėžinys, tapęs populiariojo Skaitmenų eilės išdėstymo prototipu.
