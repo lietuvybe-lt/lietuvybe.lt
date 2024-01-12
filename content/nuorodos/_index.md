@@ -11,8 +11,6 @@ menu:
 
 * [Lietuvių kalbos problemos kompiuteriuose](http://ims.mii.lt/kalba/) – MII Informatikos metodologijos skyriaus
   darbuotojų straipsniai spaudoje.
-* [Mariaus Gedmino svetainėje](http://gedmin.as/) yra keletas naudingų programėlių ir failų darbui su lietuvybe. Jo
-  pagalba labai svarbi, kad Linux'e mažiau problemų su lietuvybe.
 * [ViM](http://www.vim.org/) tekstų redaktoriaus [lietuviškas pradžiamokslis](vim-tutor-lt.txt).
 * [Rasyba.lt](http://www.rasyba.lt/) – lietuviškos rašybos tikrinimas online.
 * [„Locale Emulator“](https://xupefei.github.io/Locale-Emulator/) – nedidelė programėlė, padedanti paleisti
