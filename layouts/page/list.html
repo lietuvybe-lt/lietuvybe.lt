@@ -13,11 +13,11 @@
 	{{- if .Site.Menus.main }}
 		{{- $currentNode := . }}
 		{{- range .Site.Menus.main }}
-			{{ if and (.Name) ($currentNode.IsMenuCurrent "main" . ) (.HasChildren) }}
+			{{- if and (.Name) ($currentNode.IsMenuCurrent "main" . ) (.HasChildren) }}
 				<div class="post__toc toc">
-					{{ if compare.Ne .URL "/" }}
+					{{- if compare.Ne .URL "/" }}
 						<div class="toc__title">{{ T "toc_title" }}</div>
-					{{ end }}
+					{{- end }}
 					<div class="toc__menu">
 						<nav>
 							<ul>
@@ -32,8 +32,8 @@
 						</nav>
 					</div>
 				</div>
-			{{ end}}
-		{{ end}}
-	{{ end}}
+			{{- end}}
+		{{- end}}
+	{{- end}}
 </main>
-{{ end }}
+{{- end }}
