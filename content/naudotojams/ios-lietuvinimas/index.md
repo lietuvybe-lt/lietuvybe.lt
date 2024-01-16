@@ -43,12 +43,12 @@ Norint lietuviškai rašyti prie „iPhone“ ar „iPad“ prijungta fizine kla
 išdėstymą įrenginio nuostatose. Tai galite atlikti tokiu būdu:
 1. prijunkite išorinę klaviatūrą prie įrenginio;
 2. atverkite programą **Settings**;
-3. kairiajame šone pasirinkite punktą **General**;
-4. dešiniajame šone suraskite ir pasirinkite punktą **Keyboard**;
-5. dešiniajame šone pasirinkite punktą **Hardware Keyboard**. Jei šio punkto nematote, įsitikinkite, jog fizinė
+3. kairiajame polangyje pasirinkite punktą **General**;
+4. dešiniajame polangyhe suraskite ir pasirinkite punktą **Keyboard**;
+5. dešiniajame polangyje pasirinkite punktą **Hardware Keyboard**. Jei šio punkto nematote, įsitikinkite, jog fizinė
    klaviatūra tinkamai prijungta ir / ar suporuota su jūsų įrenginiu (t. y., ja galite rašyti kuria nors kita kalba);
-6. dešiniajame šone pats pirmas meniu punktas rodys šiuo metu pasirinktą klaviatūros išdėstymą. Spustelėję jį, vietoje
-   jo sąraše susiraskite ir pasirinkite punktą **Lithuanian**;
+6. dešiniajame polangyje pats pirmas meniu punktas rodys šiuo metu pasirinktą klaviatūros išdėstymą. Spustelėję jį,
+   vietoje jo sąraše susiraskite ir pasirinkite punktą **Lithuanian**;
 7. užverkite programą.
 
 Visi „Apple“ įrenginiai gamykliškai išleidžiami tik su vienu lietuvišku fizinės klaviatūros išdėtymu – tai senąja

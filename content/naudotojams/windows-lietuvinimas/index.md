@@ -31,7 +31,7 @@ sulietuvinti. Jei šiuo metu jūsų „Windows“ sąsaja yra angliška ir norit
 1. atverkite pradžios meniu (bakstelėkite mygtuką su „Windows“ logotipu, esantį ekrano apatiniame kairiajame kampe) ir
    pasirinkite šio meniu punktą **Settings**;
 2. atsivėrusiame lange pasirinkite punktą **Time & language**;
-3. kairiajame šone pasirinkite skyrių **Region & language** – taip pamatysite šiuo metu įdiegtų kalbų sąrašą;
+3. kairiajame polangyje pasirinkite skyrių **Region & language** – taip pamatysite šiuo metu įdiegtų kalbų sąrašą;
 4. **jeigu lietuvių kalbos nėra įdiegtų kalbų sąraše**, bakstelėkite mygtuką **Add a language**, atsiradusiame kalbų
    sąraše suraskite lietuvių kalbą ir bakstelėkite ją;
 5. **jei ties lietuvių kalba matote užrašą „Language pack available“**, nuspauskite ties ja esantį mygtuką **Options**,
