@@ -1,6 +1,7 @@
 ---
 title: Lietuvybė elektroniniame pašte
 type: page
+date: 2012-06-28
 aliases:
     - /naudotojams/lietuvybe-elektroniniame-paste/
 menu:
