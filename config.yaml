@@ -9,6 +9,8 @@ permalinks:
 #uglyURLs: true # use .html suffix instead of a trailing slash
 markup:
     goldmark:
+        renderer:
+            unsafe: true # Allow HTML tags in MarkDown
         parser:
             attribute:
                 block: true
