@@ -19,7 +19,9 @@ params:
     subtitle: Lietuvių kalba informacinėse technologijose
     copyright: Lietuvybė.lt komanda
     mainSections: [ ]
-    date_format: :date_long
+    dateFormat: :date_long
+    post_meta:
+        - date
     customCss: [ 'css/custom.css' ]
     style:
         vars:
