@@ -1,7 +1,6 @@
 ---
 title: „Android“ lietuvinimas
 type: page
-lastmod: 2022-06-14
 menu:
     main:
         weight: 50

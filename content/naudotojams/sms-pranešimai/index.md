@@ -2,7 +2,7 @@
 title: Lietuvybė SMS pranešimuose
 linkTitle: SMS pranešimai
 type: page
-lastmod: 2017-09-18
+date: 2012-09-17
 aliases:
     - /naudotojams/lietuvybe-sms-pranesimuose/
 menu:

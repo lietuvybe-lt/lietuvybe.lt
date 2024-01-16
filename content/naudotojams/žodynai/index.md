@@ -1,7 +1,6 @@
 ---
 title: Žodynai
 type: page
-lastmod: 2022-05-02
 aliases:
     - /naudotojams/zodynai
 menu:

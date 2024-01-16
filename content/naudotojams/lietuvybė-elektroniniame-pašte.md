@@ -1,7 +1,6 @@
 ---
 title: Lietuvybė elektroniniame pašte
 type: page
-lastmod: 2018-04-11
 aliases:
     - /naudotojams/lietuvybe-elektroniniame-paste/
 menu:

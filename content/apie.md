@@ -1,7 +1,6 @@
 ---
 title: Apie šią svetainę
 type: page
-lastmod: 2023-08-16
 aliases:
     - /apie/
 menu:

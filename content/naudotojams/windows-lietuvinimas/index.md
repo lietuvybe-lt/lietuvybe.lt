@@ -1,7 +1,6 @@
 ---
 title: „Windows“ lietuvinimas
 type: page
-lastmod: 2023-11-13
 menu:
     main:
         weight: 40

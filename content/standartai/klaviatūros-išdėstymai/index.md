@@ -1,7 +1,6 @@
 ---
 title: Klaviatūros išdėstymai
 type: page
-lastmod: 2022-06-09
 menu:
     main:
         weight: 30

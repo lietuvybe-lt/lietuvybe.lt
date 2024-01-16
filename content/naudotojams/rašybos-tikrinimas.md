@@ -2,7 +2,6 @@
 title: Lietuviškos rašybos tikrinimo priemonės
 linkTitle: Rašybos tikrinimas
 type: page
-lastmod: 2023-12-14
 aliases:
     - /naudotojams/rasybos-tikrinimas/
 menu:

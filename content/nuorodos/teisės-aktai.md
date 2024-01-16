@@ -1,7 +1,6 @@
 ---
 title: Teisės aktai ir nutarimai
 type: page
-lastmod: 2015-10-08
 aliases:
     - /nuorodos/teises-aktai
 menu:

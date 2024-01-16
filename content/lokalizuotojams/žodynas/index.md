@@ -1,7 +1,6 @@
 ---
 title: Žodynas
 type: page
-lastmod: 2017-01-20
 aliases:
     - /lokalizuotojams/zodynas/
 menu:

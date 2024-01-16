@@ -1,7 +1,6 @@
 ---
 title: „Gnome“ lietuvinimas
 type: page
-lastmod: 2021-05-20
 menu:
     main:
         weight: 40

@@ -1,7 +1,6 @@
 ---
 title: Rašmenų koduotės
 type: page
-lastmod: 2019-02-23
 aliases:
     - /standartai/rašmenų-koduočių-standartai/
 menu:

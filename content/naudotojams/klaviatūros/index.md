@@ -2,7 +2,6 @@
 title: Lietuviškos klaviatūros
 linkTitle: Klaviatūros
 type: page
-lastmod: 2023-12-14
 aliases:
     - /naudotojams/klaviaturos/
 menu:

@@ -1,7 +1,6 @@
 ---
 title: Daugiskaitos formos
 type: page
-lastmod: 2015-10-08
 aliases:
     - /lokalizuotojams/gramatines-formos/
 menu:

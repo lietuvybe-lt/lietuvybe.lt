@@ -1,7 +1,6 @@
 ---
 title: Forumai
 type: page
-lastmod: 2019-02-17
 menu:
     main:
         weight: 10

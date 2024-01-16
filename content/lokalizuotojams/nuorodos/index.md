@@ -1,7 +1,6 @@
 ---
 title: Nuorodos lokalizuotojams
 type: page
-lastmod: 2022-06-14
 aliases:
     - /nuorodos/nuorodos-lokalizuotojams/
 menu:

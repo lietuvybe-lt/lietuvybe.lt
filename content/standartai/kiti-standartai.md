@@ -1,7 +1,6 @@
 ---
 title: Kiti standartai
 type: page
-lastmod: 2019-02-23
 menu:
     main:
         weight: 40

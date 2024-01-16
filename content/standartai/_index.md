@@ -1,7 +1,6 @@
 ---
 title: Standartai
 type: page
-lastmod: 2019-02-24
 menu:
     main:
         weight: 30

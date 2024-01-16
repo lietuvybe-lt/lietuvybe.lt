@@ -2,7 +2,7 @@
 title: Gražūs internetiniai vardai. Kaip išsaugoti jų grožį?
 linkTitle: Lietuvybė tinklalapių adresuose
 type: page
-lastmod: 2022-06-14
+date: 2021-09-12
 menu:
     main:
         weight: 90

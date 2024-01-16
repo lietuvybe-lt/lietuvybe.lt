@@ -1,7 +1,6 @@
 ---
 title: Pradžia
 type: page
-lastmod: 2013-06-27
 menu:
     main:
         weight: 10

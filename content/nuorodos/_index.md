@@ -1,7 +1,6 @@
 ---
 title: Nuorodos
 type: page
-lastmod: 2023-07-31
 menu:
     main:
         weight: 40
