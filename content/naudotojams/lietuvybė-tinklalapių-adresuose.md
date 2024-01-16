@@ -38,8 +38,8 @@ naršyklei.
 
 Tarkime, kad naršydami po internetą aptinkame svetainę, kurios adrese, matomame adresų juostoje, yra savitųjų lietuviškų
 raidžių, pavyzdžiui, _http&colon;//raštija.lt_. Jį nukopijuojame ir, bandydami įrašyti į kurį nors tekstą, pavyzdžiui,
-programos „Word“ dokumentą, kartais galime gauti _http&colon;//www.xn--ratija-ckb.lt_. Vardas raštija ne tik prarado grožį,
-bet ir tapo neįskaitomas. Kas tai? Gal kopijavimo klaida?
+programos „Word“ dokumentą, kartais galime gauti _http&colon;//www.xn&#x2d;&#x2d;ratija-ckb.lt_. Vardas raštija ne tik
+prarado grožį, bet ir tapo neįskaitomas. Kas tai? Gal kopijavimo klaida?
 
 Tai naršyklės klaida. Švelniau tariant – naršyklės neprisitaikymas prie šiuolaikinių realijų.
 
