@@ -7,9 +7,6 @@ menu:
         parent: Standartai
 ---
 
-Klaviatūros išdėstymai
-======================
-
 Lietuvoje naudojama keletas klaviatūros išdėstymų. Paradoksalu, bet populiariausias jų – skaitmenų eilės išdėstymas –
 nėra standartizuotas. Žemiau rasite informaciją apie du pagrindinius Lietuvoje naudojamus klaviatūros išdėstymus bei
 apie anksčiau buvusius standartizuotus išdėstymus.
