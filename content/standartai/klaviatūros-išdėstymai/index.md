@@ -19,7 +19,7 @@ LST 1582 (lietuviška standartinė klaviatūra)
 
 ![Standartinės klaviatūros išdėstymo schema](LST_1582_klaviatūra.png)
 
-_**Lietuvos standartas LST 1582:2012. Informacinės technologija. Lietuviška kompiuterio klaviatūra. Ženklų
+_**Lietuvos standartas LST 1582:2012. Informacinės technologijos. Lietuviška kompiuterio klaviatūra. Ženklų
 išdėstymas.**_
 
 Standartas apibrėžia galimų įvesti ženklų aibę, išdėstymą kompiuterio klaviatūroje, užrašus ant klavišų. Ženklų aibė
