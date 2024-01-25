@@ -14,7 +14,7 @@ apie anksčiau buvusius standartizuotus išdėstymus.
 LST 1582 (lietuviška standartinė klaviatūra)
 --------------------------------------------
 
-![Standartinės klaviatūros išdėstymo schema](LST_1582_klaviatūra.svg)
+![Standartinės klaviatūros išdėstymo schema](LST_1582_klaviatūra.png)
 
 _**Lietuvos standartas LST 1582:2012. Informacinės technologijos. Lietuviška kompiuterio klaviatūra. Ženklų
 išdėstymas.**_
