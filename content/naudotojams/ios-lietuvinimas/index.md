@@ -7,13 +7,13 @@ menu:
         parent: Naudotojams
 ---
 
-„iOS“ ir „iPadOS“ kalbinių parametrų grupę rasite nuostatų programos **Settings** skyrelyje **General**. Deja, visi
-„Apple“ gaminiai iki šiol pasižymi tik minimaliu lietuvių kalbos palaikymu, tačiau nė vienas iš jų neturi net pusėtino
-sulietuvinimo, tad net ir pasirinkus tinkamiausias lietuvių kalbai nuostatas, įrenginys su jumis ir toliau bendraus
-anglų ar kita kalba.
 
 ![Sulietuvinta „iPhone“ sąsaja](iOS_lt.jpg "Sulietuvinta „iPhone“ sąsaja")
 {.alignright}
+
+„iOS“ ir „iPadOS“ kalbinių parametrų grupę rasite nuostatų programos **Settings** skyrelyje **General**. Deja, visi
+„Apple“ gaminiai iki šiol neturi nė pusėtino sulietuvinimo, tad net ir pasirinkus tinkamiausias lietuvių kalbai
+nuostatas, įrenginys su jumis ir toliau bendraus anglų ar kita kalba.
 
 Apie 2010–2012-uosius metus net keletas entuziastų nepriklausomai vieni nuo kitų buvo sukūrę sulietuvinimo paketus
 tuometinėms „iOS“ versijoms. Nuotraukoje matote vieną iš tokių neoficialių vertimų. Vėlesnėse versijose matyt nelikus
@@ -35,22 +35,17 @@ ekranines klaviatūras, ir lietuvis Linas Valiukas yra sukūręs [klaviatūrą �
 atskiroje klavišų eilutėje pateikiančią visas specifines lietuviškas raides. Jei norite savo „iPhone“ ar „iPad“
 įrenginiu lietuviškai rašyti patogiau, galbūt norėsite ją išbandyti.
 
+Nemažai skirtingų išdėstymų turi nemokama [„Keyman“](https://keyman.com/iphone-and-ipad/) ekraninė klaviatūra. Be jau
+turimų, ji suteikia galimybę naudotis ir savo susikurtais išdėstymais.
+
 Rašymas fizine klaviatūra
 -------------------------
 
 Norint lietuviškai rašyti prie „iPhone“ ar „iPad“ prijungta fizine klaviatūra, reikia pasirinkti lietuvišką klaviatūros
-išdėstymą įrenginio nuostatose. Tai galite atlikti tokiu būdu:
-1. prijunkite išorinę klaviatūrą prie įrenginio;
-2. atverkite programą **Settings**;
-3. kairiajame polangyje pasirinkite punktą **General**;
-4. dešiniajame polangyhe suraskite ir pasirinkite punktą **Keyboard**;
-5. dešiniajame polangyje pasirinkite punktą **Hardware Keyboard**. Jei šio punkto nematote, įsitikinkite, jog fizinė
-   klaviatūra tinkamai prijungta ir / ar suporuota su jūsų įrenginiu (t. y., ja galite rašyti kuria nors kita kalba);
-6. dešiniajame polangyje pats pirmas meniu punktas rodys šiuo metu pasirinktą klaviatūros išdėstymą. Spustelėję jį,
-   vietoje jo sąraše susiraskite ir pasirinkite punktą **Lithuanian**;
-7. užverkite programą.
+išdėstymą įrenginio nuostatose. Tai galite atlikti programos **Settings** skyriaus **General** poskyrio **Keyboard**
+poskyryje **Hardware Keyboard**, prieš tai išorinę klaviatūrą **prijungus prie įrenginio ar su juo suporavus**.
 
-Visi „Apple“ įrenginiai gamykliškai išleidžiami tik su vienu lietuvišku fizinės klaviatūros išdėtymu – tai senąja
-skaitmenų eilės klaviatūros išdėstymo atmaina, kurioje skaitmenims ir specialiesiems simboliams įvesti naudojamas
-tęsties klavišas **`**. Nors į „macOS“ galima nesunkiai įdiegti papildomus išdėstymus, „iOS“ ir „iPadOS“ tokios
-galimybės, mūsų žiniomis, neturi.
+Visi „Apple“ įrenginiai gamykliškai išleidžiami tik su vienu lietuvišku fizinės klaviatūros išdėtymu – senąja skaitmenų
+eilės klaviatūros išdėstymo atmaina, kurioje skaitmenims ir specialiesiems simboliams įvesti naudojamas tęsties klavišas
+**`**. Nors į „macOS“ galima nesunkiai įdiegti papildomus išdėstymus, nei „iOS“ ir „iPadOS“ tokios galimybės, mūsų
+žiniomis, neturi.
