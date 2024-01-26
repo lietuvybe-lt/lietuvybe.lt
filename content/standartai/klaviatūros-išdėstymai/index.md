@@ -46,11 +46,10 @@ lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuo
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
 
 Egzistuoja skirtingos šio išdėstymo atmainos. Dažniausiai sutinkama atmaina yra pateikiama kaip numatytasis lietuviškos
-klaviatūros išdėstymas su „Windows“ operacinėmis sistemomis. Kiek patobulinta – su „Linux“ ir kitomis UNIX tipo
-operacinėmis sistemomis. Pastaroji atmaina papildo su „Windows“ pateikiamą išdėstymą lietuviškomis figūrinėmis
-kabutėmis, brūkšniu ir dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Šio papildyto išdėstymo
-tvarkykles „Windows“ bei „macOS“ sistemoms
-galima [parsisiųsti iš Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/).
+klaviatūros išdėstymas su „Windows“ operacinėmis sistemomis. Kiek patobulinta – su „Unix“ šeimos operacinėmis
+sistemomis. Pastaroji atmaina papildo su „Windows“ pateikiamą išdėstymą lietuviškomis figūrinėmis kabutėmis, brūkšniu ir
+dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Šio papildyto išdėstymo tvarkykles „Windows“ bei
+„macOS“ sistemoms galima [parsisiųsti iš Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/).
 
 ### Skaitmenų eilės išdėstymo senoji atmaina („Baltic“)
 
@@ -80,12 +79,14 @@ jos išdėstymas buvo identiškas amerikiniam QWERTY išdėstymui. „Lietuvišk
 QWERTY klaviatūroje yra raidės Q, W ir X bei dauguma spec. simbolių, buvo sutalpintos savitosios lietuviškos raidės.
 Konkretus klaviatūros perjungimo tarp ženklų grupių mechanizmas standarte nebuvo numatytas, kaip ir trečiasis lygis ar
 kokie nors tęsties klavišai bent vienoje grupėje. Matyt šie faktoriai nulėmė, kad išdėstymas taip ir netapo populiarus –
-jo naudotojai turėjo arba klaviatūrą dažnai perjunginėti iš vieno „režimo“ į kitą, arba apsieiti be dalies ženklų
+jo naudotojai turėjo arba klaviatūrą dažnai perjunginėti iš vienos veiksenos į kitą, arba apsieiti be dalies ženklų
 (tokių, kaip „%“ ar „@“).
 
-Standarte apibrėžtas fizinės klaviatūros žymėjimas pavaizduotas iliustracijoje aukščiau.
+Standarte apibrėžtas fizinės klaviatūros žymėjimas pavaizduotas iliustracijoje aukščiau. Pastebėsime, jog standartas
+nurodė klavišų kairės pusės kampuose žymėti būtent „programuotojo režimo“ ženklus, tuo tarpu „lietuviškojo režimo“
+ženklai perkelti į apatinį dešinįjį kampą nepriklausomai nuo to, ar įvedami pirmajame jo lygyje, ar antrajame.
 
-Šiek tiek modifikuotos šio išdėstymo atmainos, vadinamos „IBM“ išdėstymu, iki šiol platinamos su „Windows“ operacinėmis
+„Lietuviškosios“ veiksenos pagrindu sukurti vadinamieji „IBM“ išdėstymai, iki šiol platinami su „Windows“ operacinėmis
 sistemomis ir „UNIX“ šeimos sistemomis, tačiau jo naudotojų belikę vienetai – dauguma ėmė naudotis panašiu, bet
 pažangesniu LST 1582 standarto išdėstymu arba žymiai populiaresniu skaitmenų eilės išdėstymu. „Windows“
 

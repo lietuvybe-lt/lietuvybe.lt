@@ -1,5 +1,5 @@
 ---
-title: Lietuviškos klaviatūros
+title: Lietuviški klaviatūros išdėstymai
 linkTitle: Klaviatūros
 type: page
 aliases:
@@ -10,109 +10,163 @@ menu:
         parent: Naudotojams
 ---
 
-Lietuviški klaviatūros išdėstymai
----------------------------------
+LST 1582 (lietuviška standartinė klaviatūra)
+--------------------------------------------
 
-| Pavadinimas                        | Pirmosios 6 raidės | Ypatybės                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Standartinis (LST 1582:2012)       | ĄŽERTY             | Vienintelis Lietuvoje šiuo metu galiojantis oficialus klaviatūros standartas. Visi reikalingi simboliai išdėstyti trijuose lygiuose. Plačiau apie šį išdėstymą – [jo svetainėje](http://ims.mii.lt/klav/). Joje taip pat rasite išdėstymo tvarkykles bei informaciją apie fizines šį išdėstymą atitinkančias klaviatūras ir lipdukus kitoms klaviatūroms. Fizinę klaviatūrą su šiuo išdėstymu šiuo metu galite įsigyti [LISK.lt svetainėje](https://www.lisk.lt/).                                                           |
-| Skaitmenų eilės (Numeric / Baltic) | QWERTY             | Populiariausias lietuviškas išdėstymas. Jame specifinės lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą Lyg3 klavišą, o spec. simboliai – laikant kartu nuspaustus Lyg3 ir Lyg2 klavišus. Senesniajame „Baltic“ variante vietoj Lyg3 naudojamas „miręs“ klavišas **\`**. <br>Šis išdėstymas yra numatytasis lietuvių kalbai bene visose operacinėse sistemose. Tiesa, „Apple“ gaminių atveju gamykliškai platinamas „mirusiojo“ klavišo variantas („Baltic“). |
-| LEKP ir LEKPa                      | QGRLDČ             | Santrumpa „LEKP“ reiškia „Lietuviškos ergonomiškos klaviatūros projektas“. Plačiau apie šį klaviatūros išdėstymą galima paskaityti [jo svetainėje](https://lekp.info/). Ten pat rasite ir išdėstymo tvarkykles.                                                                                                                                                                                                                                                                                                              |
-| Ratisė                             | ŪĖYOQ              | Kitas ergonominės klaviatūros projektas. Autoriaus Algirdo Buckaus teigimu, šis išdėstymas lengvai įsimenamas ir patogiai naudojamas. Daugiau informacijos apie jį – [svetainėje](https://albuck.github.io/Ratise-layout/).                                                                                                                                                                                                                                                                                                  |
-| Fonetinis / programuotojų          | QWERTY             | Lietuviškos raidės ant artimiausių fonetinių ženklų: a ⇨ ą, z ⇨ ž, q ⇨ ū, w ⇨ ė... Jos įvedamos per AltGr arba „mirusį“ klavišą.                                                                                                                                                                                                                                                                                                                                                                                             |
-| Programuotojų                      | QWERTY             | Lietuviškos raidės išdėstytos skaitmenų eilės klavišuose. Įvedamos, nuspaudžiant „mirusį“ klavišą **\`**, o po to – lietuvišką raidę atitinkantį klavišą.                                                                                                                                                                                                                                                                                                                                                                    |
-| QWERTY                             | QWERTY             | Lietuviškos raidės išdėstytos klaviatūros dešinėje pusėje ir ant klavišo, esančio tarp Shift ir Z. Įprastuose tekstuose rečiau naudojami spec. simboliai perkelti į trečiąjį lygį.                                                                                                                                                                                                                                                                                                                                           |
-| IBM                                | ĄŽERTY             | Senasis ĄŽERTY išdėstymas, įgyvendinantis LST 1205-92 „lietuviškąjį režimą“ (veikseną). Pats nepatogiausias (trūksta daugiausia ženklų). Jo naudotojams siūlome pereiti prie panašaus, bet daug patogesnio standartinio lietuviško klaviatūros išdėstymo.                                                                                                                                                                                                                                                                    |
+![Standartinės klaviatūros išdėstymo schema](LST_1582_klaviatūra.png)
 
-_Pastaba: AltGr arba Lyg3 yra dešinysis Alt klavišas. Kartais jo funkcija suteikiama kitiems klavišams._
+Vienintelis Lietuvoje šiuo metu galiojantis oficialus klaviatūros standartas. Visi reikalingi simboliai išdėstyti
+trijuose lygiuose. Išsamiau apie šį išdėstymą – [jo svetainėje](http://www.ims.mii.lt/klav/). Joje taip pat rasite
+išdėstymo treniruokles ir keletą kitų gėrybių.
 
-Klaviatūros išdėstymų tvarkyklės „macOS“ sistemai
--------------------------------------------------
+* Išdėstymo tvarkyklės gamykliškai pateikiamos kartu su „Windows“ ir „UNIX“ šeimos operacinėmis sistemomis;
+* „macOS“ bei kiek kitokias „Windows“ tvarkykles galite parsisiųsti iš
+  [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
+* fizinę klaviatūrą su šiuo išdėstymu šiuo metu galite įsigyti [LISK.lt svetainėje](https://www.lisk.lt/);
+* Rimo Kudelio svetainėje galite užsisakyti [klaviatūros lipdukų, sužymėtų šiuo išdėstymu][1].
 
-Šviežiai įdiegta „macOS“ turi tik vieną lietuvišką klaviatūros išdėstymą – senąjį „Baltic“. Rimas Kudelis yra pagaminęs
-šiuolaikiškesnio skaičių eilės išdėstymo bei standartinio išdėstymo aprašus. Juos galite parsisiųsti
-iš [Rimo svetainės](https://rimas.kudelis.lt/numeric/).
+Skaitmenų eilės klaviatūros išdėstymas („Numeric“, „Baltic“)
+------------------------------------------------------------
 
-Skaitmenų eilės išdėstymą Ramūnas Blavaščiūnas yra papildęs daugybe rečiau reikalingų simbolių ir funkcijų. Savo darbo
-rezultatą jis platina adresu [raides.blavasciunas.com](http://raides.blavasciunas.com/). Deja, šis išdėstymas turi
-tyčinę klaidą – mažosios kirčiuotos raidės „i“, „į“ ir „j“ juo yra įvedamos neteisingai (klaidingomis unikodo sekomis),
-todėl dažnu atveju jos gali būti atvaizduojamos nekorektiškai ar tiesiog negražiai. Dar blogiau tai, kad tokiu būdu
-įvestas tekstas yra iš principo užkoduotas klaidingai. Net jei šiandien užrašytas kuriuo nors konkrečiu šriftu, jis
-atrodys gražiai, nėra jokios garantijos, kad taip bus ir po kelių ar keliolikos metų, ar tiesiog parinkus kitą šriftą,
-ar netgi automatiškai pakeitus mažąsias raides didžiosiomis ar pan. Ramūnas šią klaidą laiko privalumu ir neketina jos
-taisyti, visgi mes siūlytume neužsiimti sąmoningu duomenų darkymu siekiant trumpalaikės naudos. Jeigu kirčiuotų raidžių
-jums prireikia dažnai, tikrasis blogo simbolių rodymo problemos sprendimas būtų naudoti šias raides turinčius šriftus,
-pavyzdžiui, [„Palemoną“](https://www.vlkk.lt/palemonas)
-ar [„Aistiką“](https://clarin.vdu.lt/xmlui/handle/20.500.11821/48).
+![Skaitmenų eilės išdėstymo schema](skaitmenų_eilės_klaviatūra.png)
 
-Klaviatūros išdėstymų tvarkyklės „Windows“ sistemai
----------------------------------------------------
+Populiariausias lietuviškas išdėstymas, kartais vadinamas „Numeric“. Jame specifinės lietuviškos raidės abėcėlės tvarka
+išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą Lyg3 klavišą, o spec. simboliai – laikant
+kartu nuspaustus Lyg2 ir Lyg3 klavišus. Senesniajame „Baltic“ variante vietoj Lyg3 naudojamas tęsties klavišas **\`**.
+Šis išdėstymas nėra oficialiai standartizuotas, tačiau jo pagrindu tapo
+[seno Lietuvos standarto rekomenduojamas priedas]({{< ref "/standartai/klaviatūros-išdėstymai" >}}).
 
-Šiek tiek papildytus skaitmenų eilės išdėstymus savo svetainėje
-platina [Rimas Kudelis](https://rimas.kudelis.lt/numeric/).
+* Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose, o „Apple“
+  gaminiuose jo „Baltic“ variantas apskritai yra vienintelis gamykliškai platinamas lietuviškas klaviatūros išdėstymas.
+* su „Windows“ pateikiamame išdėstyme nenumatytas lietuviškų figūrinių kabučių ir brūkšnio ženklo įvedimas;
+* iš [Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/) galite parsisiųsti „Numeric“ išdėstymo tvarkykles su
+  figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
+* kiek kitaip „Windows“ išdėstymą yra papildžiusi [„Fotonija“](<„Fotonijos“ išdėstymai.zip>) (rinkinyje jis pavadintas
+  „LT Numeric“);
+* „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][3]. Šis išdėstymas papildytas
+  daugybe rečiau reikalingų ženklų ir funkcijų, tačiau pateikiamas su klaida – mažosios kirčiuotos raidės „i“, „į“ ir
+  „j“ raidės juo įvedamos neteisingai (klaidingomis unikodo sekomis), tad šis išdėstymas nelaikytinas visiškai tinkamu
+  lietuviškoms kirčiuotoms raidėms rinkti;
+* LEKP projekto autoriai irgi yra sukūrę „Numeric“ išdėstymo atmainą, kurią pavadino
+  [„Baltic+“](https://lekp.info/Išdėstymai). Bene didžiausias jos skirtumas nuo įprasto „Numeric“ išdėstymo – tai
+  didžiųjų raidžių klavišo funkcijos pakeitimas, kad jis šalintų tekstą kairėn. Šio išdėstymo tvarkykles „Windows“ ir
+  „macOS“ sistemoms galite parsisiųsti iš [LEKP svetainės](https://lekp.info/Tvarkyklės);
+* Rimo Kudelio svetainėje galite užsisakyti [klaviatūros lipdukų, sužymėtų šiuo išdėstymu][1].
 
-Standartinio išdėstymo autoriai taip pat turi tinklapį tvarkyklėms parsisiųsti. Nors šis išdėstymas jau senokai yra
-oficialiai įtrauktas į „Windows“ sistemas, yra pora niuansų, kuriais gamyklinis išdėstymas skiriasi nuo platinamo
-autorių svetainėje.
+LEKP ir LEKPa
+-------------
 
-LEKP ir LEKPa išdėstymų tvarkykles rasite [LEKP svetainėje](https://lekp.info/Tvarkyklės). Taip pat joje
-platinamas ir alternatyviai papildytas skaitmenų eilės išdėstymas, pavadintas „Baltic+“.
+![LEKP išdėstymo schema](LEKP_klaviatūra.png)
 
-1995-aisiais, kai tuo metu buvusios populiaros „Windows“ sistemos neturėjo šiuolaikiškų lietuviškų klaviatūros išdėstymų
-tvarkyklių, o kartais ir išvis nemokėdavo rašyti lietuviškai, Rimas Berlinskas parengė „LitWin“ paketą, padėdavusį
-išspręsti šias problemas. Šio paketo pagalba buvo galima papildyti savo „Windows“ sistemą keletu klaviatūros išdėstymų,
-tarp jų ir rečiau naudojamų. Vėliau ten pat buvo platinami ir naujesnėms „Windows“ bei „Windows Mobile“ sistemoms
-sukurti analogiški paketai. 2022-aisiais „LithWin“ svetainė tapo nepasiekiama, tačiau vis dar galima apsilankyti
-jos [archyvinėje kopijoje](https://web.archive.org/web/20220425004916/https://www.registrucentras.lt/litwin/) ir iš ten
-parsisiųsti kai kuriuos failus.
+Santrumpa „LEKP“ reiškia „Lietuviškos ergonomiškos klaviatūros projektas“. Plačiau apie šio projekto sukurtus
+klaviatūros išdėstymus galima paskaityti [jo svetainėje](https://lekp.info/). Ten pat rasite ir išdėstymų tvarkykles.
 
-Klaviatūros išdėstymų tvarkyklės „Linux“ konsolei
--------------------------------------------------
+„UNIX“ šeimos operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
 
-Grafinėse „Linux“ aplinkose lietuviškai rašyti nėra jokių problemų – tereikia įjungti vieną iš pateikiamų lietuviškų
-išdėstymų (arba pasidaryti savo). Konsolėje (tekstiniame terminale) rašyti lietuviškai taipogi neturėtų kilti kliūčių,
-tačiau jei jų visgi iškiltų, gal pravers šiame skyrelyje pateiktos nuorodos
+Ratisė
+------
 
-Mariaus Gedmino rinkinyje [„Lietuviška konsolė“](https://gedmin.as/lit-con/index-lt.html) yra net keli lietuviški
-klaviatūros išdėstymai ir pora šriftų. Tačiau šiame rinkinyje nėra standartinio klaviatūros išdėstymo ir, panašu,
-nepalaikomos unikodą naudojančios lokalės.
+![„Ratisės“ išdėstymo schema](Ratisė.png)
 
-Standartinius išdėstymus parašė Gediminas Paulauskas, juos
-galite [parsisiųsti iš čia](ltstd-linux-0.4.tar.gz). Pakete pateikiamas ir grafinei aplinkai skirtas
-išdėstymas, tačiau jo jau seniai nebereikia diegti papildomai.
+Kitas ergonominės klaviatūros projektas. Autoriaus Algirdo Buckaus teigimu, šis išdėstymas lengvai įsimenamas ir
+patogiai naudojamas. Daugiau informacijos apie jį, taip pat jo tvarkyklės –
+[svetainėje](https://albuck.github.io/Ratise-layout/).
 
-Apie diegimą parašyta abiejų paketų README failuose.
+„UNIX“ šeimos operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
 
-Klaviatūros išdėstymų tvarkyklės DOS sistemai
----------------------------------------------
+IBM
+---
 
-Kokybiškas ir laisvas (atviro kodo) lietuviškos klaviatūros tvarkykles DOS'ui, parašytas Assebler
-kalba, [sukūrė Marius Gedminas](https://gedmin.as/lit/index-lt.html).
+![Vadinamojo „IBM“ išdėstymo schema](IBM_klaviatūra.png)
 
-Klaviatūros išdėstymų tvarkyklės QNX operacinei sistemai
---------------------------------------------------------
+Senasis ĄŽERTY išdėstymas, įgyvendinantis LST 1205-92 „lietuviškąjį režimą“ (veikseną).
 
-Lietuviškų klaviatūros išdėstymų tvarkykles QNX 6.2 ir 6.3 sistemoms yra pagaminęs Linas Kavaliauskas. Plačiau apie jas,
-jų įdiegimą ir naudojimą galite pasiskaityti [projekto tinklapyje](http://qnx.projektas.lt/).
+Schemoje juodai atvaizduoti ženklai, nurodytose pozicijose esantys tiek „Windows“, tiek „UNIX“ šeimos operacinių sistemų
+gamykliniuose „IBM“ išdėstymuose; pilkai – tik „UNIX“ šeimos, raudonai – tik „Windows“.
 
-Ekraninės klaviatūros
----------------------
+Kaip matyti iš schemos, su „Windows“ sistemomis gamykliškai pateikiamame „IBM“ išdėstyme nenumatytas kai kurių ženklų,
+kaip antai „@“, „Q“, „W“, „X“ įvedimas. Patobulintas šio išdėstymo „Windows“ tvarkykles yra sukūrusi
+[„Fotonija“](<„Fotonijos“ išdėstymai.zip>). Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“
+šeimos pateikiamą išdėstymą, tačiau sutampa ne visiškai.
+
+Kiti išdėstymai
+---------------
+
+Be paminėtų aukščiau, yra ir dar rečiau naudojamų lietuviškų klaviatūros išdėstymų. Pavyzdžiui, „Programuotojų“
+išdėstymuose lietuviškos raidės dažnai nukeliamos į trečiąjį ir ketvirtąjį klaviatūros lygius, arba įvedamos naudojantis
+tęsties klavišais. Be to, šiais laikais kone kiekvienas gali net ir nemokamomis priemonėmis susikurti savo klaviatūros
+išdėstymą.
+
+Kirčiuotų raidžių įvedimas
+--------------------------
+
+Šiame straipsnyje lietuviškų kirčiuotų raidžių įvedimas kol kas paliestas tik minimaliai. Kirčiuotoms raidėms įvesti
+paprastai kuriami atskiri klaviatūros išdėstymai, papildantys kurio nors jau esamo išdėstymo funkcionalumą.
+
+Atkreipsime dėmesį, jog esti **tam tikrų niuansų**, susijusių būtent su kirčiuotų lietuviškų raidžių įvedimu. Dalis šių
+kirčiuotų raidžių neturi atskirų kodų unikode, todėl turi būti išreiškiamos kodų sekomis, prie atitinkamos pamatinės
+raidės „prikabinant“ kombinacinius kirčio ženklus. Dar įdomiau yra su kirčiuotomis mažosiomis „i“, „į“ ir „j“ raidėmis,
+mat jų atveju tarp pamatinės raidės ir kombinacinio kirčio kodo reikia įterpti dar ir kombinacinį tašką! Visa tai
+nekeltų didelių problemų, jei ne vienas iš „Windows“ klaviatūros išdėstymų tvarkyklėms taikomų apribojimų – panaudojus
+tęsties klavišą, nebelieka galimybės vienu tolesniu klavišo paspaudimu įvesti daugiau kaip vieną unikodo kodą. Dėl šios
+priežasties „Windows“ sistemose bent dalį kirčiuotų raidžių tenka vesti ne taip patogiai, kaip norėtųsi: pirma įvedama
+pamatinė raidė, o tada reikiami kombinaciniai ženklai. Visgi galime pasidžiaugti nors tuo, kad ši problema yra būdinga
+tik vienai operacinei sistemai.
+
+Kitas niuansas – **šriftai**. Dažnas šriftas neturi iš anksto sukomponuotų _glifų_ kirčiuotoms raidėms, todėl tokias
+raides iš kitų _glifų_ komponuoja jūsų naudojama programinė įranga. Kartais toks komponavimas duoda ne patį geriausią
+rezultatą, pavyzdžiui, kirčio ženklas gali būti pasislinkęs į šoną ar sulipęs su raide, o minėtų mažųjų raidžių su
+taškais atveju būna, jog kombinaciniai ženklai nepašalina taško nuo pamatinės raidės (nors turėtų!), todėl kirčiuota
+raidė gali būti atvaizduojama su dviem taškais ir dar kirčio ženklu.
+
+Būtent dėl pataikavimo netinkamiems šriftams Ramūno Blavaščiūno „macOS“ išdėstyme dalis kirčiuotų raidžių yra koduojamos
+neteisingai. Tačiau derėtų suprasti, kad toks sprendimas yra labai laikinas ir nepatvarus, nes kiekvienas ženklas tekste
+turi ne tik išvaizdą, bet ir prasmę. Neteisingai koduojant raides, jų prasmė iškreipiama, ir tai vėliau gali turėti
+neigiamos įtakos ne tik raidės išvaizdai, bet ir kitiems dalykams: pavyzdžiui, ji gali būti blogai atvaizduojama,
+pasirinkus kirčiuotam lietuviškam tekstui tinkamesnį šriftą, gali būti neteisingai keičiama iš mažosios į didžiąją ar
+atgal, neteisingai tariama ar išvis netariama teksto skaitymo balsu programos ir pan.
+
+Kad su tokiomis problemomis nesusidurtumėte, rašydami kirčiuotą tekstą stenkitės naudoti tuos šriftus, kuriuose
+lietuviškos kirčiuotos raidės atvaizduojamos teisingai. Jei jūsų turimi šriftai tuo nepasižymi, parsisiųskite,
+įsidiekite ir naudokitės [„Palemonu“][2] ir [„Aistika“](https://clarin.vdu.lt/xmlui/handle/20.500.11821/48).
+
+„Windows“ sistemose kirčiuotas raides galima rinkti standartinio išdėstymo pagrindu parengtu išdėstymu, platinamu
+[„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<„Fotonijos“ išdėstymai.zip>), o „macOS“
+sistemose – [Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
+(šis irgi parengtas standartinio pagrindu), arba [Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][3]
+(kirčiuotas „i“, „į“ ir „j“ kombinuojant savarankiškai).
+
+„Android“, „iOS“ ir „iPadOS“ klaviatūros
+----------------------------------------
 
 Bene visais išmaniaisiais telefonais ir planšetiniais kompiuteriais galima rašyti lietuviškai, tačiau kartais tai
-nepatogu, nes savitosios lietuviškos raidės būna „paslėptos“ po pamatinėmis. Laimei, tiek „Android“, tiek „iOS“
-įrenginiuose galima diegti papildomas ekranines klaviatūras ir išdėstymus. Plačiau apie tai –
-skyreliuose [„Android“ lietuvinimas“]({{< ref "/naudotojams/android-lietuvinimas" >}})
-ir [„iOS“ lietuvinimas“]({{< ref "/naudotojams/ios-lietuvinimas" >}}).
+nepatogu, nes savitosios lietuviškos raidės būna „paslėptos“ po pamatinėmis. Laimei „iOS“ ir „iPadOS“ įrenginiuose
+galima diegti papildomas ekranines klaviatūras ir išdėstymus, o „Android“ įrenginiuose – dar ir papildomus fizinės
+klaviatūros išdėstymus. Plačiau apie tai – skyreliuose
+[„Android“ lietuvinimas“]({{< relref "/naudotojams/android-lietuvinimas" >}})
+ir [„iOS“ lietuvinimas“]({{< relref "/naudotojams/ios-lietuvinimas" >}}).
 
-Virtualios klaviatūros
-----------------------
+Pastabos ir nuorodos
+--------------------
 
-Jeigu kompiuteryje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
-lietuviškai vis tiek norisi, skyrelyje[„Nuorodos“]({{< relref "/nuorodos" >}}) rasite nuorodų į keletą
-virtualių klaviatūros išdėstymų, veikiančių tiesiog interneto naršyklėje.
+1. Pirminis „Fotonijos“ išdėstymų šaltinis – [programos „Mainukai“ tinklalapis](http://fotonija.lt/mainukai_details.php).
+   Mūsų svetainėje platinamas perpakuotas šių išdėstymų rinkinys su pataisyta technine klaida faile `Info.html`;
+2. mes nesame patikrinę, kaip kirčiuotos raidės įvedamos „Fotonijos“ išdėstymais, o instrukcija tai nedetalizuota;
+3. **Lyg3** – tai lietuviškas klavišo AltGr, arba dešiniojo Alt, pavadinimas. „Windows“ sistemose šio klavišo funkcija
+   taip pat atlieka laikomi kartu nuspausti Ctrl+Alt klavišai.  
+   **Lyg2** – tai lietuviškas ⇧ Shift klavišo pavadinimas.
+4. „UNIX“ šeimos operacinėmis sistemomis šiame straipsnyje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
+   sistemos, naudojančios „Freedesktop.org“ klaviatūros išdėstymų aprašus;
+5. jeigu įrenginyje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
+   lietuviškai vis tiek reikia, šios svetainės skyriuje [„Nuorodos“]({{< relref "/nuorodos" >}}) rasite nuorodų į keletą
+   virtualių klaviatūros išdėstymų, veikiančių tiesiog interneto naršyklėje;
+6. šiek tiek senų „negamyklinių“ išdėstymų „Windows“ sistemoms galima parsisiųsti iš Registrų centro „LithWin“
+   tinklalapio archyvinių kopijų: [kada.lt](https://web.archive.org/web/20070104192611/http://www.kada.lt:80/litwin/),
+   [registrucentras.lt](https://web.archive.org/web/20220518055706/https://www.registrucentras.lt/litwin/);
+7. kai kurių išdėstymų tvarkykles [DOS](https://gedmin.as/lit/index-lt.html) ir
+   [Linux](https://gedmin.as/lit-con/index-lt.html) sistemoms yra parengęs Marius Gedminas, o
+   [QNX sistemoms](http://qnx.projektas.lt/) – Linas Kavaliauskas.
 
-Lipdukai klaviatūroms
----------------------
-
-Jeigu naudojatės skaitmenų eilės arba standartiniu klaviatūros išdėstymu, tačiau užrašai ant klavišų sako ką kita –
-galbūt norėsite užsiklijuoti ant klaviatūros [Rimo Kudelio pagamintus lipdukus](http://rq.lt/lipdukai/).
+[1]: https://rimas.kudelis.lt/lipdukai/
+[2]: https://www.vlkk.lt/palemonas/
+[3]: http://raides.blavasciunas.com/
