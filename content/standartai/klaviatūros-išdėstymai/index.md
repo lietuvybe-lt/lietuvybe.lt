@@ -39,8 +39,9 @@ Skaitmenų eilės klaviatūros išdėstymas
 ![Skaitmenų eilės išdėstymo schema](skaitmenų_eilės_klaviatūra.png)
 
 Tai – populiariausias lietuviškas išdėstymas, paplitęs dar devintajame praėjusiojo amžiaus dešimtmetyje. Jame savitosios
-lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą Lyg3
-(AltGr) klavišą, o specialieji simboliai – laikant kartu nuspaustus Lyg2 ir Lyg3 (Shift ir AltGr) klavišus.
+lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą
+<kbd>Lyg3</kbd> (<kbd>AltGr</kbd>) klavišą, o specialieji simboliai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir
+<kbd>Lyg3</kbd> (<kbd>Shift</kbd> ir <kbd>AltGr</kbd>) klavišus.
 
 Šis išdėstymas nėra oficialiai standartizuotas, nors jo kilmę aiškiai galima įžvelgti 1989 m. priimto Lietuvos standarto
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
@@ -55,7 +56,7 @@ dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Ši
 
 Egzistuoja ir ankstesnė skaitmenų eilės išdėstymo atmaina – vadinamasis „Baltic“ išdėstymas, kurio pagrindinis skirtumas
 nuo šiuolaikinių atmainų – tai, kad skaitmenys ir specialieji simboliai įvedami ne pasitelkiant Lyg3 klavišą, bet per
-tęsties („mirusįjį“) klavišą **\`**. Tai iki šiol yra vienintelis lietuviškas fizinės klaviatūros išdėstymas,
+tęsties („mirusįjį“) klavišą <kbd>\`</kbd>. Tai iki šiol yra vienintelis lietuviškas fizinės klaviatūros išdėstymas,
 pateikiamas su „Apple“ gaminiais.
 
 Ankstesni, panaikinti klaviatūros standartai

@@ -26,3 +26,17 @@
 .submenu__item--active .submenu__link {
     color: #a1c442;
 }
+kbd {
+    background-color: #fcfcfc;
+    border: 1px solid #cbcbcb;
+    border-bottom-color: rgb(198, 203, 209);
+    border-bottom-color: #959da5;
+    border-radius: 3px;
+    box-shadow: inset 0 -1px 0 #959da5;
+    color: #2a2a2a;
+    display: inline-block;
+    font-size: 11px;
+    line-height: 10px;
+    padding: 3px 5px;
+    vertical-align: middle;
+}

@@ -31,10 +31,10 @@ Skaitmenų eilės klaviatūros išdėstymas („Numeric“, „Baltic“)
 ![Skaitmenų eilės išdėstymo schema](skaitmenų_eilės_klaviatūra.png)
 
 Populiariausias lietuviškas išdėstymas, kartais vadinamas „Numeric“. Jame specifinės lietuviškos raidės abėcėlės tvarka
-išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą Lyg3 klavišą, o spec. simboliai – laikant
-kartu nuspaustus Lyg2 ir Lyg3 klavišus. Senesniajame „Baltic“ variante vietoj Lyg3 naudojamas tęsties klavišas **\`**.
-Šis išdėstymas nėra oficialiai standartizuotas, tačiau jo pagrindu tapo
-[seno Lietuvos standarto rekomenduojamas priedas]({{< ref "/standartai/klaviatūros-išdėstymai" >}}).
+išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą <kbd>Lyg3</kbd> klavišą, o spec. simboliai –
+laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus. Senesniajame „Baltic“ variante vietoj
+<kbd>Lyg3</kbd> naudojamas tęsties klavišas <kbd>\`</kbd>. Šis išdėstymas nėra oficialiai standartizuotas, tačiau jo
+pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< ref "/standartai/klaviatūros-išdėstymai" >}}).
 
 * Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose, o „Apple“
   gaminiuose jo „Baltic“ variantas apskritai yra vienintelis gamykliškai platinamas lietuviškas klaviatūros išdėstymas.
@@ -74,20 +74,22 @@ patogiai naudojamas. Daugiau informacijos apie jį, taip pat jo tvarkyklės –
 
 „UNIX“ šeimos operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
 
-IBM
+IBM (LST 1205-92)
 ---
 
-![Vadinamojo „IBM“ išdėstymo schema](IBM_klaviatūra.png)
+![IBM išdėstymo schema](IBM_klaviatūra.png)
 
-Senasis ĄŽERTY išdėstymas, įgyvendinantis LST 1205-92 „lietuviškąjį režimą“ (veikseną).
+Senasis ĄŽERTY išdėstymas, įgyvendinantis LST 1205-92 „lietuviškąjį režimą“ (veikseną), dažnai vadinamas IBM
+pravarde. Galbūt tokia tradicija susiklostė todėl, jog tai buvo vienintelis lietuviškas klaviatūros išdėstymas
+kadaise IBM leistoje „OS/2 Warp“ operacinėje sistemoje.
 
 Schemoje juodai atvaizduoti ženklai, nurodytose pozicijose esantys tiek „Windows“, tiek „UNIX“ šeimos operacinių sistemų
 gamykliniuose „IBM“ išdėstymuose; pilkai – tik „UNIX“ šeimos, raudonai – tik „Windows“.
 
-Kaip matyti iš schemos, su „Windows“ sistemomis gamykliškai pateikiamame „IBM“ išdėstyme nenumatytas kai kurių ženklų,
-kaip antai „@“, „Q“, „W“, „X“ įvedimas. Patobulintas šio išdėstymo [„Windows“ tvarkykles](<Fotonijos išdėstymai.zip>)
-yra sukūrusi „Fotonija“. Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“ šeimos pateikiamą
-išdėstymą, tačiau sutampa ne visiškai.
+Kaip matyti iš schemos, su „Windows“ sistemomis gamykliškai pateikiamame IBM išdėstyme nenumatytas kai kurių ženklų,
+kaip kad „@“, „Q“, „W“, „X“, įvedimas. Patobulintas šio išdėstymo [„Windows“ tvarkykles](<Fotonijos išdėstymai.zip>)
+yra sukūrusi „Fotonija“. Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“ šeimos sistemose
+pateikiamą išdėstymą, tačiau sutampa ne visiškai.
 
 Kiti išdėstymai
 ---------------
@@ -152,11 +154,11 @@ Pastabos ir nuorodos
 1. Pirminis „Fotonijos“ išdėstymų šaltinis – [programos „Mainukai“ tinklalapis](http://fotonija.lt/mainukai_details.php).
    Mūsų svetainėje platinamas perpakuotas šių išdėstymų rinkinys su pataisyta technine klaida faile `Info.html`;
 2. mes nesame patikrinę, kaip kirčiuotos raidės įvedamos „Fotonijos“ išdėstymais, o instrukcija tai nedetalizuota;
-3. **Lyg3** – tai lietuviškas klavišo AltGr, arba dešiniojo Alt, pavadinimas. „Windows“ sistemose šio klavišo funkcija
-   taip pat atlieka laikomi kartu nuspausti Ctrl+Alt klavišai.  
-   **Lyg2** – tai lietuviškas ⇧ Shift klavišo pavadinimas.
+3. <kbd>Lyg3</kbd> – tai lietuviškas klavišo <kbd>AltGr</kbd>, arba dešiniojo <kbd>Alt</kbd>, pavadinimas. „Windows“
+   sistemose šio klavišo funkcija taip pat atlieka laikomi kartu nuspausti <kbd>Ctrl</kbd>+<kbd>Alt</kbd> klavišai.  
+   <kbd>Lyg2</kbd> – tai lietuviškas <kbd>⇧ Shift</kbd> klavišo pavadinimas.
 4. „UNIX“ šeimos operacinėmis sistemomis šiame straipsnyje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
-   sistemos, naudojančios „Freedesktop.org“ klaviatūros išdėstymų aprašus;
+   sistemos, naudojančios „freedesktop.org“ klaviatūros išdėstymų aprašus;
 5. jeigu įrenginyje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
    lietuviškai vis tiek reikia, šios svetainės skyriuje [„Nuorodos“]({{< relref "/nuorodos" >}}) rasite nuorodų į keletą
    virtualių klaviatūros išdėstymų, veikiančių tiesiog interneto naršyklėje;
