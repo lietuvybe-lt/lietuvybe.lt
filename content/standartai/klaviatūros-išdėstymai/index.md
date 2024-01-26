@@ -29,9 +29,9 @@ standarto ISO/IEC 9995 reikalavimais ir atitinka lietuviškoje raštijoje nusis
 išverstas į anglų kalbą.
 
 Šis klaviatūros standartas atitinka tarptautinių standartų reikalavimus ir lietuvių kalbos savybes. Be to, derinasi su
-visų kitų Europos valstybių, vartojančių lotyniškąją abėcėlę, realiai naudojamomis klaviatūromis. Daugiau informacijos
-apie šį klaviatūros išdėstymą, jo tvarkykles ir treniruokles galima rasti jam skirtoje
-svetainėje [„Lietuviška standartinė kompiuterio klaviatūra“](http://ims.mii.lt/klav/).
+visų kitų Europos valstybių, vartojančių lotyniškąją abėcėlę, naudojamomis klaviatūromis. Daugiau informacijos apie šį
+klaviatūros išdėstymą, jo tvarkykles ir treniruokles galima rasti jam skirtoje svetainėje
+[„Lietuviška standartinė kompiuterio klaviatūra“](http://www.ims.mii.lt/klav/).
 
 Skaitmenų eilės klaviatūros išdėstymas
 --------------------------------------
@@ -40,7 +40,7 @@ Skaitmenų eilės klaviatūros išdėstymas
 
 Tai – populiariausias lietuviškas išdėstymas, paplitęs dar devintajame praėjusiojo amžiaus dešimtmetyje. Jame savitosios
 lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą Lyg3
-(AltGr) klavišą, o specialieji simboliai – laikant kartu nuspaustus Lyg3 ir Lyg2 (AltGr ir Shift) klavišus.
+(AltGr) klavišą, o specialieji simboliai – laikant kartu nuspaustus Lyg2 ir Lyg3 (Shift ir AltGr) klavišus.
 
 Šis išdėstymas nėra oficialiai standartizuotas, nors jo kilmę aiškiai galima įžvelgti 1989 m. priimto Lietuvos standarto
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
@@ -59,41 +59,48 @@ nuo šiuolaikinių atmainų – tai, kad skaitmenys ir specialieji simboliai įv
 tęsties („mirusįjį“) klavišą **\`**. Tai iki šiol yra vienintelis lietuviškas fizinės klaviatūros išdėstymas,
 pateikiamas su „Apple“ gaminiais.
 
-Anksčiau standartizuoti klaviatūros išdėstymai
-----------------------------------------------
+Ankstesni, panaikinti klaviatūros standartai
+--------------------------------------------
 
-Be aukščiau paminėtų, yra dar du klaviatūros išdėstymai, kurie buvo standartizuoti Lietuvoje. **Abu standartai 2000
-metais panaikinti**, priėmus LST 1582, tad čia jie pateikti tik istorijos fiksavimo sumetimais.
+Iki 2000 metų Lietuvoje galiojo du klaviatūros standartai. Abiejuose buvo gana griežtai apibrėžta, kaip fizinės
+klaviatūros turėjo būti sužymėtos, bet liko neapibrėžta, kaip turi būti realizuotos galimybės įvesti daugiau kaip du
+ženklus tuo pačiu klavišu (nors abiejuose tokių klavišų buvo). **Abu standartai 2000 metais panaikinti**, priėmus
+LST 1582, tad čia jie pateikiami tik istorijos fiksavimo tikslu.
 
-### LST 1205-92 (IBM)
+### LST 1205-92
 
-![LST 1205-92 išdėstymo schema](LST_1205-92_klaviatūra.png)
+![LST 1205-92 išdėstymo schema](LST_1205-92_klaviatūra.png)
 
-_LST 1205-92 Skaičiavimo technikos priemonės. Lietuviška kompiuterio klaviatūra. Ženklų išdėstymas._
+_Lietuvos Respublikos standartas LST 1205-92. Skaičiavimo technikos priemonės. Lietuviška kompiuterio klaviatūra.
+Ženklų išdėstymas._
 
 Standartas aprašė klaviatūrą, turinčią dvi ženklų grupes arba veiksenas (standarte vadinamas režimais): „programuotojo“
-ir „lietuviškąją“. „Programuotojo“ veiksenoje klaviatūra turėjo veikti taip pat kaip įprasta amerikinė klaviatūra – jos
-išdėstymas buvo identiškas amerikiniam QWERTY išdėstymui. „Lietuviškojoje“ veiksenoje tose vietose, kur QWERTY
-klaviatūroje yra raidės Q, W ir X bei dauguma spec. simbolių, buvo sutalpintos savitosios lietuviškos raidės (vaizdas
-aukščiau). Konkretus klaviatūros perjungimo tarp ženklų grupių mechanizmas standarte nebuvo numatytas, kaip ir trečiasis
-lygis ar kokie nors tęsties klavišai bent vienoje grupėje. Šie faktoriai nulėmė, kad išdėstymas taip ir netapo
-populiarus – jo naudotojai turėjo arba jį nuolat perjunginėti į anglišką, arba apsieiti be dalies ženklų (tokių, kaip %
-ar @).
+ir „lietuviškąją“. „Programuotojo“ veiksenoje klaviatūra turėjo veikti taip pat kaip įprastinė amerikinė klaviatūra –
+jos išdėstymas buvo identiškas amerikiniam QWERTY išdėstymui. „Lietuviškojoje“ veiksenoje tose pozicijose, kuriose
+QWERTY klaviatūroje yra raidės Q, W ir X bei dauguma spec. simbolių, buvo sutalpintos savitosios lietuviškos raidės.
+Konkretus klaviatūros perjungimo tarp ženklų grupių mechanizmas standarte nebuvo numatytas, kaip ir trečiasis lygis ar
+kokie nors tęsties klavišai bent vienoje grupėje. Matyt šie faktoriai nulėmė, kad išdėstymas taip ir netapo populiarus –
+jo naudotojai turėjo arba klaviatūrą dažnai perjunginėti iš vieno „režimo“ į kitą, arba apsieiti be dalies ženklų
+(tokių, kaip „%“ ar „@“).
 
-Šiek tiek patobulintos šio išdėstymo atmainos iki šiol platinamos su „Windows“ operacinėmis sistemomis ir UNIX šeimos
-sistemomis, tačiau jo naudotojų belikę vienetai – dauguma ėmė naudotis panašiu, bet pažangesniu LST 1582 standarto
-išdėstymu arba žymiai populiaresniu skaitmenų eilės išdėstymu.
+Standarte apibrėžtas fizinės klaviatūros žymėjimas pavaizduotas iliustracijoje aukščiau.
 
-### LST 1092-89 (RST 1092-89, arba FZVPUJ)
+Šiek tiek modifikuotos šio išdėstymo atmainos, vadinamos „IBM“ išdėstymu, iki šiol platinamos su „Windows“ operacinėmis
+sistemomis ir „UNIX“ šeimos sistemomis, tačiau jo naudotojų belikę vienetai – dauguma ėmė naudotis panašiu, bet
+pažangesniu LST 1582 standarto išdėstymu arba žymiai populiaresniu skaitmenų eilės išdėstymu. „Windows“
 
-![LST 1092-89 išdėstymo schema](LST_1092-89_klaviatūra.png)
+### RST 1092-89 (LST 1092-89)
 
-_LST 1092-89 Skaičiavimo technikos priemonės. Lietuviška ergonominė kompiuterio klaviatūra. Ženklų išdėstymas._
+![RST 1092-89 išdėstymo schema](RST_1092-89_klaviatūra.png)
 
-Originalus lietuviškas standartas, niekada taip ir nesulaukęs net minimalaus populiarumo. Šio išdėstymo tvarkyklės
-egzistavo ko gero tik DOS operacinei sistemai – pirmųjų „Windows“ versijų atsiradimo Lietuvoje metu jis tikriausiai jau
-buvo užmirštas ir niekam nebeįdomus. Galbūt šią nesėkmę iš dalies nulėmė tai, kad standartas aprašė tik klavišų
-žymėjimą, bet ne jų veikimo būdą. Kaip matyti iš iliustracijos, apatinėje klavišų eilėje buvo numatyti net keturi
+_Lietuvos TSR RST 1092-89. Skaičiavimo technikos priemonės. Lietuviška ergonominė kompiuterio klaviatūra. Ženklų
+išdėstymas._
+
+Pirmasis lietuviškas klaviatūros standartas, priimtas dar sovietmečiu (matyt todėl reikalavęs klaviatūrą sužymėti ir
+rusiškomis raidėmis), bet niekada taip ir nesulaukęs net minimalaus populiarumo. Šio išdėstymo tvarkyklės egzistavo ko
+gero tik DOS operacinei sistemai – pirmųjų „Windows“ versijų atsiradimo Lietuvoje metu jis tikriausiai jau buvo
+užmirštas. Galbūt šią nesėkmę iš dalies nulėmė tai, kad standartas aprašė tik klavišų žymėjimą, bet ne jų veikimo būdą.
+Kaip matyti iš iliustracijos, apatinėje klavišų eilėje, nė neskaičiuojant rusiško išdėstymo, buvo numatyti keturi
 klaviatūros lygiai (arba dvi grupės po du lygius), tačiau labai tikėtina, jog išdėstymą realizuojant DOS terpei skirtose
 tvarkyklėse, trečiasis ir ketvirtasis lygis buvo praleisti, o šitaip „apkarpytu“ išdėstymu, neužsiimant nuolatiniu jo
 perjungimu, būtų buvę kone neįmanoma naudotis. Be to, [tiek LEKP išdėstymo autorių teigimu](https://lekp.info/RST1092),
@@ -102,7 +109,10 @@ tiek remiantis
 net ir teisingai realizuotas, šis išdėstymas nebūtų labai ergonomiškas.
 
 Įdomu, jog greta ergonominio išdėstymo šiame standarte rekomenduojamo priedo pavidalu buvo pateiktas „QWERTY
-klaviatūros, papildytos lietuviškomis raidėmis“ brėžinys, tapęs populiariojo Skaitmenų eilės išdėstymo prototipu.
+klaviatūros, papildytos lietuviškomis raidėmis“ brėžinys, tapęs populiariojo Skaitmenų eilės išdėstymo prototipu. Jei
+turite po ranka klaviatūrą su lietuviškomis raidėmis, tikriausiai ji bus sužymėta būtent šitaip:
+
+![RST 1092-89 I rekomenduojamo priedo išdėstymo schema](RST_1092-89_priedas.png)
 
 Kiti klaviatūros išdėstymai
 ---------------------------
