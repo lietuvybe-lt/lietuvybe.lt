@@ -41,7 +41,7 @@ kartu nuspaustus Lyg2 ir Lyg3 klavišus. Senesniajame „Baltic“ variante viet
 * su „Windows“ pateikiamame išdėstyme nenumatytas lietuviškų figūrinių kabučių ir brūkšnio ženklo įvedimas;
 * iš [Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/) galite parsisiųsti „Numeric“ išdėstymo tvarkykles su
   figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
-* kiek kitaip „Windows“ išdėstymą yra papildžiusi [„Fotonija“](<„Fotonijos“ išdėstymai.zip>) (rinkinyje jis pavadintas
+* kiek kitaip „Windows“ išdėstymą [yra papildžiusi „Fotonija“](<Fotonijos išdėstymai.zip>) (rinkinyje jis pavadintas
   „LT Numeric“);
 * „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][3]. Šis išdėstymas papildytas
   daugybe rečiau reikalingų ženklų ir funkcijų, tačiau pateikiamas su klaida – mažosios kirčiuotos raidės „i“, „į“ ir
@@ -85,9 +85,9 @@ Schemoje juodai atvaizduoti ženklai, nurodytose pozicijose esantys tiek „Wind
 gamykliniuose „IBM“ išdėstymuose; pilkai – tik „UNIX“ šeimos, raudonai – tik „Windows“.
 
 Kaip matyti iš schemos, su „Windows“ sistemomis gamykliškai pateikiamame „IBM“ išdėstyme nenumatytas kai kurių ženklų,
-kaip antai „@“, „Q“, „W“, „X“ įvedimas. Patobulintas šio išdėstymo „Windows“ tvarkykles yra sukūrusi
-[„Fotonija“](<„Fotonijos“ išdėstymai.zip>). Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“
-šeimos pateikiamą išdėstymą, tačiau sutampa ne visiškai.
+kaip antai „@“, „Q“, „W“, „X“ įvedimas. Patobulintas šio išdėstymo [„Windows“ tvarkykles](<Fotonijos išdėstymai.zip>)
+yra sukūrusi „Fotonija“. Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“ šeimos pateikiamą
+išdėstymą, tačiau sutampa ne visiškai.
 
 Kiti išdėstymai
 ---------------
@@ -131,7 +131,7 @@ lietuviškos kirčiuotos raidės atvaizduojamos teisingai. Jei jūsų turimi šr
 įsidiekite ir naudokitės [„Palemonu“][2] ir [„Aistika“](https://clarin.vdu.lt/xmlui/handle/20.500.11821/48).
 
 „Windows“ sistemose kirčiuotas raides galima rinkti standartinio išdėstymo pagrindu parengtu išdėstymu, platinamu
-[„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<„Fotonijos“ išdėstymai.zip>), o „macOS“
+[„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<Fotonijos išdėstymai.zip>), o „macOS“
 sistemose – [Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
 (šis irgi parengtas standartinio pagrindu), arba [Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][3]
 (kirčiuotas „i“, „į“ ir „j“ kombinuojant savarankiškai).
