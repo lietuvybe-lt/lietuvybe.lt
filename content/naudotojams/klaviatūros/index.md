@@ -155,7 +155,8 @@ Pastabos ir nuorodos
    Mūsų svetainėje platinamas perpakuotas šių išdėstymų rinkinys su pataisyta technine klaida faile `Info.html`;
 2. mes nesame patikrinę, kaip kirčiuotos raidės įvedamos „Fotonijos“ išdėstymais, o instrukcija tai nedetalizuota;
 3. <kbd>Lyg3</kbd> – tai lietuviškas klavišo <kbd>AltGr</kbd>, arba dešiniojo <kbd>Alt</kbd>, pavadinimas. „Windows“
-   sistemose šio klavišo funkcija taip pat atlieka laikomi kartu nuspausti <kbd>Ctrl</kbd>+<kbd>Alt</kbd> klavišai.  
+   sistemose šio klavišo funkcija taip pat atlieka laikomi kartu nuspausti <kbd>Vald</kbd>+<kbd>Alt</kbd> klavišai.  
+   <kbd>Vald</kbd> – tai lietuviškas <kbd>Ctrl</kbd> klavišo pavadinimas.  
    <kbd>Lyg2</kbd> – tai lietuviškas <kbd>⇧ Shift</kbd> klavišo pavadinimas.
 4. „UNIX“ šeimos operacinėmis sistemomis šiame straipsnyje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
    sistemos, naudojančios „freedesktop.org“ klaviatūros išdėstymų aprašus;
