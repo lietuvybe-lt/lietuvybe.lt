@@ -17,7 +17,7 @@ markup:
 params:
     description: Lietuvių kalba informacinėse technologijose
     subtitle: Lietuvių kalba informacinėse technologijose
-    copyright: Lietuvybė.lt komanda
+    copyright: Lietuvybė.lt talkininkai
     mainSections: [ ]
     dateFormat: :date_long
     post_meta:
