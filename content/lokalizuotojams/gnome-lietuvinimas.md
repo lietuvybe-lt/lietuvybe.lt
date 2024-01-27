@@ -21,8 +21,8 @@ taip:
 
 _**Didelis prašymas: praneškite apie vertimų klaidas, rašykite pasiūlymus ir t. t.! Ačiū už pagalbą.**_
 
-Jei dar tik pradedate savo kaip „Gnome“ vertėjo kelionę, būtinai paskaitykite [apie daugiskaitos formas vertimuose]({{<
-ref "/lokalizuotojams/daugiskaitos-formos" >}}).
+Jei dar tik pradedate savo kaip atvirojo kodo programų vertėjo kelionę, būtinai paskaitykite
+[apie daugiskaitos formas vertimuose]({{<ref "/lokalizuotojams/daugiskaitos-formos" >}}).
 
 Padėkos
 -------
