@@ -53,8 +53,8 @@ Nesklandumų neiškyla ir kopijuojant dalį adreso, pavyzdžiui, iš _http&colon
 
 Savitosios lietuvių kalbos raidės gali būti vartojamos internetiniuose adresuose ir po viengubo pasvirojo brūkšnio,
 pavyzdžiui, _https&colon;//lt.wikipedia.org/wiki/Jūrė_. Jeigu bandysime nukopijuoti šį adresą , gausime
-_https&colon;//lt.wikipedia.org/wiki/J%C5%ABr%C4%97_. Nesklandumo išvengti galima tokiu pat būdu, kaip ir domeno varde (
-parašytame prieš pasvirąjį brūkšnį). Deja, mažai žmonių apie tai žino, ir vieni iš kitų gauname arba spaudoje matome
+_https&colon;//lt.wikipedia.org/wiki/J%C5%ABr%C4%97_. Nesklandumo išvengti galima tokiu pat būdu, kaip ir domeno varde
+(parašytame prieš pasvirąjį brūkšnį). Deja, mažai žmonių apie tai žino, ir vieni iš kitų gauname arba spaudoje matome
 internetinius adresus su koduotais žodžiais.
 
 Atkurti originalų adresą galima įrašius koduotą adresą į naršyklės adresų juostą. Čia jis virs originaliu adresu.

@@ -52,8 +52,8 @@ Standarto 13-oji dalis ISO/IEC 8859-13 apibrėžia lotynų 7-osios abėcėlės 
 ženklus. Ji išversta į lietuvių kalbą ir priimta Lietuvos standartu, kuriam suteiktas žymuo LST ISO/IEC 8859-13:2000.
 Šio standarto apibrėžta kodų lentelė kompiuteriuose žymima
 trumpiau – [ISO-8859-13](8859-13.gif "Baltijos šalims skirta ISO 8859–13 kodų lentelė"). Tai
-pagrindinis Lietuvos rašto ženklų kodavimo 8 bitais standartas ir naudotinas duomenų mainams tarp įvairių terpių (
-operacinių sistemų) bei kaip pagrindas kuriant kitus kodavimo standartus.
+pagrindinis Lietuvos rašto ženklų kodavimo 8 bitais standartas ir naudotinas duomenų mainams tarp įvairių terpių
+(operacinių sistemų) bei kaip pagrindas kuriant kitus kodavimo standartus.
 
 Pasaulyje ISO/IEC 8859 serijos standartai tiesiogiai (be pakeitimų) naudojami „Unix“ genties operacinėse sistemose (pvz.
 „Linux“).

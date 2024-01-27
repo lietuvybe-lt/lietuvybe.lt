@@ -56,8 +56,8 @@ Jei naudojatės žemesne nei 5.0 „Android“ versija, tuomet atskiro nustatym�
 kalba bus sinchronizuojama su pasirinktos ekraninės klaviatūros kalba. Deja, dauguma ekraninių klaviatūrų neturi jokio
 lietuviškos fizinės klaviatūros išdėstymo, tad lietuviškai rašyti fizine klaviatūra jos galimybės nesuteikia. Tačiau
 nenusiminkite – būtent šiai problemai spręsti yra
-sukurta [„External Keyboard Helper Pro“](https://play.google.com/store/apps/details?id=com.apedroid.hwkeyboardhelper) (
-EKH) programa. Ją įdiegę į savo įrenginį, jo nustatymų skyriuje „Kalba ir įvestis“ pasirinktie klaviatūrą šiuo
+sukurta [„External Keyboard Helper Pro“](https://play.google.com/store/apps/details?id=com.apedroid.hwkeyboardhelper)
+(EKH) programa. Ją įdiegę į savo įrenginį, jo nustatymų skyriuje „Kalba ir įvestis“ pasirinktie klaviatūrą šiuo
 pavadinimu, o jos nuostatose ne tik rasite populiariausiąjį lietuvišką išdėstymą, bet ir galėsite susikurti savo. Ši
 programa kainuoja apie du eurus, tačiau išbandymui ir įsitikinimui, jog ji sprendžia jūsų problemą, galite nemokamai
 įdiegti jos demonstracinę

@@ -89,8 +89,8 @@ instrukcija, [kaip pasigaminti „Windows“ įdiegimo diską su keliomis kalbom
 įdiegti [lietuvių kalbos sąsajos paketą](LIPSETUP.MSI "Windows® XP LT sąsajos paketas"). Jį įdiegus ir
 iš naujo paleidus kompiuterį, šis prabildavo lietuviškai.
 
-„Windows XP“ verslo naudotojams „Microsoft“ siūlė ir kitą variantą – naudoti „Daugiakalbės vartotojo sąsajos“ paketus (
-MUI), suteikiančius galimybę kiekvienam kompiuterio naudotojui naudotis skirtinga „Windows“ sąsajos kalba. Deja, namų
+„Windows XP“ verslo naudotojams „Microsoft“ siūlė ir kitą variantą – naudoti „Daugiakalbės vartotojo sąsajos“ paketus
+(MUI), suteikiančius galimybę kiekvienam kompiuterio naudotojui naudotis skirtinga „Windows“ sąsajos kalba. Deja, namų
 naudotojams tokia galimybė nebuvo suteikiama.
 
 ![Sulietuvintos „Windows XP“ valdymo skydas](WinXPlt.gif "Sulietuvintos „Windows XP“ valdymo skydas")
