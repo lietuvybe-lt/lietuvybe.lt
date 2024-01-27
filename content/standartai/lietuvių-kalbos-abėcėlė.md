@@ -54,7 +54,7 @@ ar žodį.
 
 Dažniau vartojamos kitų kalbų raidės turi lietuviškus vardus: Q – ku, X – iks(as), W – vė dviguboji, Ł – el perbraukta.
 Kai užsienio kalbos raidė turi diakritinį ženklą, tai jos varde dažniausiai vartojamas to ženklo vardas, pavyzdžiui, Ö –
-o su dviem taškais, Õ – o su tilde ir t. t.
+o su dviem taškais, Õ – o su tilde ir t. t.
 
 Raidės „tautybės“ neturi. Todėl santrumpose tariamos taip, kaip jos vadinamos ta kalba, kuria kalbama, lietuviškame
 sakinyje – lietuviškai, pavyzdžiui, ICQ – i-cė-ku, TCP/IP – tė-cė-pė i-pė, DVD diskas – dė-vė-dė diskas, WWW serveris –
