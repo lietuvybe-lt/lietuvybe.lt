@@ -1,15 +1,17 @@
 ---
 title: Nuorodos lokalizuotojams
+linkTitle: Nuorodos
 type: page
 aliases:
     - /nuorodos/nuorodos-lokalizuotojams/
 menu:
     main:
         weight: 50
+        identifier: Nuorodos lokalizuotojams
         parent: Lokalizuotojams
 ---
 
-* [„Translate House“ atviroji programinė įranga lokalizuotojams](http://translatehouse.org/)
+* [„Translate House“ atviroji lokalizavimo programinė įranga](http://translatehouse.org/)
 * Tos pačios komandos parašytas [lokalizavimo vadovas](https://docs.translatehouse.org/projects/localization-guide/en/latest/)
 
 Literatūra
@@ -35,5 +37,5 @@ Galimai pasenusios (bet veikiančios) nuorodos
   organizacijos „Atviras kodas Lietuvai“ svetainėje _(archyvinė kopija)_. Jame apžvelgiama „Gettext“ vertimo failų (`.po`
   ir `.pot`) struktūra, aprašoma keletas komandų darbui su šiais failais
 * Didelis [po failas](liet.po.gz), turintis virš 12208 vertimų eilučių. Galima tiesiog pasiieškoti tikrų žodžių ar
-  sakinių. Kažkada turėtų atsirasti [terminų žodyne]({{< ref "/lokalizuotojams/žodynas" >}})
+  sakinių. Kažkada turėtų atsirasti [terminų žodyne]({{< relref "/lokalizuotojams/žodynai" >}})
 * [Keletas skriptukų](potools.tar.gz), kuriuos Gediminas Paulauskas naudodavo vertimui palengvinti
