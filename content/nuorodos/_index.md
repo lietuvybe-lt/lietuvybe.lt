@@ -28,8 +28,8 @@ Nuorodų archyvas
 Žemiau pateiktos nuorodos ko gero jau prarado bet kokį aktualumą, tad pateikiamos tik kaip istorinė medžiaga:
 
 * [Lietuviški rašmenys elektroninio pašto laiškuose](https://web.archive.org/web/20161103074444/http://www.liks.lt/modules/tinycontent/index.php?id=23)
-  (archyvinė kopija) – instrukcijos įvairių pašto programų pritaikymui darbui su lietuvių kalba. Populiarioms el. pašto
-  programoms tapus „gudresnėmis“ ir išpopuliarėjus tobulesnėms naršyklinėms el. pašto sąsajoms, poreikis šioms
+  (archyvinė kopija) – instrukcijos įvairių pašto programų pritaikymui darbui su lietuvių kalba. Populiarioms el. pašto
+  programoms tapus „gudresnėmis“ ir išpopuliarėjus tobulesnėms naršyklinėms el. pašto sąsajoms, poreikis šioms
   instrukcijoms išnyko, tad tinklalapis ilgą laiką nebuvo pildomas, o vėliau buvo išvis panaikintas.
 * [Lietuvių kalba informacinėse technologijose (LIKIT)](https://web.archive.org/web/20140208175521/http://www.likit.lt/indexw.php)
   (archyvinė kopija) – kadaise gyvavusi valstybės lėšomis sukurta svetainė su standartais, straipsniais, planais ir
