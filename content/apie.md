@@ -42,5 +42,5 @@ prisidėję:
 * Rytis Umbrasas 
 * ir kiti
 
-Jeigu turite pasiūlymų ar komentarų šios svetainės turiniui, juos galite pateikti
+Jeigu turite pasiūlymų ar komentarų šiai svetainei ar jos turiniui, juos galite pateikti
 [„GitHub“ platformoje](https://github.com/lietuvybe-lt/lietuvybe.lt/) (pageidautina) arba Rimui elektroniniu paštu.
