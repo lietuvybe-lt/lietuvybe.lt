@@ -133,10 +133,13 @@ lietuviškos kirčiuotos raidės atvaizduojamos teisingai. Jei jūsų turimi šr
 įsidiekite ir naudokitės [„Palemonu“][2] ir [„Aistika“](https://clarin.vdu.lt/xmlui/handle/20.500.11821/48).
 
 „Windows“ sistemose kirčiuotas raides galima rinkti standartinio išdėstymo pagrindu parengtu išdėstymu, platinamu
-[„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<Fotonijos išdėstymai.zip>), o „macOS“
-sistemose – [Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
+[„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<Fotonijos išdėstymai.zip>) (tiesa, šio paketo
+instrukcijoje nedetalizuota, kaip tai gali būti daroma), o „macOS“ sistemose –
+[Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
 (šis irgi parengtas standartinio pagrindu), arba [Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][3]
-(kirčiuotas „i“, „į“ ir „j“ kombinuojant savarankiškai).
+(kirčiuotas „i“, „į“ ir „j“ kombinuojant savarankiškai). Kirčiuotas raides taip pat galima kombinuoti, naudojantis
+[„Ratisės“ išdėstymu](#ratisė), kurio trečiajame lygyje yra visi trys tam reikalingi kombinaciniai kirčiai ir
+kombinacinis taškas. Be to, „Ratisėje“ yra ir tęsties klavišų. 
 
 „Android“, „iOS“ ir „iPadOS“ klaviatūros
 ----------------------------------------
@@ -153,20 +156,19 @@ Pastabos ir nuorodos
 
 1. Pirminis „Fotonijos“ išdėstymų šaltinis – [programos „Mainukai“ tinklalapis](http://fotonija.lt/mainukai_details.php).
    Mūsų svetainėje platinamas perpakuotas šių išdėstymų rinkinys su pataisyta technine klaida faile `Info.html`;
-2. mes nesame patikrinę, kaip kirčiuotos raidės įvedamos „Fotonijos“ išdėstymais, o instrukcija tai nedetalizuota;
-3. <kbd>Lyg3</kbd> – tai lietuviškas klavišo <kbd>AltGr</kbd>, arba dešiniojo <kbd>Alt</kbd>, pavadinimas. „Windows“
+2. <kbd>Lyg3</kbd> – tai lietuviškas klavišo <kbd>AltGr</kbd>, arba dešiniojo <kbd>Alt</kbd>, pavadinimas. „Windows“
    sistemose šio klavišo funkcija taip pat atlieka laikomi kartu nuspausti <kbd>Vald</kbd>+<kbd>Alt</kbd> klavišai.  
    <kbd>Vald</kbd> – tai lietuviškas <kbd>Ctrl</kbd> klavišo pavadinimas.  
    <kbd>Lyg2</kbd> – tai lietuviškas <kbd>⇧ Shift</kbd> klavišo pavadinimas.
-4. „UNIX“ šeimos operacinėmis sistemomis šiame straipsnyje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
+3. „UNIX“ šeimos operacinėmis sistemomis šiame straipsnyje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
    sistemos, naudojančios „freedesktop.org“ klaviatūros išdėstymų aprašus;
-5. jeigu įrenginyje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
+4. jeigu įrenginyje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
    lietuviškai vis tiek reikia, šios svetainės skyriuje [„Nuorodos“]({{< relref "/nuorodos" >}}) rasite nuorodų į keletą
    virtualių klaviatūros išdėstymų, veikiančių tiesiog interneto naršyklėje;
-6. šiek tiek senų „negamyklinių“ išdėstymų „Windows“ sistemoms galima parsisiųsti iš Registrų centro „LithWin“
+5. šiek tiek senų „negamyklinių“ išdėstymų „Windows“ sistemoms galima parsisiųsti iš Registrų centro „LithWin“
    tinklalapio archyvinių kopijų: [kada.lt](https://web.archive.org/web/20070104192611/http://www.kada.lt:80/litwin/),
    [registrucentras.lt](https://web.archive.org/web/20220518055706/https://www.registrucentras.lt/litwin/);
-7. kai kurių išdėstymų tvarkykles [DOS](https://gedmin.as/lit/index-lt.html) ir
+6. kai kurių išdėstymų tvarkykles [DOS](https://gedmin.as/lit/index-lt.html) ir
    [Linux](https://gedmin.as/lit-con/index-lt.html) sistemoms yra parengęs Marius Gedminas, o
    [QNX sistemoms](http://qnx.projektas.lt/) – Linas Kavaliauskas.
 
