@@ -51,12 +51,8 @@ Jį sudaro atskiros dalys, kurių kiekviena dalis apibrėžia kodų lentelę, pr
 Standarto 13-oji dalis ISO/IEC 8859-13 apibrėžia lotynų 7-osios abėcėlės ženklų rinkinį, turintį lietuviškus rašto
 ženklus. Ji išversta į lietuvių kalbą ir priimta Lietuvos standartu, kuriam suteiktas žymuo LST ISO/IEC 8859-13:2000.
 Šio standarto apibrėžta kodų lentelė kompiuteriuose žymima
-trumpiau – [ISO-8859-13](8859-13.gif "Baltijos šalims skirta ISO 8859–13 kodų lentelė"). Tai
-pagrindinis Lietuvos rašto ženklų kodavimo 8 bitais standartas ir naudotinas duomenų mainams tarp įvairių terpių
-(operacinių sistemų) bei kaip pagrindas kuriant kitus kodavimo standartus.
-
-Pasaulyje ISO/IEC 8859 serijos standartai tiesiogiai (be pakeitimų) naudojami „Unix“ genties operacinėse sistemose (pvz.
-„Linux“).
+trumpiau – [ISO-8859-13](8859-13.gif "Baltijos šalims skirta ISO 8859–13 kodų lentelė"). Tai pagrindinis Lietuvos
+rašto ženklų kodavimo 8 bitais standartas, naudotinas kaip pagrindas kuriant kitus 8 bitų kodavimo standartus.
 
 Standartas LST ISO/IEC 8859-13 nuo 2000 m. pakeitė iki tol galiojusį standartą LST 1282. Tačiau iš tikrųjų pasikeitė tik
 aprašymo pavidalas, o visų ženklų kodai išliko tie patys.
@@ -112,7 +108,7 @@ dalys:
 Senesnės 8 bitų koduotės
 ------------------------
 
-Auksčiau išvardintos 8 bitų koduotės Lietuvoje standartizuotos 2000 metais. Žemiau išvardintos dar senesnės 8 bitų
+Aukščiau išvardintos 8 bitų koduotės Lietuvoje standartizuotos 2000 metais. Žemiau išvardintos dar senesnės 8 bitų
 koduotės, iki 2000 m. naudotos kai kuriose terpėse.
 
 Informacija apie daugumą šių lentelių paimta iš UAB „Fotonija“ svetainės archyvinių kopijų.
