@@ -40,8 +40,7 @@ Skaitmenų eilės klaviatūros išdėstymas
 
 Tai – populiariausias lietuviškas išdėstymas, paplitęs dar devintajame praėjusiojo amžiaus dešimtmetyje. Jame savitosios
 lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą
-<kbd>Lyg3</kbd> (<kbd>AltGr</kbd>) klavišą, o specialieji simboliai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir
-<kbd>Lyg3</kbd> (<kbd>Shift</kbd> ir <kbd>AltGr</kbd>) klavišus.
+<kbd>Lyg3</kbd> klavišą, o specialieji simboliai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus.
 
 Šis išdėstymas nėra oficialiai standartizuotas, nors jo kilmę aiškiai galima įžvelgti 1989 m. priimto Lietuvos standarto
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
