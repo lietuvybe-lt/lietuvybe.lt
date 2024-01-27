@@ -23,7 +23,7 @@ atveju (žodynuose ir kt.) lygiavertėmis laikomos ir raidės, parašytos vienoj
 **I Į Y**  
 **U Ų Ū**
 
-Raidžių rikiavimą apibrėžia standartas [LST 1285:1993]({{< ref "/standartai/kiti-standartai" >}}).
+Raidžių rikiavimą apibrėžia standartas [LST 1285:1993]({{< relref "/standartai/kiti-standartai" >}}).
 
 Lietuviškame tekste pasitaikančiuose užsienio kalbų žodžiuose (pvz., asmenvardžiuose, vietovardžiuose), rašomuose
 originalo kalba, gali būti vartojamos ir kitos lotyniškosios abėcėlės raidės (pvz., Q, W, X, Ä, Õ).

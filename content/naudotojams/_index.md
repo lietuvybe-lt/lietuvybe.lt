@@ -10,4 +10,4 @@ menu:
 kitus tiek eiliniams naudotojams, tiek vertėjams ir lokalizuotojams aktualius dalykus.
 
 Informacija, skirta daugiausia lokalizuotojams,
-pateikta [atskirame skyriuje]({{< ref "/lokalizuotojams" >}}).
+pateikta [atskirame skyriuje]({{< relref "/lokalizuotojams" >}}).

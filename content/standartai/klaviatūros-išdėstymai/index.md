@@ -121,5 +121,5 @@ Kiti klaviatūros išdėstymai
 Be aukščiau paminėtų, yra ir kitų (alternatyvių) lietuviškų klaviatūros išdėstymų. Kadangi kompiuteryje, priešingai nei
 rašomojoje mašinėlėje, naudojamą klaviatūros išdėstymą pakeisti yra labai nesudėtinga, įvairūs efektyvaus spausdinimo
 entuziastai kuria, naudoja ir siūlo kitiems savus išdėstymų
-variantus. [Kai kurie jų paminėti naudotojams skirtame svetainės skyrelyje.]({{< ref "/naudotojams/klaviatūros" >}})
+variantus. [Kai kurie jų paminėti naudotojams skirtame svetainės skyrelyje.]({{< relref "/naudotojams/klaviatūros" >}})
 Jame taip pat rasite nuorodų į įvairių klaviatūros tvarkyklių parsisiuntimo tinklalapius.
