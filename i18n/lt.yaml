@@ -9,6 +9,9 @@
   translation: "Meniu"
 
 # Post meta
+- id: meta_date
+  translation: "Straipsnis pirmąkart paskelbtas"
+
 - id: meta_lastmod
   translation: "Straipsnis taisytas"
 
