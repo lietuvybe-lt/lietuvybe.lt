@@ -18,13 +18,13 @@ jis bent jau žinos apie tokį poreikį ir galbūt, kitą kartą perkant kompiut
 pardavėjų iki šiol mano, jog sulietuvintos programinės įrangos niekam nereikia. Reikalaudami sulietuvintos operacinės
 sistemos, prisidėsite prie šio stereotipo griovimo.
 
-Žemiau pateikiama atskiroms „Windows“ versijoms pritaikyta informacija apie šios šeimos operacinių sistemų
+Žemiau pateikiama atskiroms „Windows“ versijoms pritaikyta informacija apie šios genties operacinių sistemų
 sulietuvinimą.
 
 Windows 10, 11
 --------------
 
-Beveik visas „Windows 10“ ir „Windows 11“ šeimos operacines sistemas (išskyrus „vienos kalbos“ leidimus) galima
+Beveik visas „Windows 10“ ir „Windows 11“ versijų operacines sistemas (išskyrus „vienos kalbos“ leidimus) galima
 sulietuvinti. Jei šiuo metu jūsų „Windows“ sąsaja yra angliška ir norite ją sulietuvinti, atlikite šiuos žingsnius:
 
 1. atverkite pradžios meniu (bakstelėkite mygtuką su „Windows“ logotipu, esantį ekrano apatiniame kairiajame kampe) ir
@@ -59,7 +59,7 @@ o žemiau pateikiamos instrukcijos laikytinos tiesiog istorine informacija.
 
 ### Windows 8, 8.1, RT
 
-Visas „Windows 8“, „Windows 8.1“ ir „Windows RT“ šeimos operacines sistemas taip pat galima sulietuvinti. Tai galite
+Visas „Windows 8“, „Windows 8.1“ ir „Windows RT“ versijų operacines sistemas taip pat galima sulietuvinti. Tai galite
 atlikti, vadovaudamiesi „Microsoft“ svetainėje pateikiama „Windows“ sulietuvinimo instrukcija
 (_[lietuvių k.](https://support.microsoft.com/lt-lt/windows/klaviat%C5%ABros-i%C5%A1d%C4%97stymo-keitimas-245c49b8-f856-7fd7-2cf5-41e54c66f5b3 "Klaviatūros išdėstymo keitimas – „Windows“ palaikymas – microsoft.com"), [anglų k.](https://support.microsoft.com/en-us/windows/change-your-keyboard-layout-245c49b8-f856-7fd7-2cf5-41e54c66f5b3 "Change your keyboard layout – Windows Support – microsoft.com"))_.
 

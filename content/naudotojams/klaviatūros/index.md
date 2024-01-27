@@ -19,7 +19,7 @@ Vienintelis Lietuvoje šiuo metu galiojantis oficialus klaviatūros standartas. 
 trijuose lygiuose. Išsamiau apie šį išdėstymą – [jo svetainėje](http://www.ims.mii.lt/klav/). Joje taip pat rasite
 išdėstymo treniruokles ir keletą kitų gėrybių.
 
-* Išdėstymo tvarkyklės gamykliškai pateikiamos kartu su „Windows“ ir „UNIX“ šeimos operacinėmis sistemomis;
+* Išdėstymo tvarkyklės gamykliškai pateikiamos kartu su „Windows“ ir „UNIX“ genties operacinėmis sistemomis;
 * „macOS“ bei kiek kitokias „Windows“ tvarkykles galite parsisiųsti iš
   [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
 * fizinę klaviatūrą su šiuo išdėstymu šiuo metu galite įsigyti [LISK.lt svetainėje](https://www.lisk.lt/);
@@ -61,7 +61,7 @@ LEKP ir LEKPa
 Santrumpa „LEKP“ reiškia „Lietuviškos ergonomiškos klaviatūros projektas“. Plačiau apie šio projekto sukurtus
 klaviatūros išdėstymus galima paskaityti [jo svetainėje](https://lekp.info/). Ten pat rasite ir išdėstymų tvarkykles.
 
-„UNIX“ šeimos operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
+„UNIX“ genties operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
 
 Ratisė
 ------
@@ -72,7 +72,7 @@ Kitas ergonominės klaviatūros projektas. Autoriaus Algirdo Buckaus teigimu, š
 patogiai naudojamas. Daugiau informacijos apie jį, taip pat jo tvarkyklės –
 [svetainėje](https://albuck.github.io/Ratise-layout/).
 
-„UNIX“ šeimos operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
+„UNIX“ genties operacinėse sistemose šį išdėstymą galima pasirinkti nieko papildomai nediegiant.
 
 IBM (LST 1205-92)
 ---
@@ -83,12 +83,12 @@ Senasis ĄŽERTY išdėstymas, įgyvendinantis LST 1205-92 „lietuviškąjį r
 pravarde. Galbūt tokia tradicija susiklostė todėl, jog tai buvo vienintelis lietuviškas klaviatūros išdėstymas
 kadaise IBM leistoje „OS/2 Warp“ operacinėje sistemoje.
 
-Schemoje juodai atvaizduoti ženklai, nurodytose pozicijose esantys tiek „Windows“, tiek „UNIX“ šeimos operacinių sistemų
-gamykliniuose „IBM“ išdėstymuose; pilkai – tik „UNIX“ šeimos, raudonai – tik „Windows“.
+Schemoje juodai atvaizduoti ženklai, nurodytose pozicijose esantys tiek „Windows“, tiek „UNIX“ genties operacinių
+sistemų gamykliniuose „IBM“ išdėstymuose; pilkai – tik „UNIX“ genties, raudonai – tik „Windows“.
 
 Kaip matyti iš schemos, su „Windows“ sistemomis gamykliškai pateikiamame IBM išdėstyme nenumatytas kai kurių ženklų,
 kaip kad „@“, „Q“, „W“, „X“, įvedimas. Patobulintas šio išdėstymo [„Windows“ tvarkykles](<Fotonijos išdėstymai.zip>)
-yra sukūrusi „Fotonija“. Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“ šeimos sistemose
+yra sukūrusi „Fotonija“. Išdėstymas rinkinyje pavadintas „LT Universal“. Jis panašus į „UNIX“ genties sistemose
 pateikiamą išdėstymą, tačiau sutampa ne visiškai.
 
 Kiti išdėstymai
@@ -160,7 +160,7 @@ Pastabos ir nuorodos
    sistemose šio klavišo funkcija taip pat atlieka laikomi kartu nuspausti <kbd>Vald</kbd>+<kbd>Alt</kbd> klavišai.  
    <kbd>Vald</kbd> – tai lietuviškas <kbd>Ctrl</kbd> klavišo pavadinimas.  
    <kbd>Lyg2</kbd> – tai lietuviškas <kbd>⇧ Shift</kbd> klavišo pavadinimas.
-3. „UNIX“ šeimos operacinėmis sistemomis šiame straipsnyje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
+3. „UNIX“ genties operacinėmis sistemomis šioje svetainėje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
    sistemos, naudojančios „freedesktop.org“ klaviatūros išdėstymų aprašus;
 4. jeigu įrenginyje, kuriuo dirbate, nėra ir negalima įdiegti lietuviško klaviatūros išdėstymo, o parašyti kažką
    lietuviškai vis tiek reikia, šios svetainės skyriuje [„Nuorodos“]({{< relref "/nuorodos" >}}) rasite nuorodų į keletą

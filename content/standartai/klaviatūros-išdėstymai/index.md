@@ -46,7 +46,7 @@ lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuo
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
 
 Egzistuoja skirtingos šio išdėstymo atmainos. Dažniausiai sutinkama atmaina yra pateikiama kaip numatytasis lietuviškos
-klaviatūros išdėstymas su „Windows“ operacinėmis sistemomis. Kiek patobulinta – su „Unix“ šeimos operacinėmis
+klaviatūros išdėstymas su „Windows“ operacinėmis sistemomis. Kiek patobulinta – su „UNIX“ genties operacinėmis
 sistemomis. Pastaroji atmaina papildo su „Windows“ pateikiamą išdėstymą lietuviškomis figūrinėmis kabutėmis, brūkšniu ir
 dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Šio papildyto išdėstymo tvarkykles „Windows“ bei
 „macOS“ sistemoms galima [parsisiųsti iš Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/).
@@ -87,7 +87,7 @@ nurodė klavišų kairės pusės kampuose žymėti būtent „programuotojo rež
 ženklai perkelti į apatinį dešinįjį kampą nepriklausomai nuo to, ar įvedami pirmajame jo lygyje, ar antrajame.
 
 „Lietuviškosios“ veiksenos pagrindu sukurti vadinamieji „IBM“ išdėstymai, iki šiol platinami su „Windows“ operacinėmis
-sistemomis ir „UNIX“ šeimos sistemomis, tačiau jo naudotojų belikę vienetai – dauguma ėmė naudotis panašiu, bet
+sistemomis ir „UNIX“ genties sistemomis, tačiau jo naudotojų belikę vienetai – dauguma ėmė naudotis panašiu, bet
 pažangesniu LST 1582 standarto išdėstymu arba žymiai populiaresniu skaitmenų eilės išdėstymu. „Windows“
 
 ### RST 1092-89 (LST 1092-89)
