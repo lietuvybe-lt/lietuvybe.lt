@@ -30,16 +30,16 @@ originalo kalba, gali būti vartojamos ir kitos lotyniškosios abėcėlės raid�
 
 **Raidžių vardai**
 
-| Raidė | Raidės vardas | Raidė | Raidės vardas | Raidė | Raidės vardas | Raidė | Raidės vardas |
-|-------|---------------|-------|---------------|-------|---------------|-------|---------------|
-| A a   | a             | Ė ė   | ė             | K k   | ka            | Š š   | eš            |
-| Ą ą   | a nosinė      | F f   | ef            | L l   | el            | T t   | tė            |
-| B b   | bė            | G g   | gė            | M m   | em            | U u   | u             |
-| C c   | cė            | H h   | ha            | N n   | en            | Ų ų   | u nosinė      |
-| Č č   | čė            | I i   | i             | O o   | o             | Ū ū   | u ilgoji      |
-| D d   | dė            | Į į   | i nosinė      | P p   | pė            | V v   | vė            |
-| E e   | e             | Y y   | i ilgoji      | R r   | er            | Z z   | zė            |
-| Ę ę   | e nosinė      | J j   | jot           | S s   | es            | Ž ž   | žė            |
+| Raidė | Raidės vardas | | Raidė | Raidės vardas | | Raidė | Raidės vardas | | Raidė | Raidės vardas |
+|-------|---------------|-|-------|---------------|-|-------|---------------|-|-------|---------------|
+| A a   | a             | | Ė ė   | ė             | | K k   | ka            | | Š š   | eš            |
+| Ą ą   | a nosinė      | | F f   | ef            | | L l   | el            | | T t   | tė            |
+| B b   | bė            | | G g   | gė            | | M m   | em            | | U u   | u             |
+| C c   | cė            | | H h   | ha            | | N n   | en            | | Ų ų   | u nosinė      |
+| Č č   | čė            | | I i   | i             | | O o   | o             | | Ū ū   | u ilgoji      |
+| D d   | dė            | | Į į   | i nosinė      | | P p   | pė            | | V v   | vė            |
+| E e   | e             | | Y y   | i ilgoji      | | R r   | er            | | Z z   | zė            |
+| Ę ę   | e nosinė      | | J j   | jot           | | S s   | es            | | Ž ž   | žė            |
 
 Raidžių vardai vartojami, kai reikia raidę įvardyti šnekamojoje kalboje. Pavyzdžiui, sakoma „a nosinė“, „i ilgoji“ ir
 pan. Kai reikia skirti didžiąsias ir mažąsias raides, tai pasakoma ir ši informacija, pavyzdžiui, „a nosinė didžioji“.
@@ -62,5 +62,5 @@ vė-vė-vė serveris, LTV žinios – el-tė-vė žinios (bet el-ti-vi news, el-
 
 Daugiau apie kompiuterijos santrumpas rašoma straipsniuose:
 
-* [Kompiuterijos santrumpos: skolinimasis, vertimas, tarimas](https://web.archive.org/web/20150128074229/http://www.vlkk.lt/lit/naujienos/naujiena.791.html);
+* [Kompiuterijos santrumpos: skolinimasis, vertimas, tarimas](https://www.vlkk.lt/naujienos/kitos-naujienos/kompiuterijos-santrumpos-skolinimasis-vertimas-tarimas);
 * [Santrumpos terminijoje](http://ims.mii.lt/ims/asmen/gintas/publ/gg07-santrumpos.html).
