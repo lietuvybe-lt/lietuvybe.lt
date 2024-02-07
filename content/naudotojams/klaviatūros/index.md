@@ -130,13 +130,13 @@ atgal, neteisingai tariama ar išvis netariama teksto skaitymo balsu programos i
 
 Kad su tokiomis problemomis nesusidurtumėte, rašydami kirčiuotą tekstą stenkitės naudoti tuos šriftus, kuriuose
 lietuviškos kirčiuotos raidės atvaizduojamos teisingai. Jei jūsų turimi šriftai tuo nepasižymi, parsisiųskite,
-įsidiekite ir naudokitės [„Palemonu“][2] ir [„Aistika“](https://clarin.vdu.lt/xmlui/handle/20.500.11821/48).
+įsidiekite ir naudokitės [„Palemonu“][2] ar [„Aistika“](https://clarin.vdu.lt/xmlui/handle/20.500.11821/48).
 
 „Windows“ sistemose kirčiuotas raides galima rinkti standartinio išdėstymo pagrindu parengtu išdėstymu, platinamu
 [„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<Fotonijos išdėstymai.zip>) (tiesa, šio paketo
 instrukcijoje nedetalizuota, kaip tai gali būti daroma), o „macOS“ sistemose –
 [Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
-(šis irgi parengtas standartinio pagrindu), arba [Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][3]
+(parengtas standartinio pagrindu), arba [Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][3]
 (kirčiuotas „i“, „į“ ir „j“ kombinuojant savarankiškai). Kirčiuotas raides taip pat galima kombinuoti, naudojantis
 [„Ratisės“ išdėstymu](#ratisė), kurio trečiajame lygyje yra visi trys tam reikalingi kombinaciniai kirčiai ir
 kombinacinis taškas. Be to, „Ratisėje“ yra ir tęsties klavišų. 
@@ -157,7 +157,7 @@ Pastabos ir nuorodos
 1. Pirminis „Fotonijos“ išdėstymų šaltinis – [programos „Mainukai“ tinklalapis](http://fotonija.lt/mainukai_details.php).
    Mūsų svetainėje platinamas perpakuotas šių išdėstymų rinkinys su pataisyta technine klaida faile `Info.html`;
 2. <kbd>Lyg3</kbd> – tai lietuviškas klavišo <kbd>AltGr</kbd>, arba dešiniojo <kbd>Alt</kbd>, pavadinimas. „Windows“
-   sistemose šio klavišo funkcija taip pat atlieka laikomi kartu nuspausti <kbd>Vald</kbd>+<kbd>Alt</kbd> klavišai.  
+   sistemose šio klavišo funkciją taip pat atlieka laikomi kartu nuspausti <kbd>Vald</kbd>+<kbd>Alt</kbd> klavišai.  
    <kbd>Vald</kbd> – tai lietuviškas <kbd>Ctrl</kbd> klavišo pavadinimas.  
    <kbd>Lyg2</kbd> – tai lietuviškas <kbd>⇧ Shift</kbd> klavišo pavadinimas.
 3. „UNIX“ genties operacinėmis sistemomis šioje svetainėje vadinamos „Linux“, BSD ir kitos šiuolaikinės operacinės
