@@ -44,10 +44,9 @@ Nuorodų archyvas
   svetainė, kurioje galėjote rasti kai kurių programų (tiek komercinių, tiek atvirųjų) sulietuvinimo paketų, žodynų,
   lietuviškų šriftų, rašybos tikrinimo priemonių. Nuo 2010 m. svetainė nebeatnaujinama, tad dauguma programų laikytinos
   pasenusiomis.
-* Teisės aktai ir nutarimai:
-  * Ministro pirmininko tarnyba naudos sulietuvintą programinę įrangą
-    ([2011 m. spaudos pranešimo kopija lrytas.lt svetainėje](https://www.lrytas.lt/it/techno/2011/02/24/news/ministro-pirmininko-tarnyba-naudos-sulietuvinta-programine-iranga-5580427))
-  * LR Vyriausybės nutarimas
-    [Dėl lietuvių kalbos informacinėje visuomenėje 2009–2013 metų programos patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.294883/asr)
-  * LR Vyriausybės nutarimas
-    [Dėl lietuvių kalbos informacinėje visuomenėje 2007–2010 metų programos patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.294883)
+* [Ministro pirmininko tarnyba naudos sulietuvintą programinę įrangą](https://www.lrytas.lt/it/techno/2011/02/24/news/ministro-pirmininko-tarnyba-naudos-sulietuvinta-programine-iranga-5580427)
+  – 2011 m. spaudos pranešimo kopija lrytas.lt svetainėje (pačios Vyriausybės svetainėje ši naujiena nebepasiekiama)
+* LR Vyriausybės nutarimas
+  [Dėl lietuvių kalbos informacinėje visuomenėje 2009–2013 metų programos patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.294883/asr)
+* LR Vyriausybės nutarimas
+  [Dėl lietuvių kalbos informacinėje visuomenėje 2007–2010 metų programos patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.294883)
