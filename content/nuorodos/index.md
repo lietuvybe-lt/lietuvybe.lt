@@ -9,17 +9,21 @@ menu:
         weight: 40
 ---
 
-Čia rasite su IT lietuvinimu susijusias nuorodas. Atkreipkite dėmesį, jog dalis jų iškeltos į atskiras kategorijas.
+Čia rasite nuorodų į įvairius išteklius, susijusius su informacinių technologijų lietuvinimu ir lietuvybe jose.
 
 * [Lietuvių kalbos problemos kompiuteriuose](http://ims.mii.lt/kalba/) – MII Informatikos metodologijos skyriaus
   darbuotojų straipsniai spaudoje.
-* [ViM](http://www.vim.org/) tekstų redaktoriaus [lietuviškas pradžiamokslis](vim-tutor-lt.txt).
 * [Rasyba.lt](http://www.rasyba.lt/) – lietuviškos rašybos tikrinimas online.
 * [„Locale Emulator“](https://xupefei.github.io/Locale-Emulator/) – nedidelė programėlė, padedanti paleisti
   neunikodines (8 bitų) „Windows“ programas kitos kalbos, nei numatyta, aplinkoje.
+* [„Vim“](http://www.vim.org/) tekstų redaktoriaus pradžiamokslo [lietuviškas vertimas](vim-tutor-lt.txt).
 
 Lietuviškos virtualios klaviatūros internete
 --------------------------------------------
+
+Čia pateiktos nuorodos pravers, jei norite lietuviškai rašyti kompiuteriu, kuriame joks lietuviškas klaviatūros
+išdėstymas jums nėra prieinamas. Visgi turėkite omenyje, jog naršyklinės klaviatūros yra sprendimas tik „iš bėdos“ ir
+jis gali veikti ne taip, kaip tikimasi, arba priklausyti nuo pačiame kompiuteryje naudojamo klaviatūros išdėstymo.
 
 * Aido Bendoraičio [Klãva](https://aidas.bendoraitis.lt/archive/tools/klava_v2.0/lt.html) suteikia galimybę rašyti lietuviškai „skaitmenų eilės“ klaviatūros išdėstymu
 * [Gate2Home](http://gate2home.com/Lithuanian-Keyboard) leidžia rinktis iš trijų lietuviškų klaviatūros išdėstymų
