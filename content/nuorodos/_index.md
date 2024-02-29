@@ -33,9 +33,8 @@ Nuorodų archyvas
   instrukcijoms išnyko, tad tinklalapis ilgą laiką nebuvo pildomas, o vėliau buvo išvis panaikintas.
 * [Lietuvių kalba informacinėse technologijose (LIKIT)](http://likit.lt/indexw.php)
   (arba [archyvinė kopija](https://web.archive.org/web/20140208175521/http://www.likit.lt/indexw.php)) –
-  valstybės lėšomis sukurta svetainė, analogiška šiai. 2014 metais ji perduota Lietuvių kalbos instituto nuosavybėn ir
-  nuo tada nebevystoma (ilgą laiką svetainė apskritai buvo „sugriuvusi“), todėl daugumą dar aktualios informacijos iš
-  LIKIT nusprendėme perkelti čia.
+  valstybės lėšomis sukurta svetainė, analogiška šiai. Nuo 2010 metų ji nebevystoma, o ilgą laiką buvo apskritai
+  „sugriuvusi“, todėl daugumą dar aktualios informacijos iš LIKIT nusprendėme perkelti čia.
 * [Unikodas internete](https://web.archive.org/web/20220130222132/http://unicode.strangled.net/lt/index.html) (archyvinė
   kopija) – Ričardo Čepo puslapis, įtikinantis, kad unikodą jau seniai galima naudoti bendraujant internete.
 * [Kompiuteris lietuviškai](https://web.archive.org/web/20200224022418/http://klt.pagalba.com:80/) (archyvinė kopija) –
