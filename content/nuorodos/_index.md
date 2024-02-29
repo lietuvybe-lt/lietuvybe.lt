@@ -21,9 +21,9 @@ menu:
 Lietuviškos virtualios klaviatūros internete
 --------------------------------------------
 
-* Aido Bendoraičio [Klãva](https://aidas.bendoraitis.lt/archive/tools/klava_v2.0/lt.html)
-* [Gate2Home](http://gate2home.com/Lithuanian-Keyboard)
-* [KeymanWeb](https://keymanweb.com/#lt)
+* Aido Bendoraičio [Klãva](https://aidas.bendoraitis.lt/archive/tools/klava_v2.0/lt.html) suteikia galimybę rašyti lietuviškai „skaitmenų eilės“ klaviatūros išdėstymu
+* [Gate2Home](http://gate2home.com/Lithuanian-Keyboard) leidžia rinktis iš trijų lietuviškų klaviatūros išdėstymų
+* [KeymanWeb](https://keymanweb.com/#lt,Keyboard_basic_kbdlt1) leidžia rinktis iš trijų lietuviškų klaviatūros išdėstymų
 
 Nuorodų archyvas
 ----------------
