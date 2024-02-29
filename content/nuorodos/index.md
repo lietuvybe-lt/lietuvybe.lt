@@ -13,7 +13,6 @@ menu:
 
 * [Lietuvių kalbos problemos kompiuteriuose](http://ims.mii.lt/kalba/) – MII Informatikos metodologijos skyriaus
   darbuotojų straipsniai spaudoje.
-* [Rasyba.lt](http://www.rasyba.lt/) – lietuviškos rašybos tikrinimas online.
 * [„Locale Emulator“](https://xupefei.github.io/Locale-Emulator/) – nedidelė programėlė, padedanti paleisti
   neunikodines (8 bitų) „Windows“ programas kitos kalbos, nei numatyta, aplinkoje.
 * [„Vim“](http://www.vim.org/) tekstų redaktoriaus pradžiamokslo [lietuviškas vertimas](vim-tutor-lt.txt).
@@ -34,10 +33,6 @@ Nuorodų archyvas
 
 Žemiau pateiktos nuorodos ko gero jau prarado bet kokį aktualumą, tad pateikiamos tik kaip istorinė medžiaga:
 
-* [Lietuviški rašmenys elektroninio pašto laiškuose](https://web.archive.org/web/20161103074444/http://www.liks.lt/modules/tinycontent/index.php?id=23)
-  (archyvinė kopija) – instrukcijos įvairių pašto programų pritaikymui darbui su lietuvių kalba. Populiarioms el. pašto
-  programoms tapus „gudresnėmis“ ir išpopuliarėjus tobulesnėms naršyklinėms el. pašto sąsajoms, poreikis šioms
-  instrukcijoms išnyko, tad tinklalapis ilgą laiką nebuvo pildomas, o vėliau buvo išvis panaikintas.
 * [Lietuvių kalba informacinėse technologijose (LIKIT)](http://likit.lt/indexw.php)
   (arba [archyvinė kopija](https://web.archive.org/web/20140208175521/http://www.likit.lt/indexw.php)) –
   valstybės lėšomis sukurta svetainė, analogiška šiai. Nuo 2010 metų ji nebevystoma, o ilgą laiką buvo apskritai
