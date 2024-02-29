@@ -31,10 +31,11 @@ Nuorodų archyvas
   (archyvinė kopija) – instrukcijos įvairių pašto programų pritaikymui darbui su lietuvių kalba. Populiarioms el. pašto
   programoms tapus „gudresnėmis“ ir išpopuliarėjus tobulesnėms naršyklinėms el. pašto sąsajoms, poreikis šioms
   instrukcijoms išnyko, tad tinklalapis ilgą laiką nebuvo pildomas, o vėliau buvo išvis panaikintas.
-* [Lietuvių kalba informacinėse technologijose (LIKIT)](https://web.archive.org/web/20140208175521/http://www.likit.lt/indexw.php)
-  (archyvinė kopija) – kadaise gyvavusi valstybės lėšomis sukurta svetainė su standartais, straipsniais, planais ir
-  problemomis. Dabar svetainė sugriuvusi, tad nuoroda veda į jos archyvinę kopiją. Daugumą aktualios informacijos iš
-  LIKIT perkėlėme čia, tačiau gali būti, kad kažkas liko nepastebėta.
+* [Lietuvių kalba informacinėse technologijose (LIKIT)](http://likit.lt/indexw.php)
+  (arba [archyvinė kopija](https://web.archive.org/web/20140208175521/http://www.likit.lt/indexw.php)) –
+  valstybės lėšomis sukurta svetainė, analogiška šiai. 2014 metais ji perduota Lietuvių kalbos instituto nuosavybėn ir
+  nuo tada nebevystoma (ilgą laiką svetainė apskritai buvo „sugriuvusi“), todėl daugumą dar aktualios informacijos iš
+  LIKIT nusprendėme perkelti čia.
 * [Unikodas internete](https://web.archive.org/web/20220130222132/http://unicode.strangled.net/lt/index.html) (archyvinė
   kopija) – Ričardo Čepo puslapis, įtikinantis, kad unikodą jau seniai galima naudoti bendraujant internete.
 * [Kompiuteris lietuviškai](https://web.archive.org/web/20200224022418/http://klt.pagalba.com:80/) (archyvinė kopija) –
