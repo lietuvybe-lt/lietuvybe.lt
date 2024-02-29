@@ -26,6 +26,9 @@
 .submenu__item--active .submenu__link {
     color: #a1c442;
 }
+.post__meta:empty {
+    display: none;
+}
 kbd {
     background-color: #fcfcfc;
     border: 1px solid #cbcbcb;
