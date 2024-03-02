@@ -41,6 +41,6 @@ esti situacijų, kai jie dar gali praversti.
   „Gettext“ vertimo failų (`.po` ir `.pot`) struktūra, aprašoma keletas komandų darbui su šiais failais.
 * Didelis [po failas](liet.po.gz), turintis virš 12000 vertimų eilučių, kuriame galima tiesiog pasiieškoti tikrų žodžių
   ar sakinių. Failas gyvuoja nuo pirmųjų šios svetainės dienų (**2001 metų**, kai ji dar vadinosi lietuvybe.org), tad
-  jo aktualumas vertintinas labai skeptiškai.  
+  jo aktualumas vertintinas labai skeptiškai.
 * [Keletas skriptukų](potools.tar.gz), kuriuos Gediminas Paulauskas naudodavo vertimui palengvinti. Jie taipogi šioje
-  svetainėje gyvuoja nuo **2001 metų** – tikėtina, kad jau ir nenaudingi ar nebeveikiantys.
+  svetainėje gyvuoja nuo **2001 metų** – tikėtina, kad jau nenaudingi ar nebeveikiantys.
