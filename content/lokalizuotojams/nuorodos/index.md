@@ -30,12 +30,17 @@ Literatūra
   International, 2003. Ši knyga yra apie programinės įrangos testavimą, tačiau ji ypatinga tuo, jog lokalizacijos
   testavimui joje skirtas atskiras (šeštasis) skyrius.
 
-Galimai pasenusios (bet veikiančios) nuorodos
----------------------------------------------
+Nuorodų archyvas
+----------------
 
-* [Laisvųjų programų vertimo pradžiamokslis](http://web.archive.org/web/20070217113704/http://www.akl.lt/skaitykla/dokumentacija/?doc=vertimas.html)
-  organizacijos „Atviras kodas Lietuvai“ svetainėje _(archyvinė kopija)_. Jame apžvelgiama „Gettext“ vertimo failų (`.po`
-  ir `.pot`) struktūra, aprašoma keletas komandų darbui su šiais failais
-* Didelis [po failas](liet.po.gz), turintis virš 12208 vertimų eilučių. Galima tiesiog pasiieškoti tikrų žodžių ar
-  sakinių. Kažkada turėtų atsirasti [terminų žodyne]({{< relref "/lokalizuotojams/žodynai" >}})
-* [Keletas skriptukų](potools.tar.gz), kuriuos Gediminas Paulauskas naudodavo vertimui palengvinti
+Šie ištekliai jau stipriai pasenę, tad tikrai nederėtų tikėtis, kad jie atspindi šiandienos aktualias. Vis dėlto, galbūt
+esti situacijų, kai jie dar gali praversti.
+
+* [Laisvųjų programų vertimo pradžiamokslis](http://web.archive.org/web/20070217113704/http://www.akl.lt/skaitykla/dokumentacija/?doc=vertimas.html),
+  **2004 metais** patalpintas organizacijos „Atviras kodas Lietuvai“ svetainėje _(archyvinė kopija)_. Jame apžvelgiama
+  „Gettext“ vertimo failų (`.po` ir `.pot`) struktūra, aprašoma keletas komandų darbui su šiais failais.
+* Didelis [po failas](liet.po.gz), turintis virš 12000 vertimų eilučių, kuriame galima tiesiog pasiieškoti tikrų žodžių
+  ar sakinių. Failas gyvuoja nuo pirmųjų šios svetainės dienų (**2001 metų**, kai ji dar vadinosi lietuvybe.org), tad
+  jo aktualumas vertintinas labai skeptiškai.  
+* [Keletas skriptukų](potools.tar.gz), kuriuos Gediminas Paulauskas naudodavo vertimui palengvinti. Jie taipogi šioje
+  svetainėje gyvuoja nuo **2001 metų** – tikėtina, kad jau ir nenaudingi ar nebeveikiantys.
