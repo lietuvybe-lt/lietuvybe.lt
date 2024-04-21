@@ -10,6 +10,10 @@ menu:
         parent: Naudotojams
 ---
 
+Šiame straipsnelyje aptariami keletas populiaresnių lietuviškų klaviatūros išdėstymų. Pastebėtina – **ne visi!**
+Šiais laikais gan nesudėtinga ir pačiam susikurti savitą kompiuterio klaviatūros išdėstymą, todėl šio straipsnelio
+tikslas **nėra** aprašyti visus kieno nors platinamus, platintus, naudojamus ar naudotus klaviatūros išdėstymus.
+
 LST 1582 (lietuviška standartinė klaviatūra)
 --------------------------------------------
 
