@@ -43,7 +43,10 @@ pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/sta
   figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
 * kiek kitaip „Windows“ išdėstymą [yra papildžiusi „Fotonija“](<Fotonijos išdėstymai.zip>) (rinkinyje jis pavadintas
   „LT Numeric“);
-* „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][3]. Šis išdėstymas papildytas
+* ilgametis „Fotonijos“ darbuotojas V. Dadurkevičius yra parengęs ir
+  [„macOS“ skirtą „Numeric“ išdėstymą](https://clarin.vdu.lt/xmlui/handle/20.500.11821/45), kuriuo galima įvesti ne tik 
+  įprastines lietuviškas, bet ir kirčiuotas, o taip pat daugybės kitų kalbų raides;
+* „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][4]. Šis išdėstymas papildytas
   daugybe rečiau reikalingų ženklų ir funkcijų, tačiau pateikiamas su klaida – mažosios kirčiuotos raidės „i“, „į“ ir
   „j“ raidės juo įvedamos neteisingai (klaidingomis unikodo sekomis), tad šis išdėstymas nelaikytinas visiškai tinkamu
   lietuviškoms kirčiuotoms raidėms rinkti;
@@ -136,10 +139,11 @@ lietuviškos kirčiuotos raidės atvaizduojamos teisingai. Jei jūsų turimi šr
 [„Palemono“ tinklalapyje][2] bei jau minėtais [„Fotonijos“ išdėstymais](<Fotonijos išdėstymai.zip>) (tiesa, šio paketo
 instrukcijoje nedetalizuota, kaip tai gali būti daroma), o „macOS“ sistemose –
 [Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
-(parengtas standartinio pagrindu), arba [Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][3]
-(kirčiuotas „i“, „į“ ir „j“ kombinuojant savarankiškai). Kirčiuotas raides taip pat galima kombinuoti, naudojantis
-[„Ratisės“ išdėstymu](#ratisė), kurio trečiajame lygyje yra visi trys tam reikalingi kombinaciniai kirčiai ir
-kombinacinis taškas. Be to, „Ratisėje“ yra ir tęsties klavišų. 
+(parengtas standartinio pagrindu), [Virginijaus Dadurkevičiaus „Numeric“ išdėstymu][3], arba
+[Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][4] (pastaruoju atveju kirčiuotas „i“, „į“ ir „j“ reikėtų kombinuoti
+savarankiškai). Kirčiuotas raides taip pat galima kombinuoti, naudojantis [„Ratisės“ išdėstymu](#ratisė), kurio
+trečiajame lygyje yra visi trys tam reikalingi kombinaciniai kirčiai ir kombinacinis taškas. Be to, „Ratisėje“ yra ir
+tęsties klavišų. 
 
 „Android“, „iOS“ ir „iPadOS“ klaviatūros
 ----------------------------------------
@@ -174,4 +178,5 @@ Pastabos ir nuorodos
 
 [1]: https://rimas.kudelis.lt/lipdukai/
 [2]: https://www.vlkk.lt/palemonas/
-[3]: http://raides.blavasciunas.com/
+[3]: https://clarin.vdu.lt/xmlui/handle/20.500.11821/45
+[4]: http://raides.blavasciunas.com/
