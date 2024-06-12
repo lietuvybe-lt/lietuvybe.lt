@@ -27,7 +27,6 @@ išdėstymo treniruokles ir keletą kitų gėrybių.
 * „macOS“ bei kiek kitokias „Windows“ tvarkykles galite parsisiųsti iš
   [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
 * fizinę klaviatūrą su šiuo išdėstymu šiuo metu galite įsigyti [LISK.lt svetainėje](https://www.lisk.lt/);
-* Rimo Kudelio svetainėje galite užsisakyti [klaviatūros lipdukų, sužymėtų šiuo išdėstymu][1].
 
 Skaitmenų eilės klaviatūros išdėstymas („Numeric“, „Baltic“)
 ------------------------------------------------------------
@@ -50,7 +49,7 @@ pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/sta
 * ilgametis „Fotonijos“ darbuotojas V. Dadurkevičius yra parengęs ir
   [„macOS“ skirtą „Numeric“ išdėstymą](https://clarin.vdu.lt/xmlui/handle/20.500.11821/45), kuriuo galima įvesti ne tik 
   įprastines lietuviškas, bet ir kirčiuotas, o taip pat daugybės kitų kalbų raides;
-* „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][4]. Šis išdėstymas papildytas
+* „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][1]. Šis išdėstymas papildytas
   daugybe rečiau reikalingų ženklų ir funkcijų, tačiau pateikiamas su klaida – mažosios kirčiuotos raidės „i“, „į“ ir
   „j“ raidės juo įvedamos neteisingai (klaidingomis unikodo sekomis), tad šis išdėstymas nelaikytinas visiškai tinkamu
   lietuviškoms kirčiuotoms raidėms rinkti;
@@ -58,7 +57,7 @@ pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/sta
   [„Baltic+“](https://lekp.info/Išdėstymai). Bene didžiausias jos skirtumas nuo įprasto „Numeric“ išdėstymo – tai
   didžiųjų raidžių klavišo funkcijos pakeitimas, kad jis šalintų tekstą kairėn. Šio išdėstymo tvarkykles „Windows“ ir
   „macOS“ sistemoms galite parsisiųsti iš [LEKP svetainės](https://lekp.info/Tvarkyklės);
-* Rimo Kudelio svetainėje galite užsisakyti [klaviatūros lipdukų, sužymėtų šiuo išdėstymu][1].
+* Rimo Kudelio svetainėje galite užsisakyti [klaviatūros lipdukų, sužymėtų šiuo išdėstymu](https://rimas.kudelis.lt/lipdukai/).
 
 LEKP ir LEKPa
 -------------
@@ -144,7 +143,7 @@ lietuviškos kirčiuotos raidės atvaizduojamos teisingai. Jei jūsų turimi šr
 instrukcijoje nedetalizuota, kaip tai gali būti daroma), o „macOS“ sistemose –
 [Rimo Kudelio platinamu „Accented“ išdėstymu](https://github.com/rimas-kudelis/macos-keyboard-layouts)
 (parengtas standartinio pagrindu), [Virginijaus Dadurkevičiaus „Numeric“ išdėstymu][3], arba
-[Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][4] (pastaruoju atveju kirčiuotas „i“, „į“ ir „j“ reikėtų kombinuoti
+[Ramūno Blavaščiūno „skaičių eilės“ išdėstymu][1] (pastaruoju atveju kirčiuotas „i“, „į“ ir „j“ reikėtų kombinuoti
 savarankiškai). Kirčiuotas raides taip pat galima kombinuoti, naudojantis [„Ratisės“ išdėstymu](#ratisė), kurio
 trečiajame lygyje yra visi trys tam reikalingi kombinaciniai kirčiai ir kombinacinis taškas. Be to, „Ratisėje“ yra ir
 tęsties klavišų. 
@@ -180,7 +179,6 @@ Pastabos ir nuorodos
    [Linux](https://gedmin.as/lit-con/index-lt.html) sistemoms yra parengęs Marius Gedminas, o
    [QNX sistemoms](http://qnx.projektas.lt/) – Linas Kavaliauskas.
 
-[1]: https://rimas.kudelis.lt/lipdukai/
+[1]: http://raides.blavasciunas.com/
 [2]: https://www.vlkk.lt/palemonas/
 [3]: https://clarin.vdu.lt/xmlui/handle/20.500.11821/45
-[4]: http://raides.blavasciunas.com/
