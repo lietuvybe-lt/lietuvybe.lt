@@ -1,3 +1,8 @@
+{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e22d30") -}}
+
+/*
+   Submenu
+*/
 .menu__item {
     position: relative;
 }
@@ -24,8 +29,12 @@
     white-space: nowrap;
 }
 .submenu__item--active .submenu__link {
-    color: #a1c442;
+    color: $highlightColor;
 }
+
+/*
+ Etc
+*/
 .post__meta:empty {
     display: none;
 }
@@ -47,4 +56,57 @@ kbd {
 }
 .w400 {
     max-width: 400px;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #0f0f0f;
+        color: #c0c0c0;
+    }
+    .wrapper {
+        background: #1b1b1b;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: inherit;
+    }
+    a {
+        color: inherit;
+    }
+    hr {
+        border-top-color: #313131;
+    }
+    p {
+        color: inherit;
+    }
+    pre, code {
+        background-color: #272822;
+        border-color: #313131;
+    }
+    pre {
+        color: inherit;
+    }
+    kbd {
+        background-color: #2a2a2a;
+        border-color: #313131;
+        color: inherit;
+    }
+    abbr[title] {
+        border-bottom-color: #c0c0c0;
+    }
+    .header {
+        background: #1b1b1b;
+    }
+    .logo__title {
+        color: #c0c0c0
+    }
+    .logo__tagline {
+        border-top-color: #313131;
+    }
+    .toc {
+        background: transparent;
+        border-color: #313131;
+    }
+    .toc__menu a {
+        border-color: #313131;
+    }
 }
