@@ -11,8 +11,7 @@ menu:
         parent: Naudotojams
 ---
 
-![SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais](sms_lt.png "SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais")
-{.alignright}
+{{< figure src="sms_lt.png" caption="Automatinis SMS pranešimas su lietuviškomis raidėmis, gautas 2012 metais" class="alignright w300" >}}
 
 Praėjusio tūkstantmečio pabaigoje greitai pradėję plisti mobilieji telefonai iš pradžių neturėjo galimybės rašyti ir
 atvaizduoti specifinių lietuviškų raidžių SMS pranešimuose. SMS raidyną tuo metu sudarė tik baziniai lotyniški rašmenys

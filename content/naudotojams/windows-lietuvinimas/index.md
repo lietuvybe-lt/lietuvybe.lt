@@ -12,16 +12,11 @@ Visos „Windows“ operacinės sistemos versijos, pradedant „Windows XP“, t
 Kai kurių gamintojų parduodami kompiuteriai suteikia galimybę pasirinkti šios operacinės sistemos kalbą pirmą kartą
 įjungus kompiuterį.
 
-Kad išvengtumėte papildomų vargų, o kai kuriais atvejais – ir abejonių dėl legalumo, patariame dar kompiuterio pirkimo
-metu informuoti pardavėją, jog norėtumėte sulietuvintos operacinės sistemos. Tuomet, net jeigu pardavėjas jos neturės,
-jis bent jau žinos apie tokį poreikį ir galbūt, kitą kartą perkant kompiuterį, šis klausimas jau bus išspręstas. Nemažai
-pardavėjų iki šiol mano, jog sulietuvintos programinės įrangos niekam nereikia. Reikalaudami sulietuvintos operacinės
-sistemos, prisidėsite prie šio stereotipo griovimo.
+Kad išvengtumėte papildomų vargų, o kai kuriais atvejais – ir abejonių dėl legalumo, patariame dar kompiuterio pirkimo metu informuoti pardavėją, jog norėtumėte sulietuvintos operacinės sistemos.
+Tuomet, net jeigu pardavėjas jos neturės, jis bent jau žinos apie tokį poreikį ir galbūt, kai kitą kartą pirksite kompiuterį, šis klausimas jau bus išspręstas.
+Gaila, bet dalis pardavėjų iki šiol mano, jog sulietuvintos programinės įrangos niekam nereikia. Reikalaudami sulietuvintos operacinės sistemos, prisidėsite prie šio stereotipo griovimo.
 
-„Windows 10“ ir „Windows 11“ sulietuvinimas
---------------------------------------------------
-
-Beveik visas šių versijų operacines sistemas (išskyrus „vienos kalbos“ leidimus) galima sulietuvinti.
+Beveik visas šiuo metu palaikomas „Windows 10“ ir „Windows 11“ sistemas (išskyrus „vienos kalbos“ leidimus) galima sulietuvinti.
 Jei šiuo metu jūsų „Windows“ sąsaja yra angliška ir norite ją sulietuvinti, atlikite šiuos žingsnius:
 
 1. atverkite pradžios meniu (bakstelėkite mygtuką su „Windows“ logotipu, esantį ekrano apatiniame kairiajame kampe) ir
@@ -42,17 +37,11 @@ instrukciją ([lietuvių k.](https://support.microsoft.com/lt-lt/windows/%C4%AFv
 
 Jeigu jūsų kompiuteryje įdiegtas „vienos kalbos“ „Windows“ leidimas, naudojantis ne lietuvių kalbą, jį legaliai sulietuvinti galite dviem būdais.
 **Pirmasis būdas** šiek tiek kainuoja, tačiau galimai yra paprastesnis.
-Tai – atnaujovinti „Windows“ sistemą iki įprastinės (daugiakalbės) „Home“ ar „Pro“ versijos.
+Tai – atnaujovinti „Windows“ sistemą iki įprastinės (daugiakalbės) „Home“ ar „Pro“ versijos, o tada įdiegti lietuvių kalbą pagal aukščiau pateiktą instrukciją.
 **Antrasis būdas** – įdiegti operacinę sistemą naujai, pasirenkant lietuvių kalbą kaip pagrindinę.
 Tai galite padaryti, [iš „Microsoft“ svetainės](https://www.microsoft.com/lt-lt/software-download "Programinės įrangos atsisiuntimas – microsoft.com")
 parsisiuntę ISO atvaizdį ar savarankiško įdiegimo laikmenos pasigaminimo priemonę.
-Šis būdas pigesnis pinigine prasme, tačiau gali pareikalauti šiek tiek laiko ir pastangų, reikalingų pasidaryti atsarginėms kopijoms ir naujai įdiegti naudotoms programoms.
+Šis būdas pigesnis pinigine prasme, tačiau pareikalaus šiek tiek daugiau laiko, žinių ir pastangų, ypač jei kompiuteriu jau naudojatės ilgesnį laiką ir turite jame sukaupę darbinių failų ar įdiegę papildomų programų.
 Kuris kelias priimtinesnis jums – rinkitės patys.
 
-![Sulietuvintos „Windows 11“ ekrano nuotrauka](Win11lt.png "Sulietuvintos „Windows 11“ ekrano nuotrauka")
-
-Ankstesnių „Windows“ versijų sulietuvinimas
--------------------------------------------
-
-Senesnių, jau nebepalaikomų „Windows“ versijų sulietuvinimo instrukcijas rasite
-[šio tinklalapio archyvinėse kopijose](https://web.archive.org/web/*/https://lietuvybė.lt/naudotojams/windows-lietuvinimas/).
+{{< figure src="Win11lt.png" caption="Sulietuvintos „Windows 11“ ekrano nuotrauka" >}}

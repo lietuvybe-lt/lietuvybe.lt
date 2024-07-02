@@ -42,3 +42,9 @@ kbd {
     padding: 3px 5px;
     vertical-align: middle;
 }
+.w300 {
+    max-width: 300px;
+}
+.w400 {
+    max-width: 400px;
+}

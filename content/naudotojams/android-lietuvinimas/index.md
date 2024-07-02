@@ -7,21 +7,15 @@ menu:
         parent: Naudotojams
 ---
 
-Bemaž visų dabar parduodamų „Android“ įrenginių programinė įranga yra lokalizuota, o kalbų ir klaviatūrų perjungimas
-juose vykdomas atitinkamame sistemos nustatymų skyriuje (pvz., nuotraukoje – „Kalba ir įvestis“). Be to, dauguma
-įrenginių suteikia galimybę pasirinkti sąsajos kalbą iš sąrašo pirmojo paleidimo metu, arba atkūrus gamyklinius
-įrenginio parametrus.
+Bemaž visų dabar parduodamų „Android“ įrenginių programinė įranga yra lokalizuota, o kalbų ir klaviatūrų perjungimas juose vykdomas atitinkamame sistemos nustatymų skyriuje (kur tiksliau – priklauso nuo įrenginio gamintojo ir jame įdiegtos „Android“ versijos).
+Be to, dauguma įrenginių suteikia galimybę pasirinkti sąsajos kalbą iš sąrašo pirmojo paleidimo metu, arba atkūrus gamyklinius įrenginio parametrus.
 
-Jei visgi jūsų įrenginys neturi lietuvių kalbos, padėti gali atitinkamo regiono programinės įrangos įrašymas į jį, o jei
-tokio nėra ar jis vis tiek neturi lietuvių kalbos – modifikuoti (neoficialūs) „Android“ atvaizdžiai,
-pavyzdžiui, „[Lineage OS](http://lineageos.org/)“ (buvęs „CyanogenMod“). Atvaizdžių savo įrenginiams taip pat galima
-ieškoti [XDA forume](http://forum.xda-developers.com/), o šiek tiek instrukcijų lietuviškai –
-rasti [„Androidmanijos“ forume](http://www.androidmanija.lt/forum/). Deja, bet mažiau populiariems įrenginiams
-patobulinto „Androido“ gali ir nebūti. Be to, derėtų nepamiršti, jog, perrašant operacinę sistemą neoficialiu būdu,
-galima prarasti įrenginio garantiją ar net jį sugadinti.
+Jei visgi jūsų įrenginys neturi lietuvių kalbos ir nenorite jo keisti, padėti gali atitinkamo regiono programinės įrangos įrašymas į jį,
+o jei tokios nėra ar joje vis tiek nėra lietuvių kalbos – neoficialūs „Android“ atvaizdžiai, pavyzdžiui, „[Lineage OS](http://lineageos.org/)“.
 
-![Sulietuvinta „Android“ sąsaja](android-lt1.png "Sulietuvinta „Android“ sąsaja")
-![Sulietuvintos „Android“ nuostatų ekranas](android-lt2.png "Sulietuvintos „Android“ nuostatų ekranas")
+Atvaizdžių savo įrenginiams taip pat galima paieškoti [XDA forume](http://forum.xda-developers.com/).
+Deja, mažiau populiariems įrenginiams tokių atvaizdžių galite ir nerasti.
+Be to, derėtų nepamiršti, jog, perrašant operacinę sistemą neoficialia, galima prarasti įrenginio garantiją ar net jį sugadinti.
 
 Rašymas lietuviškai „Android“ įrenginiais
 =========================================
@@ -29,8 +23,7 @@ Rašymas lietuviškai „Android“ įrenginiais
 Rašymas ekranine klaviatūra
 ---------------------------
 
-![„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu](android_anysoftkeyboard.png "„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu")
-{.alignright}
+{{< figure src="android_anysoftkeyboard.png" caption="„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu" class="alignright w300" >}}
 
 Dauguma „Android“ įrenginių galima rašyti lietuviškai. Deja, neretai tai nepatogu, nes specifinės lietuviškos raidės
 ekraninėse klaviatūrose būna pasiekiamos tik ilgai palaikius pamatinę raidę (pvz., norint parašyti „Ą“, reikia ilgai

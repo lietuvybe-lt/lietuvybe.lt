@@ -14,6 +14,7 @@ markup:
         parser:
             attribute:
                 block: true
+            wrapStandAloneImageWithinParagraph: false
 params:
     description: Lietuvių kalba informacinėse technologijose
     subtitle: Lietuvių kalba informacinėse technologijose
