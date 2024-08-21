@@ -110,3 +110,21 @@ kbd {
         border-color: #313131;
     }
 }
+
+@media print {
+    body {
+        background: none;
+    }
+    .container--outer {
+        margin: 0 auto;
+    }
+    .menu {
+        display: none;
+    }
+    .footer {
+        background: transparent;
+    }
+    .footer a {
+        color: inherit;
+    }
+}
