@@ -9,9 +9,10 @@ menu:
 
 {{< figure src="iPadOS_kalbos_ir_regiono_parametrai.png" caption="„iPadOS“ kalbos ir regiono nustatymai" class="alignright w400" >}}
 
-Sulietuvintą naudoojo sąsają „iPhone“ telefonuose ir „iPad“ planšetiniuose kompiuteriuose „Apple“ atstovai žada šiemet: rugsėjį planuojama išleisti „iOS 18“ ir „iPadOS 18“ operacines sistemas, kurios turės lietuvių kalbą. Beje, sulietuvintos šių operacinių sistemų _beta_ versijos išleistos jau dabar.
+Naudotojo sąsają „iPhone“ telefonuose ir „iPad“ planšetiniuose kompiuteriuose „Apple“ oficialiai sulietuvino tik „iOS 18“ ir „iPadOS 18“ operacinėse sistemose, išleistose 2024 m. rugsėjį.
+Jei naudojatės palaikomos kartos „iPhone“ ar „iPad“ (2018-ųjų ar vėlesnių metų modeliu, išskyrus šeštos kartos „iPad“), galite jame turėti lietuvišką sąsają, prieš tai, jei reikia, [atnaujinę įrenginio operacinę sistemą][ios-atnaujinimas].
 
-Deja, senesni „iPhone“, „iPad“ ir „iPod Touch“, į kuriuos naujovinti iki „iOS 18“ ar „iPadOS 18“ nėra ir nebus galimybės, neturi nė pusėtino sulietuvinimo, tad net ir pasirinkus tinkamiausias lietuvių kalbai nuostatas, įrenginys su jumis ir toliau bendraus anglų ar kita pasirinkta kalba.
+Deja, senesni „iPhone“, „iPad“ ir „iPod Touch“, kuriuos naujinti iki „iOS 18“ ar „iPadOS 18“ nėra ir nebus galimybės, neturi nė pusėtino sulietuvinimo, tad net ir pasirinkus tinkamiausias lietuvių kalbai nuostatas, įrenginys su jumis ir toliau bendraus anglų ar kita pasirinkta kalba.
 
 Jei norite pakeisti pagrindinę „iPhone“ „iPad“, ar „iPod Touch“ kalbą iš anglų į kurią nors kitą palaikomą, atlikite šiuos žingsnius:
 
@@ -20,9 +21,9 @@ Jei norite pakeisti pagrindinę „iPhone“ „iPad“, ar „iPod Touch“ kal
 3. tuomet raskite ir bakstelėkite punktą **Language & Region**;
 4. jei norima kalba jau yra pageidaujamų kalbų sąraše, bet norite ją naudoti kaip pagrindinę – pertempkite ją į sąrašo viršų.<br>
    Priešingu atveju – bakstelėkite **Add Language...** ir atsivėrusiame sąraše pasirinkite norimą pridėti kalbą;
-6. dialogo lange pasirinkite, kurią kalbą nuo šiol norite naudoti kaip pagrindinę.
+5. dialogo lange pasirinkite, kurią kalbą nuo šiol norite naudoti kaip pagrindinę.
 
-_Parengta pagal „Apple“ pateikiamą instrukciją ([lietuvių k.](https://support.apple.com/lt-lt/109358 "Kalbos keitimas „iPhone“ arba „iPad“ – „Apple“ palaikymas – apple.com"), [anglų k.](https://support.apple.com/en-us/109358 "Change the language on your iPhone or iPad – Apple Support – apple.com"))._
+_Parengta pagal „Apple“ pateikiamą instrukciją ([lietuvių k.][ios-kalbos-keitimas-lt], [anglų k.][ios-kalbos-keitimas-en])._
 
 Rašymas lietuviškai „iOS“ ir „iPadOS“ įrenginiais
 =================================================
@@ -35,11 +36,10 @@ skyriaus **Bendri** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyr
 
 „iOS“ ir „iPadOS“ įrenginiais galima rašyti lietuviškai, tačiau naudojantis gamykliniu ekraninės klaviatūros išdėstymu tai nepatogu: savitosios lietuviškos raidės jame pasiekiamos tik ilgai palaikius pamatinę raidę (pvz., norint parašyti „Ą“, reikia ilgai palaikyti ekraninės klaviatūros klavišą „A“).
 
-Laimei, šiuose įrenginiuose galima diegti papildomas ekranines klaviatūras, ir lietuvis Linas Valiukas yra sukūręs [klaviatūrą „Alt+Shift“](https://www.altshiftkeyboard.com/lt/), atskiroje klavišų eilutėje pateikiančią visas specifines lietuviškas raides. Jei norite savo „iPhone“ ar „iPad“ įrenginiu lietuviškai rašyti patogiau, galbūt norėsite ją išbandyti.
-Vis dėlto, atkreipiame dėmesį, jog paskutinis šios ekraninės klaviatūros atnaujinimas išleistas 2017 metais, o naudotojai ją įvertinę gan prastai.  
+Laimei, šiuose įrenginiuose galima diegti papildomas ekranines klaviatūras, iš kurių paminėsime dvi:
 
-Nemažai skirtingų išdėstymų turi nemokama [„Keyman“](https://keyman.com/iphone-and-ipad/) ekraninė klaviatūra.
-Be to, ši klaviatūra suteikia galimybę naudotis ir savo susikurtais išdėstymais.
+* daugiaplatformę nemokamą [„Keyman“][keyman-klaviatūra]. Ši klaviatūra galbūt kiek nuvils savo išvaizda, tačiau ji pateikia visą eilę lietuviškų išdėstymų bei suteikia galimybę naudotis savo susikurtais;
+* lietuvio Lino Valiuko sukurtą [„Alt+Shift“][alt-shift-klaviatūra], atskiroje klavišų eilutėje pateikiančią visas specifines lietuviškas raides. Deja, nors ši klaviatūra ekrano nuotraukose atrodo puikiai, ji kainuoja du eurus, tačiau nebevystoma nuo 2017-ųjų metų, todėl prastai veikia šiuolaikiniuose įrenginiuose.
 
 Rašymas fizine klaviatūra
 -------------------------
@@ -49,3 +49,9 @@ Norint lietuviškai rašyti prie „iOS“ ar „iPadOS“ įrenginio prijungta 
 
 „Apple“ įrenginiai gamykliškai išleidžiami tik su vienu lietuvišku fizinės klaviatūros išdėtymu – senąja skaitmenų eilės klaviatūros išdėstymo atmaina, kurioje skaitmenims ir specialiesiems simboliams įvesti naudojamas tęsties klavišas <kbd>`</kbd>.
 Nors į „macOS“ galima nesudėtingai įdiegti papildomus išdėstymus, mūsų žiniomis, nei „iOS“ ir „iPadOS“ tokios galimybės neturi.
+
+[ios-atnaujinimas]: https://support.apple.com/lt-lt/118575 "Atnaujinkite savo „iPhone“ arba „iPad“ įrenginį – „Apple“ palaikymas – apple.com"
+[ios-kalbos-keitimas-lt]: https://support.apple.com/lt-lt/109358 "Kalbos keitimas „iPhone“ arba „iPad“ – „Apple“ palaikymas – apple.com"
+[ios-kalbos-keitimas-en]: https://support.apple.com/en-us/109358 "Change the language on your iPhone or iPad – Apple Support – apple.com"
+[alt-shift-klaviatūra]: https://www.altshiftkeyboard.com/lt/ "Lietuviška „iOS“ klaviatūra – „Alt+Shift“ klaviatūra – alshiftkeyboard.com"
+[keyman-klaviatūra]: https://keyman.com/iphone-and-ipad/ "Keyman for iPhone and iPad – Keyman – keyman.com"
