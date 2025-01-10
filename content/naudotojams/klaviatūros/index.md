@@ -57,7 +57,6 @@ pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/sta
   [„Baltic+“](https://lekp.info/Išdėstymai). Bene didžiausias jos skirtumas nuo įprasto „Numeric“ išdėstymo – tai
   didžiųjų raidžių klavišo funkcijos pakeitimas, kad jis šalintų tekstą kairėn. Šio išdėstymo tvarkykles „Windows“ ir
   „macOS“ sistemoms galite parsisiųsti iš [LEKP svetainės](https://lekp.info/Tvarkyklės);
-* Rimo Kudelio svetainėje galite užsisakyti [klaviatūros lipdukų, sužymėtų šiuo išdėstymu](https://rimas.kudelis.lt/lipdukai/).
 
 LEKP ir LEKPa
 -------------
