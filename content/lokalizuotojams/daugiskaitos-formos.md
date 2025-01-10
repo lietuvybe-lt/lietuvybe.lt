@@ -9,14 +9,14 @@ menu:
         parent: Lokalizuotojams
 ---
 
-Lietuvių kalboje naudojamos trys skaitos formos (vienaskaita ir du daugiskaitos variantai). Kadangi tokie vertimai kaip „21 failai“ niekam nepatinka, ir mūsų kalba šiuo požiūriu visai nėra unikali, kai kurios vertimo technologijos suteikia galimybę naudoti daugiau kaip dvi skaitos formas.
+Lietuvių kalboje naudojamos trys skaitos formos (vienaskaita ir du daugiskaitos variantai). Kadangi tokie vertimai kaip „21 failai“ niekam nepatinka, o mūsų kalba šiuo požiūriu visai nėra unikali, kai kurios vertimo technologijos suteikia galimybę naudoti daugiau kaip dvi skaitos formas.
 
-Gettext (.po failai)
+gettext (.po failai)
 --------------------
 
-Jeigu lokalizuodami „Gettext“ naudojančią programą, pasitelkiate specialiai lokalizavimui skirtą įrankį ir joje nurodote, jog verčiate į lietuvių kalbą, tuomet labai tikėtina, jog jums papildomai nieko daryti nereikia – jūsų įrankis turėtų pats aptikti eilutes, kurias verčiant, galima naudoti skaitos formas, ir tokių eilučių atveju jums pateiks tris atskirus laukus išverstam tekstui įvesti.
+Jeigu lokalizuodami „gettext“ naudojančią programą pasitelkiate specialiai lokalizavimui skirtą įrankį ir joje nurodote, jog verčiate į lietuvių kalbą, tuomet labai tikėtina, jog jums papildomai nieko daryti nereikia – jūsų įrankis turėtų pats aptikti eilutes, kurias verčiant, galima naudoti skaitos formas, ir tokių eilučių atveju jums pateiks tris atskirus laukus išverstam tekstui įvesti.
 
-Jeigu vertimui naudojate paprastą teksto redaktorių, lietuviško „Gettext“ failo antraštėje nurodykite tokią skaitos formų eilutę:
+Jeigu vertimui naudojate paprastą teksto redaktorių, lietuviško „gettext“ failo antraštėje nurodykite tokią skaitos formų eilutę:
 
 ```shell
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
@@ -46,7 +46,7 @@ Dabar, versdami ištekliaus eilutes su nurodytu „msgid\_plural“ parametru, j
 #, c-format
 msgid "%d file (%s)"
 msgid_plural "%d files (%s)"
-msgstr[0] "%d failas (%s)"   # 1 failas
-msgstr[1] "%d failai (%s)"   # 2-9 failai
-msgstr[2] "%d failų (%s)"    # 10 failų
+msgstr[0] "%d failas (%s)"   # 1 failas (failo vardas)
+msgstr[1] "%d failai (%s)"   # 2-9 failai (failų vardai)
+msgstr[2] "%d failų (%s)"    # 10 failų (failų vardai)
 ```
