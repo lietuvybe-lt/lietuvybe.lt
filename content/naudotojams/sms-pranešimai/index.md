@@ -1,6 +1,5 @@
 ---
 title: Lietuvybė SMS pranešimuose
-linkTitle: SMS pranešimai
 type: page
 date: 2012-09-17
 aliases:
