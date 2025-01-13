@@ -37,7 +37,7 @@ Populiariausias lietuviškas išdėstymas, kartais vadinamas „Numeric“. Jame
 išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą <kbd>Lyg3</kbd> klavišą, o spec. simboliai –
 laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus. Senesniajame „Baltic“ variante vietoj
 <kbd>Lyg3</kbd> naudojamas tęsties klavišas <kbd>\`</kbd>. Šis išdėstymas nėra oficialiai standartizuotas, tačiau jo
-pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/standartai/klaviatūros-išdėstymai" >}}).
+pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/standartai/klaviatūros-išdėstymai#rst1092-89-lst1092-89" >}}).
 
 * Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose, o „Apple“
   gaminiuose jo „Baltic“ variantas apskritai yra vienintelis gamykliškai platinamas lietuviškas klaviatūros išdėstymas.
