@@ -11,6 +11,8 @@ menu:
 
 Čia rasite nuorodų į įvairius išteklius, susijusius su informacinių technologijų lietuvinimu ir lietuvybe jose.
 
+* [Raštija.lt](https://raštija.lt) – integruotų lietuvių kalbos ir raštijos išteklių informacinė sistema, valdoma Vilniaus universiteto. Čia pateikiami įvairių Lietuvos mokslo institucijų su kalba vykdytų projektų rezultatai, galima vykdyti paiešką įvairiuose žodynuose.
+* [E. kalba](https://ekalba.lt/) – lietuvių kalbos išteklių informacinė sistema. Joje galima naudotis keliolika žodynų, kartotekų, duomenų bazių ir pan.
 * [Lietuvių kalbos problemos kompiuteriuose](http://ims.mii.lt/kalba/) – MII Informatikos metodologijos skyriaus
   darbuotojų straipsniai spaudoje.
 * [„Locale Emulator“](https://xupefei.github.io/Locale-Emulator/) – nedidelė programėlė, padedanti paleisti
@@ -35,7 +37,7 @@ Nuorodų archyvas
 * [Lietuvių kalba informacinėse technologijose (LIKIT)](http://likit.lt/indexw.php)
   (arba [archyvinė kopija](https://web.archive.org/web/20140208175521/http://www.likit.lt/indexw.php)) –
   valstybės lėšomis sukurta svetainė, analogiška šiai. Nuo 2010 metų ji nebevystoma, o ilgą laiką buvo apskritai
-  „sugriuvusi“, todėl daugumą dar aktualios informacijos iš LIKIT nusprendėme perkelti čia.
+  „sugriuvusi“. Dalis informacijos iš LIKIT jau perkelta čia, tačiau dar šį bei tą gal praverstų perkelti papildomai.
 * [Unikodas internete](https://web.archive.org/web/20220130222132/http://unicode.strangled.net/lt/index.html) (archyvinė
   kopija) – Ričardo Čepo puslapis, įtikinantis, kad unikodą jau seniai galima naudoti bendraujant internete.
 * [Kompiuteris lietuviškai](https://web.archive.org/web/20200224022418/http://klt.pagalba.com:80/) (archyvinė kopija) –
