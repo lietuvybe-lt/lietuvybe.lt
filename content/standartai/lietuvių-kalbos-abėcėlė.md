@@ -31,7 +31,7 @@ originalo kalba, gali būti vartojamos ir kitos lotyniškosios abėcėlės raid�
 **Raidžių vardai**
 
 | Raidė | Raidės vardas | | Raidė | Raidės vardas | | Raidė | Raidės vardas | | Raidė | Raidės vardas |
-|-------|---------------|-|-------|---------------|-|-------|---------------|-|-------|---------------|
+|:------|:--------------|-|:------|:--------------|-|:------|:--------------|-|:------|:--------------|
 | A a   | a             | | Ė ė   | ė             | | K k   | ka            | | Š š   | eš            |
 | Ą ą   | a nosinė      | | F f   | ef            | | L l   | el            | | T t   | tė            |
 | B b   | bė            | | G g   | gė            | | M m   | em            | | U u   | u             |
@@ -41,24 +41,35 @@ originalo kalba, gali būti vartojamos ir kitos lotyniškosios abėcėlės raid�
 | E e   | e             | | Y y   | i ilgoji      | | R r   | er            | | Z z   | zė            |
 | Ę ę   | e nosinė      | | J j   | jot           | | S s   | es            | | Ž ž   | žė            |
 
-Raidžių vardai vartojami, kai reikia raidę įvardyti šnekamojoje kalboje. Pavyzdžiui, sakoma „a nosinė“, „i ilgoji“ ir
-pan. Kai reikia skirti didžiąsias ir mažąsias raides, tai pasakoma ir ši informacija, pavyzdžiui, „a nosinė didžioji“.
+Raidžių vardai vartojami, kai reikia raidę įvardyti šnekamojoje kalboje. Pavyzdžiui, sakoma „a nosinė“, „i ilgoji“ ir pan.
+Kai reikia skirti didžiąsias ir mažąsias raides, tai pasakoma ir ši informacija, pavyzdžiui, „a nosinė didžioji“.
 
-Raidžių vardai vartojami tariant raidines žodžių santrumpas, pavyzdžiui, JAV – jot-a-vė, UAB – u-a-bė. Bet kai
-santrumpos raidės sudaro sklandžiai tariamą žodį, tai tada raidės nevardijamos, o tariamas tas žodis, pavyzdžiui NATO –
-nato, MIME – mime.
+Kirčiuotos raidės
+-----------------
 
-Kai raidės vardas ilgesnis, tariama tik pagrindinė (pirmoji) jo dalis, pavyzdžiui, tariant santrumpą LŽŪB – el-žė-u-bė
-vietoj „u ilgoji“ sakoma tik „u“. Visas raidės vardas sakomas tada, kai reikia tiksliai įvardyti mažai žinomą santrumpą
-ar žodį.
+Kaip žinoma, bendrinė lietuvių kalba, be pagrindinės abėcėlės, turi ir kirčiuotas raides.
+Jos gali būti pavartotos žodynuose, enciklopedijose, vadovėliuose, tekstynuose, terminologinėse duomenų bazėse ir pan., o kartais, norint išvengti dviprasmybių, jos praverčia ir kasdieniuose tekstuose.
+Lietuvių kalboje vartojami trys kirčio ženklai: kairinis (\`), riestinis (˜) ir dešininis (´), galimos iš viso 34 raidžių ir kirčių kombinacijos:
+
+**Àà Áá Ãã Ą́ą́ Ą̃ą̃ Èè Éé Ẽẽ Ę́ę́ Ę̃ę̃ Ė́ė́ Ė̃ė̃ Ìi̇̀ Íi̇́ Ĩi̇̃ Į́į̇́ Į̃į̇̃ Ýý Ỹỹ J̃j̇̃ L̃l̃ M̃m̃ Ññ Òò Óó Õõ R̃r̃ Ùù Úú Ũũ Ų́ų́ Ų̃ų̃ Ū́ū́ Ū̃ū̃**
+
+Rikiuojant, kirčiuotos raidės visada laikytinos lygiavertėmis atitinkamoms nekirčiuotoms raidėms.
+
+Raidžių tarimas santrumpose
+---------------------------
+
+Raidžių vardai vartojami tariant raidines žodžių santrumpas, pavyzdžiui, LRT – el-er-tė, UAB – u-a-bė.
+Kai santrumpos raidės sudaro sklandžiai tariamą žodį, tai tada raidės nevardijamos, o tariamas tas žodis, pavyzdžiui NATO – nato, MIME – mime.
+
+Kai raidės vardas ilgesnis, santrumpoje tariama tik pagrindinė (pirmoji) jo dalis, pavyzdžiui, tariant santrumpą LŽŪB – el-žė-u-bė vietoj „u ilgoji“ sakoma tik „u“.
+Visas raidės vardas sakomas tada, kai reikia tiksliai įvardyti mažai žinomą santrumpą ar žodį.
 
 Dažniau vartojamos kitų kalbų raidės turi lietuviškus vardus: Q – ku, X – iks(as), W – vė dviguboji, Ł – el perbraukta.
-Kai užsienio kalbos raidė turi diakritinį ženklą, tai jos varde dažniausiai vartojamas to ženklo vardas, pavyzdžiui, Ö –
-o su dviem taškais, Õ – o su tilde ir t. t.
+Kai užsienio kalbos raidė turi diakritinį ženklą, tai jos varde dažniausiai vartojamas to ženklo vardas, pavyzdžiui, Ö – o su dviem taškais, Õ – o su tilde ir t. t.
 
-Raidės „tautybės“ neturi. Todėl santrumpose tariamos taip, kaip jos vadinamos ta kalba, kuria kalbama, lietuviškame
-sakinyje – lietuviškai, pavyzdžiui, ICQ – i-cė-ku, TCP/IP – tė-cė-pė i-pė, DVD diskas – dė-vė-dė diskas, WWW serveris –
-vė-vė-vė serveris, LTV žinios – el-tė-vė žinios (bet el-ti-vi news, el-te-fau Nachrichten).
+Raidės „tautybės“ neturi, todėl santrumpose tariamos taip, kaip jos vadinamos ta kalba, kuria kalbama, lietuviškame
+sakinyje – lietuviškai, pavyzdžiui, SQL – es-ku-el, TCP/IP – tė-cė-pė i-pė, USB laikmena – u-es-bė laikmena, WWW serveris –
+vė-vė-vė serveris, BTV žinios – bė-tė-vė žinios (bet bi-ti-vi news, be-te-fau nachrichten).
 
 Daugiau apie kompiuterijos santrumpas rašoma straipsniuose:
 
