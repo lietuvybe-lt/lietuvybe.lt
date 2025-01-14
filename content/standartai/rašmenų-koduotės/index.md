@@ -497,8 +497,11 @@ Aukštesnioji lentelės pusė:
 </div>
 
 ### BALTIC EBCDIC (1112 ir 1156)
+
 EBCDIC grupės koduotės yra skirtos „didiesiems“ kompiuteriams (angl. _mainframe_) ir įprastame vartojime praktiškai nesutinkama.
-[1112 kodų lentelė][BALTIC EBCDIC vaizdas] nuo 1156 skiriasi tik viena pozicija: 1112 lentelėje 9F pozicijoje yra bendrinis valiutos ženklas (¤), o 1156 lentelėje – euro ženklas (€).
+[1112 kodų lentelė][BALTIC EBCDIC vaizdas] nuo 1156 skiriasi tik viena pozicija: 1112 lentelėje 9F pozicijoje yra bendrinis valiutos ženklas (¤), o atnaujintoje 1156 lentelėje – euro ženklas (€).
+1112 kodų lentelė apibrėžta Latvijos standarte RST 0040-90.
+Panašu, kad Lietuvoje ji standartizuota nebuvo.
 
 EBCDIC koduotės sudarytos kitu principu, nei ASCII pagrindo koduotės, todėl žemiau 1156 koduotės lentelė pateikiama visa apimtimi:
 
