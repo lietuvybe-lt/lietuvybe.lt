@@ -52,7 +52,7 @@ Daugumos aštuonbičių koduočių žemesnioji pusė (pirmos 128 pozicijos) suta
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | 0… | ␀  | ␁  | ␂  | ␃  | ␄  | ␅  | ␆  | ␇  | ␈  | ␉  | ␊  | ␋  | ␌  | ␍  | ␎  | ␏  |
 | 1… | ␐  | ␑  | ␒  | ␓  | ␔  | ␕  | ␖  | ␗  | ␘  | ␙  | ␚  | ␛  | ␜  | ␝  | ␞  | ␟  |
-| 2… | ␠  | !  | "  | #  | $  | %  | &  | '  | (  | )  | \* | +  | ,  | \- | .  | /  |
+| 2… | ␠  | \! | "  | #  | $  | %  | &  | '  | (  | )  | \* | +  | ,  | \- | .  | /  |
 | 3… | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | :  | ;  | <  | \= | \> | ?  |
 | 4… | @  | A  | B  | C  | D  | E  | F  | G  | H  | I  | J  | K  | L  | M  | N  | O  |
 | 5… | P  | Q  | R  | S  | T  | U  | V  | W  | X  | Y  | Z  | \[ | \\ | \] | ^  | \_ |
@@ -478,6 +478,7 @@ Aukštesnioji lentelės pusė:
 Pirmoji plačiau naudota lietuviška [kodų lentelė][Spectrum vaizdas] „Windows“ terpei.
 Ši koduotė nebuvo standartizuota.
 Žvelgiant į lentelę, panašu, kad ši koduotė buvo sukurta, tiesiog pakeitus po devynias mažąsias ir didžiąsias raides ISO/IEC 8859-1 koduotėje ir pridėjus du viengubų figūrinių kabučių ženklus.
+Kaip ir kelios kitos atskirų vietinių įmonių sukurtos koduotės, „Spectrum“ nespėjo labai paplisti – jas visas greitai išstūmė „Windows-1257“.
 
 Aukštesnioji lentelės pusė:
 
@@ -495,7 +496,35 @@ Aukštesnioji lentelės pusė:
 | F… | ð    | ñ  | ò  | ó  | ô  | õ  | š  | ÷  | ø  | ų  | ū  | ž  | ü  | ý  | þ  | ÿ  |
 </div>
 
-Kaip ir kelios kitos atskirų įmonių sukurtos koduotės, „Spectrum“ nespėjo labai paplisti – jas visas greitai išstūmė „Windows-1257“.
+### BALTIC EBCDIC (1112 ir 1156)
+EBCDIC grupės koduotės yra skirtos „didiesiems“ kompiuteriams (angl. _mainframe_) ir įprastame vartojime praktiškai nesutinkama.
+[1112 kodų lentelė][BALTIC EBCDIC vaizdas] nuo 1156 skiriasi tik viena pozicija: 1112 lentelėje 9F pozicijoje yra bendrinis valiutos ženklas (¤), o 1156 lentelėje – euro ženklas (€).
+
+EBCDIC koduotės sudarytos kitu principu, nei ASCII pagrindo koduotės, todėl žemiau 1156 koduotės lentelė pateikiama visa apimtimi:
+
+<div style="font-size:150%">
+
+|    | …0  | …1   | …2  | …3  | …4  | …5 | …6  | …7  | …8  | …9   | …A  | …B  | …C | …D | …E | …F  |
+|----|-----|------|-----|-----|-----|----|-----|-----|-----|------|-----|-----|----|----|----|-----|
+| 0… | ␀   | ␁    | ␂   | ␃   | ST  | ␉  | SSA | ␡   | SSA | RI   | SS2 | ␋   | ␌  | ␍  | ␎  | ␏   |
+| 1… | ␐   | ␑    | ␒   | ␓   | OSC | NL | ␈   | ESA | ␘   | ␙    | PU2 | SS3 | ␜  | ␝  | ␞  | ␟   |
+| 2… | PAD | HOP  | BPH | NBH | IND | ␊  | ␗   | ␛   | HTS | HTJ  | VTS | PLD | UP | ␅  | ␆  | ␇   |
+| 3… | DCS | PU1  | ␖   | STS | CCH | MW | SPA | ␄   | SOS | SGCI | SCI | CSI | ␔  | ␕  | PM | ␚   |
+| 4… | ␠   | NBSP | š   | ä   | ą   | į  | ū   | å   | ē   | ž    | ¢   | .   | <  | (  | +  | \!  |
+| 5… | &   | é    | ę   | ė   | č   | ų  | „   | “   | ģ   | ß    | !   | $   | *  | )  | ;  | ¬   |
+| 6… | -   | /    | Š   | Ä   | Ą   | Į  | Ū   | Å   | Ē   | Ž    | ¦   | ,   | %  | _  | >  | ?   |
+| 7… | ø   | É    | Ę   | Ė   | Č   | Ų  | Ī   | Ļ   | Ģ   | `    | :   | #   | @  | '  | =  | "   |
+| 8… | Ø   | a    | b   | c   | d   | e  | f   | g   | h   | i    | «   | »   | ā  | ż  | ń  | ±   |
+| 9… | °   | j    | k   | l   | m   | n  | o   | p   | q   | r    | Ŗ   | ŗ   | æ  | ķ  | Æ  | €   |
+| A… | µ   | ~    | s   | t   | u   | v  | w   | x   | y   | z    | ”   | ź   | Ā  | Ż  | Ń  | ®   |
+| B… | ^   | £    | ī   | ·   | ©   | §  | ¶   | ¼   | ½   | ¾    | [   | ]   | Ź  | Ķ  | ļ  | ×   |
+| C… | {   | A    | B   | C   | D   | E  | F   | G   | H   | I    | SHY | ō   | ö  | ņ  | ó  | õ   |
+| D… | }   | J    | K   | L   | M   | N  | O   | P   | Q   | R    | ¹   | ć   | ü  | ł  | ś  | ’   |
+| E… | \   | ÷    | S   | T   | U   | V  | W   | X   | Y   | Z    | ²   | Ō   | Ö  | Ņ  | Ó  | Õ   |
+| F… | 0   | 1    | 2   | 3   | 4   | 5  | 6   | 7   | 8   | 9    | ³   | Ć   | Ü  | Ł  | Ś  | APC |
+</div>
+
+Kaip ir aukščiau, šioje lentelėje nespausdinami ženklai žymimi jų grafiniam atvaizdavimui skirtais ženklais, o kai tokių Unikode nėra – įprastinėmis santrumpomis.
 
 [„Unicode“ konsorciumas]: http://www.unicode.org/ "Unicode – The World Standard for Text and Emoji – unicode.org"
 [Unikodo versijos]: https://www.unicode.org/versions/ "About Versions of the Unicode® Standard – The Unicode Standard – unicode.org"
@@ -516,3 +545,4 @@ Kaip ir kelios kitos atskirų įmonių sukurtos koduotės, „Spectrum“ nespė
 [DOS 777 vaizdas]: 777.gif "DOS 777 kodų lentelė (grafinis vaizdas)"
 [MacCE vaizdas]: 10029-k.gif "„Mac OS Central European“ (10029) kodų lentelė (grafinis vaizdas)"
 [Spectrum vaizdas]: spectrum.gif "„Spectrum“ kodų lentelė (grafinis vaizdas)"
+[BALTIC EBCDIC vaizdas]: baltic-ebcdic.gif "BALTIC EBCDIC 1112 kodų lentelė (grafinis vaizdas)"
