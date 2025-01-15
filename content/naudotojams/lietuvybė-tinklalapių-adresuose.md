@@ -7,12 +7,12 @@ menu:
         parent: Naudotojams
 ---
 
-Turbūt jau niekam nebekyla klausimų, ar lietuviškus rašmenis galima naudoti tinklalapiuose.
+Turbūt jau niekam nebekyla klausimų, ar savituosius lietuviškus rašmenis galima naudoti tinklalapiuose.
 Tačiau ar galima juos naudoti svetainių ir tinklalapių adresuose?
 
-Atsakymas į šį klausimą labai paprastas – taip!
+Atsakymas į šį klausimą labai paprastas – taip! Ir ši svetainė – puikus to pavyzdys.
 
-Nuo 2004 metų Lietuvoje galima registruoti sričių vardus su visomis lietuvių kalbos abėcėlės raidėmis, įskaitant devynias savitąsias.
+Nuo 2004 metų Lietuvoje (.lt vardų srityje) galima registruoti sričių vardus su visomis lietuvių kalbos abėcėlės raidėmis, įskaitant devynias savitąsias.
 Tokie sričių vardai registruojami, naudojant specialų jų kodavimo būdą, leidžiantį išlaikyti suderinamumą su senomis sistemomis, vadinamą [„Punycode“][Punycode].
 Sričių vardus su visomis lietuviškomis (ir ne tik!) raidėmis palaiko visos interneto naršyklės, tačiau [saugumo sumetimais][IDN homograph attack] tokius vardus adreso lauke jos rodo ne visada.
 
@@ -22,13 +22,11 @@ Tokiu atveju derėtų pakoreguoti patį saitą, į jį įrašant tinkamai perkod
 Visgi, šiais laikais ši problema vargu ar bėra aktuali, nes kone visi bent jau nauji tinklalapiai šiais laikais yra koduojami būtent UTF-8 koduote.
 Be to, jei tinklalapį redaguojate „ką matai, tą ir gauni“ tipo priemonėmis, tikėtina, kad adresą, jei reikia, už jus užkoduos jos.
 
-Atkreipkite dėmesį, jog svetainės ar tinklalapio adresas su savitosiomis lietuviškomis raidėmis ir be jų nurodo į potencialiai skirtingus išteklius.
+Atkreipkite dėmesį, jog svetainės ar tinklalapio adresas su savitosiomis lietuviškomis raidėmis ir be jų nurodo į galimai skirtingus ir nesusijusius išteklius.
 Pavyzdžiui, į naršyklės adreso lauką įvedus adresą lietuvyb**e**.lt, jus pasitiks kitas tinklalapis, nei įvedus adresą lietuvyb**ė**.lt.
 Naršydami nepamirškite šio niuanso, kad neatsidurtumėte apgavikų pinklėse.
 O jei registruoti srities vardą ir kurti svetainę dar tik ketinate patys – apsvarstykite galimybę įsigyti tiek vardą su savitosiomis lietuviškomis raidėmis, jei tokių yra jūsų norimame žodyje, tiek be jų.
-Įsigydami abu adresus ir vieną iš jų automatiškai nukreipdami į antrąjį, padėsite savo lankytojams nepasiklysti.
-
-Beje, pastebėkite, jog ši svetainė naudoja savitąsias lietuviškas raides tiek srities varde (lietuvyb**ė**.lt), tiek tinklalapių adresuose.
+Įsigydami abu adresus ir vieną iš jų automatiškai nukreipdami į antrąjį, ne tik padėsite savo lankytojams nepasiklysti, bet ir užtikrinsite lengvą patekimą į svetainę tiems iš jų, kurie dėl kokių nors priežasčių negali įvesti savitųjų lietuviškų raidžių.
 
 Yra dar vienas nedidelis nesklandumas: kai kurios naršyklės, kopijuojant adresą su savitosiomis lietuviškomis raidėmis, jį automatiškai užkoduoja, tokiu būdu paversdamos žymiai sunkiau skaitomu.
 Tai daroma atgalinio suderinamumo tikslais, tačiau šiais laikais vargu ar praktiška, ypač kai norima adresą palikti matomą (pavyzdžiui, spaudinyje).

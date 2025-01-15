@@ -38,8 +38,10 @@ skyriaus **Bendri** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyr
 
 Laimei, šiuose įrenginiuose galima diegti papildomas ekranines klaviatūras, iš kurių paminėsime dvi:
 
-* daugiaplatformę nemokamą [„Keyman“][keyman-klaviatūra]. Ši klaviatūra galbūt kiek nuvils savo išvaizda, tačiau ji pateikia visą eilę lietuviškų išdėstymų bei suteikia galimybę naudotis savo susikurtais;
-* lietuvio Lino Valiuko sukurtą [„Alt+Shift“][alt-shift-klaviatūra], atskiroje klavišų eilutėje pateikiančią visas specifines lietuviškas raides. Deja, nors ši klaviatūra ekrano nuotraukose atrodo puikiai, ji kainuoja du eurus, tačiau nebevystoma nuo 2017-ųjų metų, todėl prastai veikia šiuolaikiniuose įrenginiuose.
+* daugiaplatformę nemokamą [„Keyman“][keyman-klaviatūra].
+  Ši klaviatūra galbūt kiek nuvils savo išvaizda, tačiau ji pateikia visą eilę lietuviškų išdėstymų bei suteikia galimybę naudotis savo susikurtais;
+* lietuvio Lino Valiuko sukurtą [„Alt+Shift“][alt-shift-klaviatūra], atskiroje klavišų eilutėje pateikiančią visas specifines lietuviškas raides.
+  Deja, nors ši klaviatūra ekrano nuotraukose atrodo puikiai, ji kainuoja du eurus ir nebevystoma nuo 2017-ųjų metų, todėl prastai veikia šiuolaikiniuose įrenginiuose.
 
 Rašymas fizine klaviatūra
 -------------------------
