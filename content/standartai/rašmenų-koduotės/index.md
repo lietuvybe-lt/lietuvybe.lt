@@ -9,28 +9,36 @@ menu:
         parent: Standartai
 ---
 
-LST ISO/IEC 10646-1 (Unikodas)
-------------------------------
+LST ISO/IEC 10646-1 (UCS, Unikodas)
+-----------------------------------
 
-**_Lietuvos standartas LST ISO/IEC 10646-1. Universalus keliais baitais koduotų ženklų rinkinys. 1 dalis. Sandara ir
-pagrindinė daugiakalbė lentelė._**
+**_Lietuvos standartas LST ISO/IEC 10646-1. Universalus keliais baitais koduotų ženklų rinkinys. 1 dalis. Sandara ir pagrindinė daugiakalbė lentelė._**
 
-Standartas ISO/IEC 10646 apibrėžia ženklų kodavimą 32 bitais (4 baitais). Jis yra Unikodo, apibrėžiančio ženklų kodavimą
-16 bitų (2 baitais), viršaibis.
+ISO/IEC 10646 (angl. _Universal Coded Character Set_, UCS) ir Unikodas yra du stipriai tarpusavyje suderinti standartai, kuriami dviejų atskirų glaudžiai bendradarbiaujančių organizacijų.
+Pirmąjį sukūrė ir tobulina [Tarptautinė standartų organizacija (ISO)][Tarptautinė standartų organizacija], o antrąjį – [„Unicode“ konsorciumas][„Unicode“ konsorciumas].
 
-Unikodą kuria [„Unicode“ konsorciumas][„Unicode“ konsorciumas], kuris nepriklauso Tarptautinei standartų organizacijai.
-Todėl Unikodas nelaikomas tarptautiniu standartu. Tačiau abi organizacijos glaudžiai bendradarbiauja. Dėl to ženklų
-kodavimas standarte ISO/IEC 10646 ir Unikode yra suderintas. Visi Unikodo ženklai yra standarte ISO/IEC 10646, visų jų
-kodų pirmieji 16 bitų lygūs nuliui, o kitų 16 bitų Unikodo kodai sutampa su ISO/IEC 10646 kodais. Todėl nėra esminių
-skirtumų tarp šių dviejų kodavimų.
+Nors standartas ISO/IEC 10646 apibrėžia ženklų kodavimą 32 bitais (4 baitais), o Unikodas – 16 bitų (2 baitais), šiuo metu abu standartai numato galimybę užkoduoti kiek virš 1,1 milijono skirtingų ženklų.
+Faktinė užkoduotų ženklų aibė yra žymiai mažesnė, tačiau ji nuolatos didėja, nes [kasmet išleidžiamos][Unikodo versijos] naujos Unikodo versijos.
 
-Unikodas yra nuolat papildomas standartas: [kasmet išleidžiama][Unikodo versijos] nauja jo versija.
-Lietuvoje standartas ISO/IEC 10646-1 yra priimtas viršelio būdu ir jam suteiktas žymuo LST ISO/IEC 10646-1.
-Standarte LST ISO/IEC 10646-1 yra visos pagrindinės ir 33 kirčiuotos lietuviškos abėcėlės raidės.
+Pastebėtina, kad Unikodas nėra koduotė – tai rašto ženklų rinkinys, kuriame kiekvienas ženklas turi konkrečią priskirtą poziciją (numerį, angliškai vadinamą _code point_).
+Kalbant apie konkrečias Unikodo pozicijas, jos paprastai žymimos užrašu „U+xxxx“, kur „xxxx“ – pozicijos numeris šešioliktainiu formatu, pavyzdžiui, raidė „O“ užrašoma taip: U+004F.
+Unikodo standarte aprašyti trys šių ženklų kodavimo (vertimo konkrečiomis baitų sekomis) būdai, arba koduotės: UTF-8, UTF-16 ir UTF-32. Praktikoje yra naudojami dar keli.
+
+Unikodo pozicijų numeriai dažnai vadinami Unikodo kodais, tačiau būtina suprasti, jog U+xxxx reiškia **ne konkrečią baitų seką, bet pozicijos numerį**.
+Konkreti baitų seka visuomet priklauso nuo naudojamos koduotės.
+
+Unikodą galima laikyti ISO standarto viršaibiu, nes jis aprašo ne tik ženklų kodavimą, bet ir rikiavimo, išraiškų normalizavimo, teksto krypties taisykles ir kai kuriuos kitus dalykus apie kuriuos ISO standarte nekalbama.
+Tinkamam daugiakalbystės palaikymui vien tik ISO standartą palaikyti nepakanka – būtina tinkamai realizuoti ir Unikodo palaikymą.
+Neformalioje kalboje skirtumas tarp šių standartų dažniausiai neakcentuojamas ir kalbama tiesiog apie Unikodą.
+
+Unikode yra visos pagrindinės ir 33 kirčiuotos lietuviškos abėcėlės raidės.
 Likusias 35 kirčiuotas raides galima išreikšti kompozicinėmis sekomis.
+Kompozicinę seką sudaro paeiliui einantys pamatinės raidės ir kombinacinio kirčio kodai, o mažųjų raidžių **i**, **į**, ir **j** atvejais tarp jų įsiterpia ir kombinacinio taško kodas.
+Pavyzdžiui, raidė **m̃** (mažoji raidė m su riestiniu kirčiu) išreiškiama kodų seka U+006D U+0303, o raidė **į̇́** (mažoji raidė i nosinė su dešininiu kirčiu) – kodų seka U+012F U+0307 U+0301.
 
-Pastebėtina, kad Unikodas nėra koduotė – tai rašto ženklų rinkinys, kuriame kiekvienas ženklas turi konkrečią priskirtą vietą (numerį, angliškai vadinamą _code point_).
-Pačiame standarte yra aprašyti trys šių ženklų kodavimo (vertimo konkrečiomis baitų sekomis) būdai: UTF-8, UTF-16 ir UTF-32. Praktikoje yra naudojami dar keli.
+Kone visuose kituose koduočių standartuose, bent jau patvirtintuose ar atnaujintuose nuo 2000 metų, ISO/IEC 10646 standartas naudojamas kaip atspirties taškas – konkrečios pozicijos tose koduotėse yra vienareikšmiškai įvardijamos kaip konkrečių jo pozicijų ar sekų atitikmenys.
+
+Lietuvoje standartas ISO/IEC 10646-1 yra priimtas viršelio būdu ir jam suteiktas žymuo LST ISO/IEC 10646-1.
 
 8 bitų koduotės
 ---------------
@@ -42,7 +50,7 @@ Aštuonbičių koduočių, ypač Lietuvos kompiuterizavimo pradžioje, buvo dar 
 Apie kai kurias jų šiais laikais praktiškai nelikę jokios informacijos.
 
 Atkreipkite dėmesį, jog šiandien visos šios koduotės aktualios tik atvirkštinio suderinamumo tikslais – kai reikia galimybės dirbti su jomis užkoduotais duomenimis.
-Visose naujose sistemose kaip pagrindinę koduotę derėtų naudoti tik Unikodą.
+Visose naujose programose ir sistemose kaip pagrindinę koduotę derėtų naudoti tik Unikodą.
 
 Daugumos aštuonbičių koduočių žemesnioji pusė (pirmos 128 pozicijos) sutampa su 7 bitų ASCII koduote. Su ja taip pat sutampa ir pirmos 128 Unikodo pozicijos. Jos atrodo štai taip ir žemiau nebus kartojamos:
 
@@ -529,6 +537,7 @@ EBCDIC koduotės sudarytos kitu principu, nei ASCII pagrindo koduotės, todėl �
 
 Kaip ir aukščiau, šioje lentelėje nespausdinami ženklai žymimi jų grafiniam atvaizdavimui skirtais ženklais, o kai tokių Unikode nėra – įprastinėmis santrumpomis.
 
+[Tarptautinė standartų organizacija]: https://www.iso.org/ "ISO – International Organization for Standardization – iso.org"
 [„Unicode“ konsorciumas]: http://www.unicode.org/ "Unicode – The World Standard for Text and Emoji – unicode.org"
 [Unikodo versijos]: https://www.unicode.org/versions/ "About Versions of the Unicode® Standard – The Unicode Standard – unicode.org"
 [ISO 8859]: https://en.wikipedia.org/wiki/ISO/IEC_8859 "Informacija apie ISO/IEC 8859 standartą (anglų k.)"
