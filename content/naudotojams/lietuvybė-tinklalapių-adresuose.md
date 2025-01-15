@@ -1,69 +1,45 @@
 ---
-title: Gražūs internetiniai vardai. Kaip išsaugoti jų grožį?
-linkTitle: Lietuvybė tinklalapių adresuose
+title: Lietuvybė tinklalapių adresuose
 type: page
-date: 2021-09-12
 menu:
     main:
         weight: 90
         parent: Naudotojams
-# Adresuose dvitaškius pakeičiau į &colon;, nes neradau kaip atjungti automatinį linkify'inimą tik šiam straipsniui.
 ---
 
-**_Dr. Gintautas Grigas_**
+Turbūt jau niekam nebekyla klausimų, ar lietuviškus rašmenis galima naudoti tinklalapiuose.
+Tačiau ar galima juos naudoti svetainių ir tinklalapių adresuose?
 
-Jau tapo tradicija, kad kiekvieną pavasarį renkamas gražiausias interneto domeno (srities) vardas, turintis savitųjų
-lietuviškų raidžių. Šiais metais visuomenei buvo pateikta 12 vardų. Štai jie Išrašyti gautų balsų mažėjimo eile:
-_Jūrė.lt_, _Burtažodžiai.lt_, _ŠatrijosUgnis.lt_, _AuksinėŽuvelė.lt_ , _NepaleiskSvajonės.lt_, _Nešiukšlė.lt_,
-_KlajojančiosIstorijos.lt_, _Švaruolis.lt_, _Neužmiršk.lt_, _Šakotas.lt_, _BegalybėsŠirdis.lt_, _ŠeimosUžrašai.lt_.
-Trumpai apie pirmuosius tris.
+Atsakymas į šį klausimą labai paprastas – taip!
 
-Daugiausia balsų surinkęs vardas _Jūrė.lt_ tapo pripažintas gražiausiu 2021 metų vardu. Jis priklauso Jūrės kaimo
-bendruomenės, esančios Marijampolės apskrityje, svetainei. Jos pirmajame puslapyje skelbiama: „Čia buvom, esam, būsim“.
-Tai kaimiškos bendruomenės tvirtumo pavyzdys – atsvara kaimų nykimui.
+Nuo 2004 metų Lietuvoje galima registruoti sričių vardus su visomis lietuvių kalbos abėcėlės raidėmis, įskaitant devynias savitąsias.
+Tokie sričių vardai registruojami, naudojant specialų jų kodavimo būdą, leidžiantį išlaikyti suderinamumą su senomis sistemomis, vadinamą [„Punycode“][Punycode].
+Sričių vardus su visomis lietuviškomis (ir ne tik!) raidėmis palaiko visos interneto naršyklės, tačiau [saugumo sumetimais][IDN homograph attack] tokius vardus adreso lauke jos rodo ne visada.
 
-Antroje vietoje _Burtažodžiai.lt_. Svetainė, skirta fantastinių romanų serialo pagrindinio herojaus Hario Poterio
-pasauliui. Serialas buvo populiarus. Tikėkimės, kad daugelis jo skaitytojų užsuks ir į šią svetainę.
+Su savitosiomis lietuviškomis raidėmis tinklalapių adresų dalyje, kuri nėra srities vardas (po pirmojo pavienio pasvirojo brūkšnio) situacija panaši: nors „po kapotu“ savitosios lietuviškos raidės adresuose yra koduojamos, kad „sutilptų“ į ASCII kodų lentelę, visos šiuolaikinės naršyklės, naudotojui adreso laukelyje įvedus adresą su savitosiomis lietuviškomis raidėmis ar kitais ženklais, tokį adresą perkoduos [reikiamu būdu][IRI].
+Tiesa, jei tinklalapio adresas su savitosiomis lietuviškomis raidėmis bus įrašytas kaip saito adresas kitame tinklalapyje, nenaudojančiame UTF-8 koduotės, toks saitas gali neveikti.
+Tokiu atveju derėtų pakoreguoti patį saitą, į jį įrašant tinkamai perkoduotą tinklalapio adresą.
+Visgi, šiais laikais ši problema vargu ar bėra aktuali, nes kone visi bent jau nauji tinklalapiai šiais laikais yra koduojami būtent UTF-8 koduote.
+Be to, jei tinklalapį redaguojate „ką matai, tą ir gauni“ tipo priemonėmis, tikėtina, kad adresą, jei reikia, už jus užkoduos jos.
 
-Trečioje vietoje _ŠatrijosUgnis_. Tai svetainė amžinosios ugnies kūrenimui prie Šatrijos kalno. Jos paantraštė: _Jungia
-Žemę ir Dausas, praeitį, ateitį ir dabartį_.
+Atkreipkite dėmesį, jog svetainės ar tinklalapio adresas su savitosiomis lietuviškomis raidėmis ir be jų nurodo į potencialiai skirtingus išteklius.
+Pavyzdžiui, į naršyklės adreso lauką įvedus adresą lietuvyb**e**.lt, jus pasitiks kitas tinklalapis, nei įvedus adresą lietuvyb**ė**.lt.
+Naršydami nepamirškite šio niuanso, kad neatsidurtumėte apgavikų pinklėse.
+O jei registruoti srities vardą ir kurti svetainę dar tik ketinate patys – apsvarstykite galimybę įsigyti tiek vardą su savitosiomis lietuviškomis raidėmis, jei tokių yra jūsų norimame žodyje, tiek be jų.
+Įsigydami abu adresus ir vieną iš jų automatiškai nukreipdami į antrąjį, padėsite savo lankytojams nepasiklysti.
 
-Kaip matome, visos trys svetainės turi ne tik turi gražius internetinius vardus, bet ir įdomius, prasmingus tekstus.
+Beje, pastebėkite, jog ši svetainė naudoja savitąsias lietuviškas raides tiek srities varde (lietuvyb**ė**.lt), tiek tinklalapių adresuose.
 
-Kai kurie vardai sudaryti iš dviejų ar daugiau sulietų žodžių. Mat domenų varduose negali būti tarpų. Tam, kad matytųsi
-riba tarp žodžių, antrąjį žodį rašėme iš didžiosios raidės. Internetinio adreso pagrindinėje dalyje, t. y. prieš
-pasvirąjį brūkšnį, mažosios ir didžiosios raidės laikomos lygiavertėmis. Todėl spaudoje jas galime naudoti taip, kad
-būtų lengviau skaityti, o užrašytos į naršyklės adresų juostą didžiosios virsta mažosiomis – kad būtų lengviau
-naršyklei.
+Yra dar vienas nedidelis nesklandumas: kai kurios naršyklės, kopijuojant adresą su savitosiomis lietuviškomis raidėmis, jį automatiškai užkoduoja, tokiu būdu paversdamos žymiai sunkiau skaitomu.
+Tai daroma atgalinio suderinamumo tikslais, tačiau šiais laikais vargu ar praktiška, ypač kai norima adresą palikti matomą (pavyzdžiui, spaudinyje).
+Yra pora gan paprastų būdų šį nesklandumą apeiti.
+Pirmasis – prieš kopijuojant adresą, jį pakoreguoti taip, kad naršyklė jo nelaikytų adresu.
+Pavyzdžiui, į adreso pradžią įterpiant kokį nors papildomą ženklą, kad ir tarpą. Kopijuoti galima su tuo ženklu arba be jo (tada to ženklo nereikės iš kopijos pašalinti).
+Kitas būdas – pažymėti ir kopijuoti tik dalį adreso, pavyzdžiui, vietoj _https&colon;//lietuvybė.lt_ tik _lietuvybė.lt_.
 
-Tarkime, kad naršydami po internetą aptinkame svetainę, kurios adrese, matomame adresų juostoje, yra savitųjų lietuviškų
-raidžių, pavyzdžiui, _http&colon;//raštija.lt_. Jį nukopijuojame ir, bandydami įrašyti į kurį nors tekstą, pavyzdžiui,
-programos „Word“ dokumentą, kartais galime gauti _http&colon;//www.xn&#x2d;&#x2d;ratija-ckb.lt_. Vardas raštija ne tik
-prarado grožį, bet ir tapo neįskaitomas. Kas tai? Gal kopijavimo klaida?
+Plačiau apie lietuviškus tinklalapių vardus skaitykite dr. Gintauto Grigo 2021 metų straipsnyje [„Gražūs internetiniai vardai. Kaip išsaugoti jų grožį?“][Gintauto straipsnis] „Lietuvos aido“ svetainėje.
 
-Tai naršyklės klaida. Švelniau tariant – naršyklės neprisitaikymas prie šiuolaikinių realijų.
-
-Koduojama tam, kad galėtų būti panaudojama internetinė įranga tų laikų, kada internetas buvo vien angliškas.Tai vidinis
-interneto dalykas ir neturi būti matomas išorėje. Yra naršyklių (pvz., „Mozilla Firefox“, „Microsoft Edge“), kuriose
-kodas yra paslėptas ir tokių nesklandumų nebūna. Bet yra ir tokių, kuriose kodai išlenda į paviršių ir taip sugadindami
-gražūs domenų vardai. Tačiau ir tokiu atveju galima nesunkiai užkirsti kelią nesklandumui. Prieš kopijuojant adresą
-reikia jį pakoreguoti taip, kad naršyklė jo nelaikytų adresu. Pavyzdžiui, į adreso pradžią įterpti kokį nors papildomą
-ženklą, kad ir tarpą. Kopijuoti galima su tuo ženklu arba be jo (tada to ženklo nereikės iš kopijos pašalinti).
-Nesklandumų neiškyla ir kopijuojant dalį adreso, pavyzdžiui, iš _http&colon;//raštija.lt_ tik _raštija.lt_.
-
-Savitosios lietuvių kalbos raidės gali būti vartojamos internetiniuose adresuose ir po viengubo pasvirojo brūkšnio,
-pavyzdžiui, _https&colon;//lt.wikipedia.org/wiki/Jūrė_. Jeigu bandysime nukopijuoti šį adresą , gausime
-_https&colon;//lt.wikipedia.org/wiki/J%C5%ABr%C4%97_. Nesklandumo išvengti galima tokiu pat būdu, kaip ir domeno varde
-(parašytame prieš pasvirąjį brūkšnį). Deja, mažai žmonių apie tai žino, ir vieni iš kitų gauname arba spaudoje matome
-internetinius adresus su koduotais žodžiais.
-
-Atkurti originalų adresą galima įrašius koduotą adresą į naršyklės adresų juostą. Čia jis virs originaliu adresu.
-Belieka jį nukopijuoti aprašytu būdu.
-
-Taip galima ne tik sukurti gražius internetinius adresus, bet ir išsaugoti jų grožį, kuris kartais prarandamas dėl
-internetinės programinės įrangos netobulumų.
-
-* * *
-
-Šio straipsnio originalas
-paskelbtas [„Lietuvos aido“ svetainėje](https://www.aidas.lt/lt/visuomene/article/25345-04-11-grazus-internetiniai-vardai-kaip-issaugoti-ju-grozi).
+[Punycode]: https://en.wikipedia.org/wiki/Punycode "Punycode – Wikipedia – en.wikipedia.org"
+[IDN homograph attack]: https://en.wikipedia.org/wiki/IDN_homograph_attack "IDN homograph attack – Wikipedia – en.wikipedia.org"
+[IRI]: https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier "Internationalized Resource Identifier – Wikipedia – en.wikipedia.org"
+[Gintauto straipsnis]: https://www.aidas.lt/lt/visuomene/article/25345-04-11-grazus-internetiniai-vardai-kaip-issaugoti-ju-grozi "04.11. Gražūs internetiniai vardai. Kaip išsaugoti jų grožį? – Lietuvos aidas – aidas.lt"
