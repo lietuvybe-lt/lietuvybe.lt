@@ -66,4 +66,4 @@ Automatinio taisymo žodynas
 2009–2023 metais veikusioje svetainėje autocorr.akl.lt buvo renkami pasiūlymai automatinio taisymo žodynui (tokio žodyno
 porų pavyzdžiai: _gryžti → grįžti_, _akd → kad_), kurį būtų galima naudoti ir platinti su „LibreOffice“, „OpenOffice“
 ir kitais programų paketais. Dabar ši svetainė išjungta, tačiau tiek joje surinkti pasiūlymai, tiek jos pačios pirminiai
-tekstai patalpinti [„GitHub'e“](https://github.com/rimas-kudelis/autocorr-lt).
+tekstai patalpinti [„Codeberg'e“](https://codeberg.org/rimas/autocorr-lt).
