@@ -99,7 +99,7 @@ aprašymo pavidalas, o visų ženklų kodai išliko tie patys.
 LST 1282 standarto koduotė dar buvo žinoma „Baltic Rim“ vardu.
 Ją projektavo Virginijus Dadurkevičius, Evaldas Kulbokas, Imants Mētra, Edmundas Mišeikis, Algimantas Oškinis, Danielius Ralys.
 
-Apatinė šios koduotės pusė (128-255 pozicijos) atrodo taip:
+Aukštesnioji šios koduotės pusė (128-255 pozicijos) atrodo taip:
 
 <div style="font-size:150%">
 
