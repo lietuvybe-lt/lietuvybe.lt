@@ -32,7 +32,7 @@ Rašymas ekranine klaviatūra
 ---------------------------
 
 Ekraninės klaviatūros „iOS“ ir „iPadOS“ įrenginiuose konfigūruojamos įrenginio nustatymų programos **Nustatymai** (**Settings**)
-skyriaus **Bendri** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyryje **Klaviatūros** (**Keyboards**).
+skyriaus **Bendrieji** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyryje **Klaviatūros** (**Keyboards**).
 
 „iOS“ ir „iPadOS“ įrenginiais galima rašyti lietuviškai, tačiau naudojantis gamykliniu ekraninės klaviatūros išdėstymu tai nepatogu: savitosios lietuviškos raidės jame pasiekiamos tik ilgai palaikius pamatinę raidę (pvz., norint parašyti „Ą“, reikia ilgai palaikyti ekraninės klaviatūros klavišą „A“).
 
