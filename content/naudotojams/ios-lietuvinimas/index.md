@@ -47,7 +47,7 @@ Rašymas fizine klaviatūra
 -------------------------
 
 Norint lietuviškai rašyti prie „iOS“ ar „iPadOS“ įrenginio prijungta fizine klaviatūra, reikia pasirinkti lietuvišką klaviatūros išdėstymą įrenginio nuostatose.
-**Išorinę klaviatūrą prijungę prie įrenginio ar su juo suporavę**, pageidaujamą jos išdėstymą galite pasirinkti programos **Nustatymai** (**Settings**) skyriaus **Bendri** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyryje **Aparatinės įrangos klaviatūra** (**Hardware Keyboard**).
+**Išorinę klaviatūrą prijungę prie įrenginio ar su juo suporavę**, pageidaujamą jos išdėstymą galite pasirinkti programos **Nustatymai** (**Settings**) skyriaus **Bendrieji** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyryje **Aparatinės įrangos klaviatūra** (**Hardware Keyboard**).
 
 „Apple“ įrenginiai gamykliškai išleidžiami tik su vienu lietuvišku fizinės klaviatūros išdėtymu – senąja skaitmenų eilės klaviatūros išdėstymo atmaina, kurioje skaitmenims ir specialiesiems simboliams įvesti naudojamas tęsties klavišas <kbd>`</kbd>.
 Nors į „macOS“ galima nesudėtingai įdiegti papildomus išdėstymus, mūsų žiniomis, nei „iOS“ ir „iPadOS“ tokios galimybės neturi.
