@@ -25,10 +25,10 @@ Rašymas ekranine klaviatūra
 
 {{< figure src="android_anysoftkeyboard.png" caption="„AnySoftKeyboard“ ekraninė klaviatūra su įjungtu lietuvišku išdėstymu" class="alignright w300" >}}
 
-Dauguma „Android“ įrenginių galima rašyti lietuviškai. Deja, neretai tai nepatogu, nes specifinės lietuviškos raidės
-ekraninėse klaviatūrose būna pasiekiamos tik ilgai palaikius pamatinę raidę (pvz., norint parašyti „Ą“, reikia ilgai
-palaikyti ekraninės klaviatūros klavišą „A“). Laimei, „Android“ įrenginiuose galima diegti papildomas ekranines
-klaviatūras.
+Dauguma „Android“ įrenginių galima rašyti lietuviškai. 
+Deja, neretai tai nepatogu, nes specifinės lietuviškos raidės ekraninėse klaviatūrose būna pasiekiamos tik ilgai palaikius pamatinę raidę
+(pvz., norint parašyti „Ą“, reikia ilgai palaikyti ekraninės klaviatūros klavišą „A“).
+Laimei, „Android“ įrenginiuose galima diegti papildomas ekranines klaviatūras.
 
 Jei jūsų telefono gamyklinė ekraninė klaviatūra jūsų netenkina ir norite naudotis patogesne, siūlome
 išbandyti atvirojo kodo [„AnySoftKeyboard“](https://anysoftkeyboard.github.io/) bei jai skirtą
