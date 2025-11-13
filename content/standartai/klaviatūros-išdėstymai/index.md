@@ -55,8 +55,8 @@ dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Ši
 
 Egzistuoja ir ankstesnė skaitmenų eilės išdėstymo atmaina – vadinamasis „Baltic“ išdėstymas, kurio pagrindinis skirtumas
 nuo šiuolaikinių atmainų – tai, kad skaitmenys ir specialieji simboliai įvedami ne pasitelkiant Lyg3 klavišą, bet per
-tęsties („mirusįjį“) klavišą <kbd>\`</kbd>. Tai iki šiol yra vienintelis lietuviškas fizinės klaviatūros išdėstymas,
-pateikiamas su „Apple“ gaminiais.
+tęsties („mirusįjį“) klavišą <kbd>\`</kbd>. Prieš 2025 m. išleidžiant „macOS 26 Tahoe“ tai buvo vienintelis lietuviškas
+fizinės klaviatūros išdėstymas, gamykliškai platintas su „Apple“ gaminiais.
 
 Ankstesni, panaikinti klaviatūros standartai
 --------------------------------------------
