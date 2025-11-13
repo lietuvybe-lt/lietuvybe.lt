@@ -23,9 +23,9 @@ Vienintelis Lietuvoje šiuo metu galiojantis oficialus klaviatūros standartas. 
 trijuose lygiuose. Išsamiau apie šį išdėstymą – [jo svetainėje](http://www.ims.mii.lt/klav/). Joje taip pat rasite
 išdėstymo treniruokles ir keletą kitų gėrybių.
 
-* Išdėstymo tvarkyklės gamykliškai pateikiamos kartu su „Windows“ ir „UNIX“ genties operacinėmis sistemomis;
-* „macOS“ bei kiek kitokias „Windows“ tvarkykles galite parsisiųsti iš
-  [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
+* Išdėstymo tvarkyklės gamykliškai pateikiamos kartu su „Windows“, „macOS“ (pradedant 26 versija) ir „UNIX“ genties operacinėmis sistemomis;
+* „macOS“ bei kiek kitokią „Windows“ tvarkyklę galite parsisiųsti iš [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
+* taip pat „macOS“ tvarkyklę ir jos versiją su galimybe įvesti kirčiuotas raides galite parsisiųsti iš [Rimo Kudelio „Codeberg“ kodo saugyklos](https://codeberg.org/rimas/macos-keyboard-layouts/releases).
 * fizinę klaviatūrą su šiuo išdėstymu šiuo metu galite įsigyti [LISK.lt svetainėje](https://www.lisk.lt/);
 
 Skaitmenų eilės klaviatūros išdėstymas („Numeric“, „Baltic“)
@@ -39,8 +39,7 @@ laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus. Senesniaj
 <kbd>Lyg3</kbd> naudojamas tęsties klavišas <kbd>\`</kbd>. Šis išdėstymas nėra oficialiai standartizuotas, tačiau jo
 pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/standartai/klaviatūros-išdėstymai#rst1092-89-lst1092-89" >}}).
 
-* Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose, o „Apple“
-  gaminiuose jo „Baltic“ variantas apskritai yra vienintelis gamykliškai platinamas lietuviškas klaviatūros išdėstymas.
+* Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose, o „Apple“ gaminiuose jo „Baltic“ variantas apskritai labai ilgą laiką (iki „macOS 26“) buvo vienintelis gamykliškai platinamas lietuviškas klaviatūros išdėstymas.
 * su „Windows“ pateikiamame išdėstyme nenumatytas lietuviškų figūrinių kabučių ir brūkšnio ženklo įvedimas;
 * iš [Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/) galite parsisiųsti „Numeric“ išdėstymo tvarkykles su
   figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
