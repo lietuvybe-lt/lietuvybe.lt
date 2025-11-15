@@ -45,7 +45,7 @@ lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuo
 Šis išdėstymas nėra oficialiai standartizuotas, nors jo kilmę aiškiai galima įžvelgti 1989 m. priimto Lietuvos standarto
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
 
-Egzistuoja skirtingos šio išdėstymo atmainos. Dažniausiai sutinkama atmaina yra pateikiama kaip numatytasis lietuviškos
+Esti skirtingų šio išdėstymo atmainų. Dažniausiai sutinkama atmaina yra pateikiama kaip numatytasis lietuviškos
 klaviatūros išdėstymas su „Windows“ operacinėmis sistemomis. Kiek patobulinta – su „UNIX“ genties operacinėmis
 sistemomis. Pastaroji atmaina papildo su „Windows“ pateikiamą išdėstymą lietuviškomis figūrinėmis kabutėmis, brūkšniu ir
 dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Šio papildyto išdėstymo tvarkykles „Windows“ bei
@@ -53,8 +53,8 @@ dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Ši
 
 ### Skaitmenų eilės išdėstymo senoji atmaina („Baltic“)
 
-Egzistuoja ir ankstesnė skaitmenų eilės išdėstymo atmaina – vadinamasis „Baltic“ išdėstymas, kurio pagrindinis skirtumas
-nuo šiuolaikinių atmainų – tai, kad skaitmenys ir specialieji simboliai įvedami ne pasitelkiant Lyg3 klavišą, bet per
+Ankstesnė skaitmenų eilės išdėstymo atmaina – vadinamasis „Baltic“ išdėstymas, kurio pagrindinis skirtumas nuo
+šiuolaikinių atmainų – tai, kad skaitmenys ir specialieji simboliai įvedami pasitelkiant ne Lyg3 klavišą, bet
 tęsties („mirusįjį“) klavišą <kbd>\`</kbd>. Prieš 2025 m. išleidžiant „macOS 26 Tahoe“ tai buvo vienintelis lietuviškas
 fizinės klaviatūros išdėstymas, gamykliškai platintas su „Apple“ gaminiais.
 
