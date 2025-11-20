@@ -37,23 +37,22 @@ Skaitmenų eilės klaviatūros išdėstymas
 Populiariausias lietuviškas klaviatūros išdėstymas, kurio pagrindu tapo [1989 m. Lietuvos standarto rekomenduojamas priedas]({{< relref "/standartai/klaviatūros-išdėstymai#rst1092-89-lst1092-89" >}}).
 Savitosios lietuviškos raidės jame abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose.
 Skaitmenys įvedami laikant nuspaustą <kbd>Lyg3</kbd> klavišą, o specialieji ženklai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus.
-Ankstesnėje šio išdėstymo atmainoje (kartais dar vadinamoje „Baltic“ vardu) skaitmenys ir skyrybos bei specialieji ženklai įvedami pasitelkiant ne <kbd>Lyg3</kbd> klavišą, bet tęsties („mirusįjį“) klavišą <kbd>\`</kbd>.
 
 * Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose;
 * su „Windows“ pateikiamame išdėstyme nenumatytas lietuviškų figūrinių kabučių ir brūkšnio ženklo įvedimas;
-* „Apple“ įrenginių operacinėse sistemose, kurių versijos numeris žemesnis nei 26, pateikiamas tik senasis šio išdėstymo variantas, kuriame vietoj <kbd>Lyg3</kbd> naudojamas tęsties klavišas <kbd>\`</kbd>, nėra lietuviškų kabučių ir brūkšnio;
+* „Apple“ įrenginių operacinėse sistemose, kurių versijos numeris žemesnis nei 26, pateikiamas tik senasis šio išdėstymo variantas (kartais dar vadinamas „Baltic“ vardu), kuriame ne tik nėra lietuviškų kabučių ir brūkšnio, bet ir sudėtingesnis skaitmenų, skyrybos bei specialiųjų ženklų įvedimas: tam pasitekliamas ne <kbd>Lyg3</kbd> klavišas, bet tęsties („mirusysis“) klavišas <kbd>\`</kbd>;
 * iš [Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/) galite parsisiųsti šio išdėstymo tvarkykles su figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
 * kiek kitaip „Windows“ išdėstymą [yra papildžiusi „Fotonija“](<Fotonijos išdėstymai.zip>) (rinkinyje jis pavadintas
   „LT Numeric“);
 * ilgametis „Fotonijos“ darbuotojas V. Dadurkevičius yra parengęs ir
-  [„macOS“ skirtą „Numeric“ išdėstymą](https://clarin.vdu.lt/xmlui/handle/20.500.11821/45), kuriuo galima įvesti ne tik 
+  [„macOS“ skirtą išdėstymą](https://clarin.vdu.lt/xmlui/handle/20.500.11821/45), kuriuo galima įvesti ne tik 
   įprastines lietuviškas, bet ir kirčiuotas, o taip pat daugybės kitų kalbų raides;
 * „macOS“ skirtą išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][1]. Šis išdėstymas papildytas
   daugybe rečiau reikalingų ženklų ir funkcijų, tačiau pateikiamas su klaida – mažosios kirčiuotos raidės „i“, „į“ ir
   „j“ juo įvedamos neteisingai (klaidingomis unikodo sekomis), tad šis išdėstymas nelaikytinas visiškai tinkamu
   lietuviškoms kirčiuotoms raidėms rinkti;
 * LEKP projekto autoriai irgi yra sukūrę savą skaitmenų eilės išdėstymo atmainą, kurią pavadino
-  [„Baltic+“](https://lekp.info/Išdėstymai). Bene didžiausias jos skirtumas nuo įprasto „Numeric“ išdėstymo – tai
+  [„Baltic+“](https://lekp.info/Išdėstymai). Bene svarbiausias jos skirtumas nuo įprastinės – tai
   didžiųjų raidžių klavišo funkcijos pakeitimas, kad jis šalintų tekstą kairėn. Šio išdėstymo tvarkykles „Windows“ ir
   „macOS“ sistemoms galite parsisiųsti iš [LEKP svetainės](https://lekp.info/Tvarkyklės);
 
