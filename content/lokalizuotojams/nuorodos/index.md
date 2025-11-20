@@ -11,8 +11,7 @@ menu:
         parent: Lokalizuotojams
 ---
 
-* [„Translate House“ atviroji lokalizavimo programinė įranga](http://translatehouse.org/)
-* Tos pačios komandos parašytas [lokalizavimo vadovas](https://docs.translatehouse.org/projects/localization-guide/en/latest/)
+* [„Translate House“](http://translatehouse.org/) – Pietų Afrikoje įsikūrusi organizacija, kurianti atviro kodo įrankius, [dokumentaciją bei išteklius](https://docs.translatehouse.org/projects/localization-guide/en/latest/) lokalizuotojams.
 
 Literatūra
 ----------
@@ -27,7 +26,7 @@ Literatūra
   ir [arabų](<FOSS l10n guide - 20110214-ar.pdf>) kalbomis PDF formatu, pagal laisvą licenciją (CC-BY-NC-SA).
 * Manfred Rätzmann, Clinton De
   Young. [Software Testing and Internationalization](<Software Testing and Internationalization (2003).pdf>). Lemoine
-  International, 2003. Ši knyga yra apie programinės įrangos testavimą, tačiau ji ypatinga tuo, jog lokalizacijos
+  International, 2003. Ši knyga yra apie programinės įrangos testavimą, o čia ji minima dėl to, jog lokalizacijos
   testavimui joje skirtas atskiras (šeštasis) skyrius.
 
 Nuorodų archyvas

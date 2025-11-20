@@ -11,10 +11,6 @@ menu:
 
 Čia rasite nuorodų į įvairius išteklius, susijusius su informacinių technologijų lietuvinimu ir lietuvybe jose.
 
-* [Raštija.lt](https://raštija.lt) – integruotų lietuvių kalbos ir raštijos išteklių informacinė sistema, valdoma Vilniaus universiteto. Čia pateikiami įvairių Lietuvos mokslo institucijų su kalba vykdytų projektų rezultatai, galima vykdyti paiešką įvairiuose žodynuose.
-* [E. kalba](https://ekalba.lt/) – lietuvių kalbos išteklių informacinė sistema. Joje galima naudotis keliolika žodynų, kartotekų, duomenų bazių ir pan.
-* [Lietuvos Respublikos terminų bankas (LRTB)](https://terminai.vlkk.lt) – viešai prieinama valstybės informacinė sistema, kurioje pateikiami aprobuoti, teiktini lietuvių kalbos terminai.
-* Sulietuvintų pasaulio vietovardžių žodynas: [MELC versija](https://vietovardziai.melc.lt), [VLKK versija](https://pasaulio-vardai.vlkk.lt/).
 * [Lietuvių kalbos problemos kompiuteriuose](http://ims.mii.lt/kalba/) – MII Informatikos metodologijos skyriaus
   darbuotojų straipsniai spaudoje.
 * [„Locale Emulator“](https://xupefei.github.io/Locale-Emulator/) – nedidelė programėlė, padedanti paleisti
