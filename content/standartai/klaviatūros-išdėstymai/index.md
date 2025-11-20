@@ -38,25 +38,14 @@ Skaitmenų eilės klaviatūros išdėstymas
 
 ![Skaitmenų eilės išdėstymo schema](skaitmenų_eilės_klaviatūra.png)
 
-Tai – populiariausias lietuviškas išdėstymas, paplitęs dar devintajame praėjusiojo amžiaus dešimtmetyje. Jame savitosios
-lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą
-<kbd>Lyg3</kbd> klavišą, o specialieji simboliai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus.
+Tai – populiariausias lietuviškas klaviatūros išdėstymas, paplitęs dar devintajame praėjusiojo amžiaus dešimtmetyje.
+Jame savitosios lietuviškos raidės abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose.
+Skaitmenys įvedami laikant nuspaustą <kbd>Lyg3</kbd> klavišą, o kai kurie skyrybos ir specialieji ženklai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus.
 
 Šis išdėstymas nėra oficialiai standartizuotas, nors jo kilmę aiškiai galima įžvelgti 1989 m. priimto Lietuvos standarto
 RST 1092-89, aprašyto žemiau, priede (2000 m. šis standartas panaikintas, priėmus LST 1582).
 
-Esti skirtingų šio išdėstymo atmainų. Dažniausiai sutinkama atmaina yra pateikiama kaip numatytasis lietuviškos
-klaviatūros išdėstymas su „Windows“ operacinėmis sistemomis. Kiek patobulinta – su „UNIX“ genties operacinėmis
-sistemomis. Pastaroji atmaina papildo su „Windows“ pateikiamą išdėstymą lietuviškomis figūrinėmis kabutėmis, brūkšniu ir
-dešininio kirčio ženklu. Būtent jos atvaizdas ir pateikiamas aukščiau. Šio papildyto išdėstymo tvarkykles „Windows“ bei
-„macOS“ sistemoms galima [parsisiųsti iš Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/).
-
-### Skaitmenų eilės išdėstymo senoji atmaina („Baltic“)
-
-Ankstesnė skaitmenų eilės išdėstymo atmaina – vadinamasis „Baltic“ išdėstymas, kurio pagrindinis skirtumas nuo
-šiuolaikinių atmainų – tai, kad skaitmenys ir specialieji simboliai įvedami pasitelkiant ne Lyg3 klavišą, bet
-tęsties („mirusįjį“) klavišą <kbd>\`</kbd>. Prieš 2025 m. išleidžiant „macOS 26 Tahoe“ tai buvo vienintelis lietuviškas
-fizinės klaviatūros išdėstymas, gamykliškai platintas su „Apple“ gaminiais.
+Išsamesnė informacija apie šį išdėstymą, jo atmainas ir tvarkykles pateikiama svetainės skyrelio „Naudotojams“ poskyryje [„Lietuviški klaviatūros išdėstymai“]({{< relref "/naudotojams/klaviatūros#skaitmenų-eilės-klaviatūros-išdėstymas" >}}).
 
 Ankstesni, panaikinti klaviatūros standartai
 --------------------------------------------

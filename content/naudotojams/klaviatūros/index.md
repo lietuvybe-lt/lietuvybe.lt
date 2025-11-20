@@ -19,40 +19,40 @@ LST 1582 (lietuviška standartinė klaviatūra)
 
 ![Standartinės klaviatūros išdėstymo schema](LST_1582_klaviatūra.png)
 
-Vienintelis Lietuvoje šiuo metu galiojantis oficialus klaviatūros standartas. Visi reikalingi simboliai išdėstyti
-trijuose lygiuose. Išsamiau apie šį išdėstymą – [jo svetainėje](http://www.ims.mii.lt/klav/). Joje taip pat rasite
-išdėstymo treniruokles ir keletą kitų gėrybių.
+Vienintelis Lietuvoje šiuo metu oficialiai galiojantis klaviatūros išdėstymo standartas.
+Visi reikalingi ženklai išdėstyti trijuose lygiuose.
+Išsamiau apie šį išdėstymą – [jo svetainėje](http://www.ims.mii.lt/klav/).
+Joje taip pat rasite išdėstymo treniruokles ir keletą kitų gėrybių.
 
 * Išdėstymo tvarkyklės gamykliškai pateikiamos kartu su „Windows“, „macOS“ (pradedant 26 versija) ir „UNIX“ genties operacinėmis sistemomis;
-* „macOS“ bei kiek kitokią „Windows“ tvarkyklę galite parsisiųsti iš [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
+* alternatyvias „macOS“ ir „Windows“ tvarkykles galite parsisiųsti iš [išdėstymo svetainės](http://www.ims.mii.lt/klav/tvarkyk.html);
 * taip pat „macOS“ tvarkyklę ir jos versiją su galimybe įvesti kirčiuotas raides galite parsisiųsti iš [Rimo Kudelio „Codeberg“ kodo saugyklos](https://codeberg.org/rimas/macos-keyboard-layouts/releases).
 * fizinę klaviatūrą su šiuo išdėstymu šiuo metu galite įsigyti [LISK.lt svetainėje](https://www.lisk.lt/);
 
-Skaitmenų eilės klaviatūros išdėstymas („Numeric“, „Baltic“)
-------------------------------------------------------------
+Skaitmenų eilės klaviatūros išdėstymas
+--------------------------------------
 
 ![Skaitmenų eilės išdėstymo schema](skaitmenų_eilės_klaviatūra.png)
 
-Populiariausias lietuviškas išdėstymas, kartais vadinamas „Numeric“. Jame specifinės lietuviškos raidės abėcėlės tvarka
-išdėstytos skaitmenų eilės klavišuose. Skaitmenys įvedami laikant nuspaustą <kbd>Lyg3</kbd> klavišą, o spec. simboliai –
-laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus. Senesniajame „Baltic“ variante vietoj
-<kbd>Lyg3</kbd> naudojamas tęsties klavišas <kbd>\`</kbd>. Šis išdėstymas nėra oficialiai standartizuotas, tačiau jo
-pagrindu tapo [seno Lietuvos standarto rekomenduojamas priedas]({{< relref "/standartai/klaviatūros-išdėstymai#rst1092-89-lst1092-89" >}}).
+Populiariausias lietuviškas klaviatūros išdėstymas, kurio pagrindu tapo [1989 m. Lietuvos standarto rekomenduojamas priedas]({{< relref "/standartai/klaviatūros-išdėstymai#rst1092-89-lst1092-89" >}}).
+Savitosios lietuviškos raidės jame abėcėlės tvarka išdėstytos skaitmenų eilės klavišuose.
+Skaitmenys įvedami laikant nuspaustą <kbd>Lyg3</kbd> klavišą, o specialieji ženklai – laikant kartu nuspaustus <kbd>Lyg2</kbd> ir <kbd>Lyg3</kbd> klavišus.
+Ankstesnėje šio išdėstymo atmainoje (kartais dar vadinamoje „Baltic“ vardu) skaitmenys ir skyrybos bei specialieji ženklai įvedami pasitelkiant ne <kbd>Lyg3</kbd> klavišą, bet tęsties („mirusįjį“) klavišą <kbd>\`</kbd>.
 
-* Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose, o „Apple“ gaminiuose jo „Baltic“ variantas apskritai labai ilgą laiką (iki „macOS 26“) buvo vienintelis gamykliškai platinamas lietuviškas klaviatūros išdėstymas.
+* Šis išdėstymas pateikiamas gamykliškai ir yra numatytasis lietuvių kalbai kone visose operacinėse sistemose;
 * su „Windows“ pateikiamame išdėstyme nenumatytas lietuviškų figūrinių kabučių ir brūkšnio ženklo įvedimas;
-* iš [Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/) galite parsisiųsti „Numeric“ išdėstymo tvarkykles su
-  figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
+* „Apple“ įrenginių operacinėse sistemose, kurių versijos numeris žemesnis nei 26, pateikiamas tik senasis šio išdėstymo variantas, kuriame vietoj <kbd>Lyg3</kbd> naudojamas tęsties klavišas <kbd>\`</kbd>, nėra lietuviškų kabučių ir brūkšnio;
+* iš [Rimo Kudelio svetainės](https://rimas.kudelis.lt/numeric/) galite parsisiųsti šio išdėstymo tvarkykles su figūrinėmis kabutėmis ir brūkšniu „Windows“ ir „macOS“ sistemoms;
 * kiek kitaip „Windows“ išdėstymą [yra papildžiusi „Fotonija“](<Fotonijos išdėstymai.zip>) (rinkinyje jis pavadintas
   „LT Numeric“);
 * ilgametis „Fotonijos“ darbuotojas V. Dadurkevičius yra parengęs ir
   [„macOS“ skirtą „Numeric“ išdėstymą](https://clarin.vdu.lt/xmlui/handle/20.500.11821/45), kuriuo galima įvesti ne tik 
   įprastines lietuviškas, bet ir kirčiuotas, o taip pat daugybės kitų kalbų raides;
-* „Numeric“ tipo „macOS“ išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][1]. Šis išdėstymas papildytas
+* „macOS“ skirtą išdėstymą taip pat galite parsisisiųsti iš [Ramūno Blavaščiūno][1]. Šis išdėstymas papildytas
   daugybe rečiau reikalingų ženklų ir funkcijų, tačiau pateikiamas su klaida – mažosios kirčiuotos raidės „i“, „į“ ir
-  „j“ raidės juo įvedamos neteisingai (klaidingomis unikodo sekomis), tad šis išdėstymas nelaikytinas visiškai tinkamu
+  „j“ juo įvedamos neteisingai (klaidingomis unikodo sekomis), tad šis išdėstymas nelaikytinas visiškai tinkamu
   lietuviškoms kirčiuotoms raidėms rinkti;
-* LEKP projekto autoriai irgi yra sukūrę „Numeric“ išdėstymo atmainą, kurią pavadino
+* LEKP projekto autoriai irgi yra sukūrę savą skaitmenų eilės išdėstymo atmainą, kurią pavadino
   [„Baltic+“](https://lekp.info/Išdėstymai). Bene didžiausias jos skirtumas nuo įprasto „Numeric“ išdėstymo – tai
   didžiųjų raidžių klavišo funkcijos pakeitimas, kad jis šalintų tekstą kairėn. Šio išdėstymo tvarkykles „Windows“ ir
   „macOS“ sistemoms galite parsisiųsti iš [LEKP svetainės](https://lekp.info/Tvarkyklės);
@@ -154,7 +154,7 @@ nepatogu, nes savitosios lietuviškos raidės būna „paslėptos“ po pamatin�
 galima diegti papildomas ekranines klaviatūras ir išdėstymus, o „Android“ įrenginiuose – dar ir papildomus fizinės
 klaviatūros išdėstymus. Plačiau apie tai – skyreliuose
 [„Android“ lietuvinimas“]({{< relref "/naudotojams/android-lietuvinimas" >}})
-ir [„iOS“ lietuvinimas“]({{< relref "/naudotojams/ios-lietuvinimas" >}}).
+bei [„iPhone“ ir „iPad“ lietuvinimas“]({{< relref "/naudotojams/ios-lietuvinimas" >}}).
 
 Pastabos ir nuorodos
 --------------------

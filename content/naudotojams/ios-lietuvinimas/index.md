@@ -49,8 +49,10 @@ Rašymas fizine klaviatūra
 Norint lietuviškai rašyti prie „iOS“ ar „iPadOS“ įrenginio prijungta fizine klaviatūra, reikia pasirinkti lietuvišką klaviatūros išdėstymą įrenginio nuostatose.
 **Išorinę klaviatūrą prijungę prie įrenginio ar su juo suporavę**, pageidaujamą jos išdėstymą galite pasirinkti programos **Nustatymai** (**Settings**) skyriaus **Bendrieji** (**General**) poskyrio **Klaviatūra** (**Keyboard**) poskyryje **Aparatinės įrangos klaviatūra** (**Hardware Keyboard**).
 
-„Apple“ įrenginiai gamykliškai išleidžiami tik su vienu lietuvišku fizinės klaviatūros išdėtymu – senąja skaitmenų eilės klaviatūros išdėstymo atmaina, kurioje skaitmenims ir specialiesiems simboliams įvesti naudojamas tęsties klavišas <kbd>`</kbd>.
-Nors į „macOS“ galima nesudėtingai įdiegti papildomus išdėstymus, mūsų žiniomis, nei „iOS“ ir „iPadOS“ tokios galimybės neturi.
+Iki 18-osios versijos „iOS“ ir „iPadOS“ sistemos leistos tik su vienu lietuvišku fizinės klaviatūros išdėtymu – senąja skaitmenų eilės klaviatūros išdėstymo atmaina, kurioje skaitmenims ir specialiesiems simboliams įvesti naudojamas tęsties klavišas <kbd>`</kbd>.
+26-ojoje versijoje šis išdėstymas pakeistas daugeliui labiau įprasta jo versija, kurioje šiam tikslui pasitelkiamas <kbd>Option</kbd> klavišas.
+
+Nors į „macOS“ galima nesudėtingai įdiegti papildomus fizinės klaviatūros išdėstymus, mūsų žiniomis, nei „iOS“ ir „iPadOS“ tokios galimybės neturi.
 
 [ios-atnaujinimas]: https://support.apple.com/lt-lt/118575 "Atnaujinkite savo „iPhone“ arba „iPad“ įrenginį – „Apple“ palaikymas – apple.com"
 [ios-kalbos-keitimas-lt]: https://support.apple.com/lt-lt/109358 "Kalbos keitimas „iPhone“ arba „iPad“ – „Apple“ palaikymas – apple.com"
